@@ -1,0 +1,75 @@
+# skenas = 0033
+# busena = ok
+# eScriptorium = dok. 3, 0033 baigta [segGT]
+l1	row	filius Joseph 13~~6~~
+l2	row	filia Monica 15.
+l3	row	II Angela
+l4	shared	4.
+l5	scribe-mistake	III. Barbar
+l6	row	b) Casimirus Szalkowski 43
+l7	row	ux. Anastasia 33
+l8	row	filius Franciscus 21.
+l9	row	II. Joannes 12.
+l10	row	III. Casimirus 9.
+l11	row	filiae Anastasia 17.
+l12	row	II. Anna 14.
+l13	row	Fabriferraria Casimirus Andry-
+l14	wrapped	Kajtis 70
+l15	row	ux. Eleonora 68.
+l16	row	filia Eleonora 27.
+l17	row	Taberna-mola:
+l18	row	Marcianus Gałkus 40.
+l19	row	ux. Anna 37.
+l20	row	filia Juliana 9
+l21	row	Jankuny.
+l22	row	1. Kałpy: Gasper Czekanowski 34.
+l23	row	ux. Rosalia 29
+l24	row	fil Constantia 8
+l25	row	II. Anna 3
+l26	row	III. Alexandra 1
+l27	row	Barbara Szydłowska vd. 50
+l28	row	filius Joseph 25.
+l29	row	c) Franciscus Praniulis 37.
+l30	row	uxor Barbara 37.
+l31	row	filia Helena 8
+l32	row	II. Francisca 3.
+l33	row	III. Susanna 2.
+l34	row	Elisabeth Urbonas vd. 80.
+l35	page-number	31
+l36	row	d. Casimirus Wasilewski 25.
+l37	row	ux. Anna 23.
+l38	struck	~~fil~~
+l39	row	f) Joseph Savicki 38.
+l40	row	ux. Helena 30.
+l41	row	filius Joseph 7.
+l42	row	II. Bronislaus 4
+l43	row	filiae Jodvigis 2
+l44	row	e) Georgius ~~Stan~~ Janulis 38.
+l45	row	ux Malvina 24.
+l46	row	filius Juljanus ~~Ca~~ 3
+l47	row	II. Casimirus 1.
+l48	row	2.
+l49	row	Joannes Poljanski 50.
+l50	row	ux. Elisabeth 42.
+l51	row	filia Paulina 18.
+l52	row	b) Joseph Puczynski 50.
+l53	row	ux. Magdalena 40.
+l54	row	filius Joseph 6
+l55	row	filiae Martha 10.
+l56	scribe-mistake	II Genvefa 3.
+l57	row	c) Casimirus Gasperajtis 32.
+l58	row	ux. Constantia 30.
+l59	row	filius Casimirus 4
+l60	row	filia Elisabeth 1
+l61	row	d) Casimirus Tautkus 39.
+l62	row	ux. Helena 25.
+l63	row	filia Elisabeth 1.
+l64	row	Eleonora Szydłowska 58.
+l65	row	Franciscus Szydłowski 3.
+l66	row	3 Ladislaus Palinowski 56
+l67	row	ux. Eleonora 46.
+l68	row	filius Stanislaus 18
+l69	row	II. Casimirus 15.
+l70	row	III. Leo 12
+l71	row	filia Amelia 8.
+l72	row	II. Isabella 6.

@@ -1,0 +1,64 @@
+# skenas = 0051
+# busena = ok
+# eScriptorium = dok. 3, 0051 baigta [segGT]
+l1	row	1. 30. Dec. Juliana Adomajtiis - 60an
+l2	row	filius Joannes - 25an
+l3	row	Anna - 20an
+l4	row	famula Juliana Janticze - 13an
+l5	row	młynarz- Joannes Romaszevski 29an
+l6	row	ux Apalonia - 23an
+l7	row	Repiszkis:
+l8	row	1) Casimirus Vipartas - 35an
+l9	row	ux. Juliana - 28an
+l10	row	filius - Joannes - 1an
+l11	row	Juliana - 2an
+l12	row	patres. Casimirus Vip - 60an
+l13	row	ux. Elisabeth - 67an
+l14	row	famulus Joannes Balkivias - 12an
+l15	row	2.) Franciscus Tamaszunas 33an
+l16	row	ux. Anna - 27an
+l17	row	filia - Adelia - 5an
+l18	row	Veronica - 2an
+l19	row	3.- Vincentius Munigis - 60an
+l20	row	ux. Anna - 60an
+l21	row	filius Franciscus Stanevicz 20an
+l22	row	Marianna - 18an
+l23	row	Malvina - 13an
+l24	row	4. Franciscus Kernagis - 25an
+l25	row	ux. Anna - 20an
+l26	row	patres Josephus Butkus - 60an
+l27	row	ux. Catherina - 60an
+l28	row	filius Josephus - 26an
+l29	row	Barbara - 14an
+l30	row	Juszkajczei
+l31	row	1)- Josephus Jarulis - 38an
+l32	row	ux Eleonora - 30an
+l33	row	filius Joannes - 6an
+l34	row	Julianus - 3an
+l35	row	soror Amelia Urbonicze - 20an
+l36	row	Josephus - 1an
+l37	row	2) Marcianus Gargiunas - 60an
+l38	row	filia Magdalena Barauckienie 23an
+l39	row	filia Anna - 1an
+l40	row	Antonius Sargiunis - 10an
+l41	row	hab)- Petrus Adomajtis - 40an
+l42	row	ux Helena - 40an
+l43	row	filius - Clemens - 13an
+l44	row	Ignatius - 6an
+l45	row	Helena - 8an
+l46	row	Casimirus - 4an
+l47	row	Franciscus - 1an
+l48	row	3.-) Josephus Matioszajtis - 60an
+l49	row	ux. Ursula - 80an
+l50	row	hab) Clemens Udrakis - 29an
+l51	row	ux Brigitta - 20an
+l52	row	4.) herus Josephus Dargużis - 60an
+l53	row	ux. Helena - 40an
+l54	row	filius Alexander - 23an
+l55	row	Stanislaus - 10an
+l56	row	Agnes - 13an
+l57	row	famulus Casimirus Navickas - 60an
+l58	row	Marianna Pranckicze 23an
+l59	row	Anna Slovikicze - 16an
+l60	row	Eloisia Dunski - 12an
+l61	row	mater Helena Prankanczienie 65an

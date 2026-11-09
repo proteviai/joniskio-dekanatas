@@ -1,0 +1,58 @@
+# skenas = 0120
+# busena = mach
+# eScriptorium = dok. 3, 0120 klausimai [segReady seg8a]
+l1	row	5 Dominicus Pocius 36an
+l2	row	ux Anna 38an
+l3	row	filius Alexander 5an
+l4	row	Josephus 7an
+l5	row	Julianus 4an
+l6	row	Helena 13an
+l7	row	6 Casimirus Gincus 29an
+l8	row	ux Marianna 24an
+l9	row	filia Juliana 2an
+l10	row	Zuzanna 1an
+l11	row	a Alexander Geklinski 50an
+l12	row	ux Helena 50an
+l13	row	filius Casimirus 21an
+l14	row	? Josephus 11an
+l15	row	Julianus 3an
+l16	row	Anna 17an
+l17	row	7 Ludovicus Rudis 84an
+l18	row	ux Elisabeth 45an
+l19	row	filius Josephus 24an
+l20	row	a) Josephus Szukus 80an
+l21	row	ux Helena 48an
+l22	row	filius Alexander 23an
+l23	row	Josephus 26an
+l24	row	Marcianus 8an
+l25	row	Amelia 15an
+l26	row	Marianna 12an
+l27	page-number	118
+l28	row	Katilinkis?
+l29	row	1 Joannes Jackus 48an
+l30	row	ux Barbara 38an
+l31	row	filius Antonius 11an
+l32	row	Alexander 1an
+l33	row	Seror? Barbara Bujvidicze 35an
+l34	row	a) Ignatius Szvarens 29an
+l35	row	2 Casimirus Jasutis 58an
+l36	row	ux Monica 50an
+l37	row	filius Alexander 25an
+l38	row	Clemens 19an
+l39	row	Antonius 14an
+l40	row	Amelia 16an
+l41	row	Euphemia 7an
+l42	row	a Ignatius Jasutis 40an
+l43	row	3 Alexander Kelpszas 45an
+l44	row	ux Marianna 40an
+l45	row	filius Adamus 10an
+l46	row	Anna 8an
+l47	row	Marianna 1an
+l48	row	mater Eleonora Jonulienie 60an
+l49	row	a) Antonius Zakauskis 36an
+l50	row	Bruzaj?
+l51	row	1 Thadeus Czeputis 58an
+l52	row	ux Helena 30an
+l53	row	fius Julianus 2an
+l54	row	Juliana 10an
+l55	row	Anna 8an

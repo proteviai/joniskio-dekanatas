@@ -1,0 +1,74 @@
+# skenas = 0027
+# busena = ok
+# eScriptorium = dok. 2, 
+l1	row	Bilzy.
+l2	row	1. Casimirus Wajtiekunas 37.
+l3	row	ux. Juljana 32.
+l4	row	2. Franciscus Balcewicz 35
+l5	row	ux. Ursula - 28.
+l6	row	filius Alexander 7.
+l7	row	II. Casimirus - 6.
+l8	row	filia Heva - 2
+l9	row	6) Franciscus Balaks - 58.
+l10	row	ux. Agnes - 50
+l11	row	3 Marcianus Gasperajtis 33.
+l12	row	ux. Isabella - 29.
+l13	row	filius Juljanus - 7.
+l14	row	filia Victoria - 4
+l15	row	4 Joseph Baltokas 76.
+l16	row	ux. Agnes - 69.
+l17	row	5 Georgius Kanape 51.
+l18	row	ux. Agnes - 49.
+l19	row	filia Barbara 15.
+l20	row	6 Josep	h Kanape - 50,
+l21	row	ux. Anna 50.
+l22	row	filius Casimirus 17.
+l23	row	II. Joannes 15.
+l24	row	7 Marcianus Jęnczewski 46.
+l25	row	ux. Elisabeth - 33,
+l26	row	filiae Elisabeh 15.
+l27	row	II. Joanna - 9.
+l28	row	III. Helena - 3.
+l29	row	8. Franciscus Wajtiekunas 38
+l30	row	ux. Barbara - 34.
+l31	row	filius Juljanus - 3.
+l32	row	II. Stanislaus - 2.
+l33	row	filia Antonina - 9.
+l34	row	II. Juljanna - 6.
+l35	page-number	25
+l36	row	9. Joannes Kwederas 60.
+l37	row	ux. Anna - 50.
+l38	row	Clemens Rymdżius 29.
+l39	row	ux. Marianna 25.
+l40	row	10. Herus Joannes Wojtiekun 42
+l41	row	ux. Marianna - 40.
+l42	row	Casimirus Tołkus - 1.
+l43	row	Soror Helena - 13.
+l44	row	II. Bronisloa - 11.
+l45	row	III. Alexandra - 4.
+l46	row	IV. Anna - 3.
+l47	row	Joseph Tolkus vd. 95
+l48	row	ux. Agnes - 67
+l49	row	Franciscus Wajtiekun 20.
+l50	row	Joseph Kanape - 55.
+l51	row	Casimirus Bałakas 10.
+l52	row	Marianna Romanewska 20.
+l53	row	11 Herus Casimirus Wajtiekun 60
+l54	row	ux. Anna - 54.
+l55	row	filius Joseph - 29.
+l56	row	II. Joannes - 20.
+l57	row	filia Elisabeth 22.
+l58	row	Franciscus Kanape 13.
+l59	row	Helena Rymdżius 21.
+l60	row	12 Herus Marcianus Danta - 41.
+l61	row	ux. Barbara - 30.
+l62	row	filius Julianus - 6.
+l63	row	II. Marcianus 1.
+l64	row	filia Antonina 11.
+l65	row	II. Jodwigis - 7.
+l66	row	Anna Danta vd. 89.
+l67	row	Benedictus Gontowt 21.
+l68	row	Alexander Bijejkis - 19.
+l69	row	Anna Nowicka 10.
+l70	row	Ursula Bidżiupajtis 20.
+l71	row	Marianna Pukowzka 16.

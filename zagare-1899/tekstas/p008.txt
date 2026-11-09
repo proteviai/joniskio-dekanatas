@@ -1,0 +1,68 @@
+# skenas = 0008
+# busena = ok
+# eScriptorium = dok. 2, 
+l1	row	37. Herus Antonius Bożius - 30an
+l2	row	ux. Magdalena - 28an
+l3	row	filius Alexander - 3an
+l4	row	— Stanislaus - 1an
+l5	row	Mater Helena - 60an
+l6	row	filia Eleonora - 15an
+l7	row	famulus Alexander Tautcus - 17-
+l8	row	— Anna Kudulis - 20an
+l9	row	38.- herus - Thadeus Vajtiecunas - 60an
+l10	row	uxor - Barbara - 57an
+l11	row	filius Franciscus - 21an
+l12	row	— Antonius - 19an
+l13	row	— Juliana - 12an
+l14	row	famula -Helena Doviltis - 20an
+l15	row	famulus - Casimirus Balczunas - 20an
+l16	row	— Josephus Petkus - 18an
+l17	row	habet a) Alexander Strockis - 30an
+l18	row	ux. Apolonia - 23an
+l19	row	39.) Decam - Stanislaus Strockis - 60an
+l20	row	— Anna - 50an
+l21	row	filius Stanislaus - 25an
+l22	row	— Marianna - 20an
+l23	row	— Helena - 13an
+l24	row	filius Casimirus Jodris - 27an
+l25	row	— Anna Urbonas - 22an
+l26	row	40.- Joannes Kilczevski - 60an
+l27	row	ux. Marta - 50an
+l28	row	filius - Josephatus Norcunas - 23
+l29	row	— Casimirus - 9an
+l30	row	— Alexander - 7an
+l31	row	Soror Helena Baltruszajtis 80an
+l32	row	41. Alexander Ginkus - 30an
+l33	row	ux. Zuzanna 23an
+l34	row	filius Josephus - 6
+l35	row	— Alexander - 3an
+l36	row	— Amelia - 2
+l37	page-number	6
+l38	row	mater Anastasia - 70an
+l39	row	Ramoszkej
+l40	row	1) Vincentius Marcinkus - 71.
+l41	row	ux. Helena - 33an
+l42	row	filius Josephus - 15
+l43	row	— Anna - 17
+l44	row	— Juliana - 1 an
+l45	row	2) Dominicus Jasutis - 53-
+l46	row	ux. Barbara - 50an
+l47	row	filius Casimirus - 8an
+l48	row	— Antonius
+l49	row	— Barbara - 18 -
+l50	row	— Juliana - 14 an
+l51	row	a) hab. - Dominicus Vajtiekajtis - 27an
+l52	row	ux. Juliana - 26 -
+l53	row	filius Leo - 2 an
+l54	row	— Amelia - 4 an
+l55	row	3. Thadeus Szutkus - 43an
+l56	row	ux. Magdalena - 33an
+l57	row	filius Franciscus - 8 -
+l58	row	— Antonius - 6
+l59	row	— Isidorus - 3.
+l60	row	— Marianna - 9
+l61	row	— Zuzanna - 2
+l62	row	4.) Antonius Kriscziunas - 80an
+l63	row	ux. - Anna - 60an
+l64	row	filius - Antonius - 30an
+l65	row	— Barbara - 28an

@@ -1,0 +1,79 @@
+# skenas = 0028
+# busena = ok
+# eScriptorium = dok. 2, 
+l1	row	13. Herus Paulus Bałtokas 46
+l2	row	ux. Barbara - 43.
+l3	row	Sem.
+l4	row	filiae Amelia 18.
+l5	row	II. Juljanna - 17
+l6	row	III. Barbara - 12.
+l7	row	IV. Benedicta 8.
+l8	row	V. Anna 3.
+l9	row	14 Sem her Thaddeus Baltokas 40
+l10	row	ux. Helena 40.
+l11	row	filius Thaddeus 19.
+l12	row	II. Felicianus 14.
+l13	row	filia Barbara - 20.
+l14	row	II. Susanna - 12.
+l15	row	III. Josephata 6.
+l16	row	15 Herus Vincentius Pawłowski 60
+l17	row	ux. Magdalena - 54
+l18	row	filius Leo - 25.
+l19	row	II. Felix 19.
+l20	row	III. Longinus 9.
+l21	row	filiae Birgitta 26
+l22	row	II. Apolonia 22.
+l23	row	III. Juljanna - 20.
+l24	row	IV. Angela - 6.
+l25	row	Juljanus Gontowt 16.
+l26	row	16 Herus Casimirus Bolcewicz - 42.
+l27	row	ux. Monica 26.
+l28	row	filius Joseph 2.
+l29	row	II. Ludovica 1
+l30	row	III Helena 3.
+l31	row	Joseph Bolcewicz vd 72.
+l32	row	Joannes Diokas 25.
+l33	row	Franciscus Diokas 15
+l34	row	Birgitta Jankunas 30.
+l35	row	Juljanna Laucius 18.
+l36	row	Casimira Tomaszewska 13
+l37	row	Eleonora Jankunas 60
+l38	page-number	26
+l39	row	17. Joseph Gasperajtis 38
+l40	row	ux. Juljanna 30
+l41	row	Herus
+l42	row	filius Joseph - 5.
+l43	row	filiae Amelia 8.
+l44	row	II. Marianna - 6.
+l45	row	Clemens Rymdzius 28
+l46	row	Conj.
+l47	row	Joannes Kanapė - 15.
+l48	row	Barbara Pietrukuis 20.
+l49	row	18. Joannes Gasperajtis 35.
+l50	row	ux. Eleonora 32.
+l51	row	filius Joannes 2.
+l52	row	filia Antonina 7.
+l53	row	19 Herus Antonius Maczulis 30.
+l54	row	ux. Salomea 30.
+l55	row	filiae Antonina 4
+l56	row	II. Grasilda 2.
+l57	row	Barbara (Maczu) Jęczewska 76.
+l58	row	vd.
+l59	row	filius Joseph c 40
+l60	row	Juljanus Mikołajtis 13.
+l61	row	Marianna Norkicze 30.
+l62	row	filius Paulus 5.
+l63	row	20. Herus Joseph Wajtiekunas 50.
+l64	row	ux. Magdalena 46
+l65	row	filius Joannes 14
+l66	row	II. Vincentius 12.
+l67	row	filiae Monica 19.
+l68	row	II. Antonina 6.
+l69	row	Barbara Wajtiekunene vd 76
+l70	row	21. Her. Dec. Joseph Walanczius 70.
+l71	row	ux. Monica 40.
+l72	row	filius Alexander 22
+l73	row	II. Vincentius 14
+l74	row	filiae Susanna 16.
+l75	row	Alexander Janusz 22.
+l76	row	Ludovica Zukys 19

@@ -1,0 +1,64 @@
+# skenas = 0022
+# busena = ok
+# eScriptorium = dok. 2, 
+l1	row	5.- Laurinas Bendulis - 33an
+l2	row	ux. Anna - 50an
+l3	row	6.- Casimirus Butkus - 53an
+l4	row	soror. Catherina - 50an
+l5	row	mater. Joanna - 85an.
+l6	row	frater Franciscus - 60an
+l7	row	7. mlynars Jan Laucius - 36an
+l8	row	ux. Carolina - 25an
+l9	row	filius Joannes - 5an
+l10	row	— Francisca - 2an
+l11	row	8.- Josephus Naudużas - 31.
+l12	row	ux. Heva - 25an
+l13	row	filius Vincentius - 3an
+l14	row	9.- Joannes Naudużas - 53an
+l15	row	ux. Anna - 35an
+l16	row	filius. Marcianus - 7an
+l17	row	— Apalonia - 5an
+l18	row	— Marianna - 3an
+l19	row	mater Ona Baltokienie - 75an
+l20	row	10.- Marcianus Priedarkis 50an
+l21	row	ux. Anna - 40an
+l22	row	11.- Franciscus Szapkus 53an
+l23	row	ux. Helena - 40an
+l24	row	filius - Josephus - 25an
+l25	row	— Franciscus - 14an
+l26	row	— Marianna - 19an
+l27	row	— Amelia - 9an
+l28	row	mater Barbara Kviadarietie - 75an
+l29	row	12.- Josephus Geister - 28an
+l30	row	ux. Joanna - 23an
+l31	row	filius Vladislaus - 1an
+l32	page-number	20
+l33	row	13.- Josephus Urbonas - 80an
+l34	row	— Anna - 48an
+l35	row	filia Marianna - 18an
+l36	row	14.- Casimirus Ramonas 40an
+l37	row	ux. Helena - 35an
+l38	row	filius - Dominicus - 4an
+l39	row	— Rozalija - 9an
+l40	row	Custos Silvae
+l41	row	1)- Felicianus Breier - 59an
+l42	row	pater Joannes - 85an
+l43	row	famulus Rochus Bugis - 47an
+l44	row	— Josephus Szliażas - 16an
+l45	row	— Juliana Mondejkis - 40an
+l46	row	2.- Casimirus Szliażas - 52an
+l47	row	— Catherina - 36an
+l48	row	filius Casimirus - 5an
+l49	row	— Stanislaus - 3an
+l50	row	— Casimira - 8an
+l51	row	— Zuzanna - 5an
+l52	row	Biejkiu kaupai.
+l53	row	1) vid. Anna Żigulienie - 43an
+l54	row	filius Josephus - 14an
+l55	row	2. Georgius Niemunis - 30an
+l56	row	ux. Petronella - 25an
+l57	row	filia Zuzanna - 5an
+l58	row	1.- Franciscus Gasparajtis 50an
+l59	row	ux. Anna - 40an
+l60	row	filia - Izabella - 20an
+l61	row	— Marianna - 19an

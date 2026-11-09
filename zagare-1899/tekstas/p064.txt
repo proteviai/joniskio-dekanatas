@@ -1,0 +1,72 @@
+# skenas = 0064
+# busena = mach
+# eScriptorium = dok. 3, 0064 klausimai [segReady auto1]
+l1	row	16 Vincentius Pampars 48an
+l2	row	ux Anna 50an
+l3	row	filius Joannes 13an
+l4	row	Vincentius 5an
+l5	row	Victoria 7an
+l6	row	herus
+l7	row	17 Dominicus Pollunes 44an
+l8	row	ux Magdalena 37an
+l9	row	filius Dominicus 16an
+l10	row	Anna 12an
+l11	row	Apalonia 14an
+l12	row	Liudvina 3an
+l13	row	frater Josephus 45an
+l14	row	fam Ursula Pamparicze 60an
+l15	row	18 Joannes Pampars 45an
+l16	row	ux Francisca 50an
+l17	row	filius Casimirus 19an
+l18	row	Benedictus 7an
+l19	row	Stanislaus 11an
+l20	row	Juliana 17an
+l21	row	Cleophasa 12an
+l22	row	19 Herus Casimirus Keturakis 43an
+l23	row	ux Monica 43an
+l24	row	filius Alexander 18an
+l25	row	Josephus 11an
+l26	row	Casimirus 10an
+l27	row	Antonius 1an
+l28	row	Monica 15an
+l29	row	Angela 8an
+l30	row	pater Michael Żemepatis 80an
+l31	note-above	herus
+l32	row	20 Alexander Szimkus 50an
+l33	row	ux Anna 45an
+l34	row	filius Josephus 20an
+l35	row	Casimirus 21an
+l36	row	Eleonora 22an
+l37	row	Marianna 15an
+l38	row	Rozalia 11an
+l39	row	patres Casimirus Ogiala 74an
+l40	row	ux Helena 50an
+l41	row	21 Casimirus Greiczius 60an
+l42	row	ux Barbara 46an
+l43	note-above	herus
+l44	row	22 Brigitta Briedienie 46an
+l45	row	filius Petrus 20an
+l46	row	Joannes 18an
+l47	row	Anna 15an
+l48	row	Brigitta 13an
+l49	row	Juliana 19an
+l50	row	famulus Vincentius Rudovski 30an
+l51	row	Anna Szliażicze 30an
+l52	row	23 Dec. Antonius Bajksztis 24an
+l53	row	ux Barbara 25an
+l54	row	famulus Petrus Balcziunas 31an
+l55	row	Franciscus Valis 25an
+l56	row	Vladislaus Kalendra 12an
+l57	row	Juliana Naudużicze 17an
+l58	row	24 Vincentius Mickus 58an
+l59	row	ux Magdalena 50an
+l60	row	filius Benedictus 21an
+l61	row	Joannes 12an
+l62	row	Agnes 23an
+l63	row	25 Michael Gurski 60an
+l64	row	ux Marianna 55an
+l65	row	filius Joannes 15an
+l66	row	Michael 8an
+l67	row	Marianna 17an
+l68	row	Barbara 4an
+l69	page-number	62

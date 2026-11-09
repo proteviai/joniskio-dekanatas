@@ -1,0 +1,80 @@
+# skenas = 0071
+# busena = ok
+# eScriptorium = dok. 3, 0071 baigta [segReady auto1]
+l1	row	3 Herus Joseph Firants 38
+l2	row	ux Victoria 27
+l3	row	filia Alexandra 1
+l4	row	Joannes Waraszyłka 23
+l5	row	Juljanna Donielkis 13
+l6	row	4 Herus Joseph Zacharawskas
+l7	wrapped	28
+l8	row	ux Eleonora 35
+l9	row	filius Joannes 10
+l10	row	II Dominicus 7
+l11	row	III Clemens 2
+l12	row	II Anna 9
+l13	row	filiae Barbara 13
+l14	row	III Francisca 7
+l15	row	Helena Zacharaskiene
+l16	wrapped	vd 70
+l17	row	b Georgius Janowicz 54
+l18	row	Simon Jonkus 16
+l19	row	b Joseph Balcarius 52
+l20	row	5 Benedictus Firants 31
+l21	row	ux Barbara 25
+l22	row	filia Amelia 3
+l23	row	II Apolonia 1
+l24	row	6 Barbara Nowogrodska vd
+l25	wrapped	49
+l26	row	filius Casimirus 10
+l27	row	filia Susanna 14
+l28	row	Anna Rakowska 21
+l29	row	7 Laurentius Norkiewicz 30
+l30	row	ux Heva 20
+l31	row	filia Juljanna 1
+l32	row	8 Herus Casimirus Dry
+l33	wrapped	gots 70
+l34	row	ux Constantia 70
+l35	row	filius Casimirus 40
+l36	row	II Thaddeus 31
+l37	row	filiae Juljanna 26
+l38	row	Christina Jankajtis 23
+l39	row	Alexander Bernotas 14
+l40	page-number	69
+l41	row	Joannes Czernowski 17
+l42	row	9 Semher Joseph Melis vd 42
+l43	row	filius Juljanna 13
+l44	row	II Barbara 12
+l45	row	Anna Nowogrodzka 43
+l46	row	Casimirus Melis 56
+l47	row	ux Barbara 54
+l48	row	10 Semher Benedictus Melis 56
+l49	row	ux Catharina 52
+l50	row	filius Joannes 29
+l51	row	II Vincentius 27
+l52	row	filiae Anna 21
+l53	row	II Heva 15
+l54	row	Eleonora Dąbrowska vd 80
+l55	row	11 Joseph Kupszas 59
+l56	note-below	Herus
+l57	note-below	Dec
+l58	row	ux Mariana 47
+l59	row	filia Barbara 19
+l60	row	Casper Plechowicz 32
+l61	row	Casimirus Pranckus 19
+l62	row	Antonius Munikis 16
+l63	row	Mariana Rakowska 19
+l64	row	Torbuczej:
+l65	row	1 Alexander Notrims 60
+l66	row	ux Elisabeth 57
+l67	row	Alexander Renkowski 6
+l68	row	2 Anna Krauczunas vd 51
+l69	row	filia Barbara 22
+l70	row	Euphrozina Krauczunas 5
+l71	row	Franciscus Krauczunas 15
+l72	row	Frater Bonaventura 9
+l73	row	3 Michael Sargiunas 50
+l74	row	ux Anna 31
+l75	row	filius Stanislaus 9
+l76	row	filia Susanna 2
+l77	row	II Paulina 1

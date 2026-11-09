@@ -1,0 +1,79 @@
+# skenas = 0078
+# busena = mach
+# eScriptorium = dok. 3, 0078 klausimai [segReady auto1]
+l1	row	filia Francisca 9
+l2	row	Eleonora Bogdan 15
+l3	row	25 Herus Leo Porutas 40
+l4	row	ux Susanna 38
+l5	row	filius Constantinus 4
+l6	row	II Leonardus 1
+l7	row	filiae Sophia 2
+l8	row	b) Dominicus Bajszas 78
+l9	row	Alexander Domovski 24
+l10	row	ux Anna 69
+l11	row	Josepha Pikturno 26
+l12	row	Helena Gasperajtis 19
+l13	row	Anna Towtwosz 16
+l14	row	26 Semher Casimirus Raksztis
+l15	wrapped	45
+l16	row	ux Juljanna 21
+l17	row	filiae Joanna 1
+l18	row	Dominicus Raksztis 71
+l19	row	ux Magdalena 49
+l20	row	27 Alexander Raksztis 27
+l21	note-below	c
+l22	row	Apolonia Kawołas 26
+l23	note-below	854
+l24	row	Joannes Jasulis 49
+l25	note-above	ux
+l26	row	28 Herus Barbara Jasulis
+l27	wrapped	vd 49
+l28	row	filius Stanislaus 6
+l29	note-above	fil
+l30	row	Christina Jasulis vd 57
+l31	row	filia Anna 19
+l32	row	Joanna Jasulis 14
+l33	row	Antonius Glosnis 20
+l34	row	Antonius Szymkajtis 12
+l35	row	Amelia Szymkajtis 18
+l36	row	Martha Berżynis 18
+l37	row	29 Herus Dec Vincent Skrypkus
+l38	wrapped	45
+l39	row	ux Marciana 37
+l40	row	filius Juljanus 4
+l41	row	filia Barbara 2
+l42	page-number	76
+l43	row	II Rosalia Skrypkus 37
+l44	row	Casimirus Gilis 17
+l45	row	Stanislaus Szutkus 11
+l46	row	Marianna Berżynska
+l47	row	Żiurej
+l48	row	23
+l49	row	1 Casimirus Assis 60an
+l50	row	ux Marianna 60an
+l51	row	Stanislaus Nostis 70an
+l52	note-above	Marcianus
+l53	row	2) ~~Joannes~~ Jonkus 32an
+l54	row	ux Cristina 27an
+l55	row	filia Anna 7an
+l56	row	a Casimirus Mickus 32an
+l57	row	ux Juliana 33an
+l58	row	Apalonia 5an
+l59	row	Francisca 3an
+l60	row	filius Vincentius 2an
+l61	row	b) Anna Machoveckienie 42an
+l62	row	filius Josephus 14an
+l63	row	Eduardus 12an
+l64	row	Veronica 15an
+l65	row	Catherina 12an
+l66	row	Anna 9an
+l67	row	Francska? 7an
+l68	row	ux Marianna 50an
+l69	row	3.) Alexander Kreuczunas 46an
+l70	row	filius Alexander 26an
+l71	row	Anna 14an
+l72	row	4.) Jacobus Agralla 35an
+l73	row	ux Elisabeth 25an
+l74	row	Vincentius 5an
+l75	row	Clemens 3an
+l76	row	Alexander 1an

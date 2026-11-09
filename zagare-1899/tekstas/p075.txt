@@ -1,0 +1,73 @@
+# skenas = 0075
+# busena = ok
+# eScriptorium = dok. 3, 0075 baigta [segGT test]
+l1	scribe-mistake	24. Michal Adejkis 56.
+l2	row	ux. Mariana 50.
+l3	row	fil. Joseph 24.
+l4	row	filia Eleonora
+l5	wrapped	19.
+l6	row	25 Herus Alexand. Tolunas 30
+l7	row	ux. Apolonia 23
+l8	row	~~fi~~Anna Kudulis vd. 50.
+l9	row	Magdalena Zaras vg 40.
+l10	row	Joannes Szutkus 10.
+l11	row	26. Semher. Joseph Tolunas 34.
+l12	row	ux. Amelia 35.
+l13	row	filius Joannes 11.
+l14	row	II. Alexander 8.
+l15	row	Helena Nagis 18.
+l16	row	27 Michael Norwajszas 61.
+l17	row	ux. Anna 35
+l18	row	filius Alexander 9.
+l19	row	filia Anna 6.
+l20	row	28. Herus Joseph Kiaturakis 50
+l21	row	ux. Helena 30.
+l22	row	filius Vincentius 18.
+l23	row	II. Stanislaus 3.
+l24	row	III. Franciscus 2.
+l25	row	filiae Juljanna 15.
+l26	row	II. Anna 8.
+l27	row	Michael Jenkajtis 80
+l28	row	ux. Elisabeth 71.
+l29	row	Magdalena Novogrodzka
+l30	wrapped	37.
+l31	row	29 Herus Joseph Diokas vd. 45
+l32	row	Mater Ursula 61.
+l33	row	filius Joannes 40.
+l34	row	filia Eleonora 20.
+l35	row	II. Apolonia 18.
+l36	row	Sim~~e~~on Krauczanus 16.
+l37	row	30. Casimirus Diokas 34.
+l38	page-number	73
+l39	row	ux. Mariana 34.
+l40	row	filius Joseph 2.
+l41	row	Benedictus Diokas 74.
+l42	row	ux. Elizabeth 53
+l43	row	31. Herus Dec. Thaddeus Wintartas
+l44	wrapped	46
+l45	row	ux. Anna 42.
+l46	row	filius Alexander 17.
+l47	row	II. Franciscus  8
+l48	row	III. Antonius 1.
+l49	row	filiae Apolonia 14.
+l50	row	II. Juljana 12.
+l51	row	III. Susanna 10.
+l52	row	IV famula Apolonia Pampars 25.
+l53	row	Daukszy:
+l54	row	1. Joannes Ramaszewski 30.
+l55	row	ux. Anna 21.
+l56	scribe-mistake	filius.
+l57	row	b) Casimirus Ramaszewski 40.
+l58	row	ux. Juljanna 30.
+l59	row	filius Thaddeus 6.
+l60	row	II. Joannes 3.
+l61	row	III. Dominicus 2.
+l62	row	2. Heva Kajenas vd. 54.
+l63	row	3. Semher. Joseph Skrypkus 35.
+l64	row	ux. Anna 23.
+l65	row	filius Casimirus 2.
+l66	row	Magdalena Skrypkus vd
+l67	wrapped	70.
+l68	scribe-mistake	Dominikus Żlabis 18.
+l69	row	Susanna Towtwojsz 16.
+l70	row	4 Joseph Skrypkus conj. 70

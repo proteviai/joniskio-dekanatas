@@ -1,0 +1,58 @@
+# skenas = 0093
+# busena = mach
+# eScriptorium = dok. 3, 0093 klausimai [segReady auto1]
+l1	row	23 Dominicus Mikloszius 60an
+l2	row	ux Anna 40an
+l3	row	filius Josephus 27an
+l4	row	a Haelera? Jasparajticze 60an
+l5	row	24 Thomas Jonkajtis 64an
+l6	row	ux Constantia 50an
+l7	row	25 Herus Casimirus Romaszevski 32an
+l8	row	ux Juliana 26an
+l9	row	filius Igstius? 2an
+l10	row	famulus Paulus Sloveakis 27an
+l11	row	Ursula Koslovskaicze 222an?
+l12	row	Anna Karlauskicze 16an
+l13	row	mater Elisabeth 60an
+l14	row	26 Herus Josephus Doviltis 42an
+l15	row	ux Barbara 30an
+l16	row	filius Josephus 9an
+l17	row	Stanislaus 8an
+l18	row	Antonius 7an
+l19	row	Magdalena 12an
+l20	row	Antonina 14an
+l21	row	famulus Casimirus Dement 230an?
+l22	row	27 Petrus Matkajtis 40an
+l23	row	ux Agatha 24an
+l24	row	filia Agnes 1an
+l25	row	mater Ddzaloet?  Proszuioviene 60an
+l26	row	28 Herus Thomas Gasparajtis 45an
+l27	row	ux Thecla 30an
+l28	row	filius Antonius 6an
+l29	row	Matheus 2an
+l30	row	Thecla 10an
+l31	row	Anna 3an
+l32	row	Petrus Kuzmickus 45an
+l33	row	famule Ignatius Sloveakis 43an
+l34	row	Joanna Kazlaucnicze 20an
+l35	row	Monika Danielkicze 15an
+l36	note-above	Beris?
+l37	row	29 Josephus Drelis 71an
+l38	row	ux Helena 40an
+l39	row	filius Josephus 30an
+l40	row	Alexander 24an
+l41	row	Anna 22an
+l42	row	Rozalia 2an
+l43	row	30 herus Josephus Vilkickis 64an
+l44	row	ux Heva 52an
+l45	row	filius Josephus 28an
+l46	row	Tuadeus? 13an
+l47	row	f Helena 22an
+l48	row	Monica 21an
+l49	row	Jazanna? 18an
+l50	note-above	heb
+l51	row	31 Josephus Stabrauskis 60an
+l52	row	ux Elisabeth 60an
+l53	row	filius Antonius 38an
+l54	row	famulus Stanislaus Kalendra 24an
+l55	row	Anna Adomajti 20an

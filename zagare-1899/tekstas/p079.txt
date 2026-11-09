@@ -1,0 +1,74 @@
+# skenas = 0079
+# busena = mach
+# eScriptorium = dok. 3, 0079 klausimai [segReady auto1]
+l1	row	5 Josephus Mituzas 34an
+l2	row	ux Zuzanna 25an
+l3	row	filius Alexander 1an
+l4	row	Magdalena Mituzicze 22an
+l5	row	filius Benedictus 1an
+l6	row	6 Casimirus Liuberski 38an
+l7	row	ux Anna 28an
+l8	row	filia Helena 9an
+l9	row	Apalonia 7an
+l10	row	Anna 3an
+l11	row	7 Herus Joannes Michalajtis 28an
+l12	row	ux Helena 30an
+l13	row	famulus Vladislaus Koelovicz 21an
+l14	row	1 Augustinus Okmans 15an
+l15	row	Heva Bozicze 20an
+l16	row	mater Anna Miłajczovienie 70an
+l17	row	8 Herus Adamus Liuberski 40an
+l18	row	ux Rozalia 35an
+l19	row	filia Juliana 10an
+l20	row	Valeriana 2an
+l21	row	soror Magdalena Liuberskicze 38an
+l22	row	mater Marianna 75an
+l23	row	a Anna Sargiunienie 60an
+l24	row	c Vincentius Adomajtis 40an
+l25	row	ux Anna 38an
+l26	row	filius Vincentius 8an
+l27	row	Philippus 4an
+l28	row	Anna 14an
+l29	row	9 Marcianus Bałakas 46an
+l30	row	ux Marianna 40an
+l31	row	filius Antonius 14an
+l32	row	Casimirus 12an
+l33	row	Julianus 7an
+l34	row	Brigitta 15an
+l35	row	Zuzanna 4an
+l36	row	Marianna 2an
+l37	row	10 Benedictus Sziurkas 80an
+l38	row	ux Catherina 62an
+l39	row	Antonina Rakauckicze 30an
+l40	row	11 Herus Alexandr Kajkaris 30an
+l41	row	ux Zuzanna 26an
+l42	row	filia Zuzanna 8an
+l43	row	Helena 6an
+l44	row	Marianna 4an
+l45	row	Justina 1an
+l46	row	famulus Paulus Janovicz 16an
+l47	row	Catherina Romaszauckicze 30an
+l48	row	mater Helena 60an
+l49	note-above	her
+l50	row	12 Casimirus Gasparajtis 38an
+l51	row	ux Victoria 35an
+l52	row	filius Vincentius 3an
+l53	row	Anna 11an
+l54	row	Elisabeth 4an
+l55	row	Helena 1an
+l56	row	a Anna Mandejkicze 70an
+l57	row	13.- H.- Joannes Gasparajtis 35an
+l58	row	ux Helena 38an
+l59	row	filius Joannes 10an
+l60	row	Casimirus 9an
+l61	row	Alexander 5an
+l62	row	Stanislaus 2an
+l63	row	famula Anna Vajszvilicze 20an
+l64	row	a Thomas Czernevski 40an
+l65	row	ux Apalonia 35an
+l66	row	filius Casimirus 9an
+l67	row	Juliana 6an
+l68	row	Zuzanna 3an
+l69	row	14 Marcianus Gasparajtis 90an
+l70	row	filius Marcianus 49an
+l71	row	ux Helena 30an

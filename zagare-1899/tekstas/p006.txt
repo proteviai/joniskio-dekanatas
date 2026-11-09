@@ -1,0 +1,68 @@
+# skenas = 0006
+# busena = ok
+# eScriptorium = dok. 2, 
+l1	row	20) Marcianus Sokolovski - 75an
+l2	row	ux. Brigitta - 60an
+l3	row	filia Marianna - 14-
+l4	row	— Vincentius - 30.
+l5	row	— Anna 23. -
+l6	row	Herus
+l7	row	21. Antonius Tołkus - 40an
+l8	row	ux - Helena - 36an
+l9	row	filius - Clemens - 16an
+l10	row	— Albinus - 2an
+l11	row	— Apolonia - 7
+l12	row	famuli Marianna Macis - 23-
+l13	row	— Josephus Szliazas - 12an
+l14	row	acenset
+l15	row	mater Anna - 70an
+l16	row	folium
+l17	row	22. vid. Georgius Andrulis - 90an
+l18	row	filius - Alexander - 38an
+l19	row	Herus - Gasper Żemecki - 40an
+l20	row	uxor Anna - 36an
+l21	row	filius - Alexander - 15
+l22	row	— Stanislaus - 8
+l23	row	— Juliana - 20-
+l24	row	— Zuzanna - 3.
+l25	row	23. Herus Casimirus Cardinski - 74an
+l26	row	ux. Anna - 72an
+l27	row	filius Dominicus - 34an
+l28	row	ux. Helena - 22an
+l29	row	filius - Dominicus - 2an
+l30	row	famulus Franciscus Buzas - 19an
+l31	row	24 Herus Marcianus Szymajtis - 50an
+l32	row	ux. Juliana - 50an
+l33	row	filius Marcianus - 15an
+l34	row	— Eleonora - 20an
+l35	row	filia Victoria - 11an
+l36	page-number	4
+l37	row	arendator Stanislaus Butkus - 50an
+l38	row	ux. Anna - 25an
+l39	row	filius Stanislaus - 2an
+l40	row	25.- Franciscus Diokas - 35an
+l41	row	ux. Rozalia - 31an
+l42	row	filius - Alexander - 2an
+l43	row	filiae - Helena - 10
+l44	row	— Apolonia - 4
+l45	row	— Zuzanna - 3
+l46	row	habet. Magdalena Srogius - 60an
+l47	row	famula Barbara Kalendra - 21an
+l48	row	26.- Michael Diokas - 30an
+l49	row	ux.- Rozalia - 30an
+l50	row	filius - Julianus - 9an
+l51	row	— Stanislaus - 4 -
+l52	row	— Clemens - 2 -
+l53	row	— Antonina - 14an
+l54	row	— Monica - 7an
+l55	row	famulus Antonius Kriscziunas - 27an.
+l56	row	27.- Casimirus Kaunecki - 50an.
+l57	row	ux.- Helena - 50.-
+l58	row	filius - Josephus - 23an
+l59	row	— Alexander - 15an
+l60	row	— Stanislaus - 6an
+l61	row	— Apolonia - 20an
+l62	row	— Anna - 17an
+l63	row	— Juliana - 18an.
+l64	row	— Zuzanna - 12an
+l65	row	— Helena - 10an

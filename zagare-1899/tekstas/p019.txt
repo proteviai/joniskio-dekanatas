@@ -1,0 +1,71 @@
+# skenas = 0019
+# busena = ok
+# eScriptorium = dok. 2, 
+l1	row	10.- Franciscus Kilczevski - 57an
+l2	row	ux. Catherina - 30an
+l3	row	filius Franciscus - 3an
+l4	row	— Barbara - 7an
+l5	row	— Stanislaus - 3an
+l6	row	— Antonina - 1an
+l7	row	famulus - Josephus Naudużas - 23an
+l8	row	— Thadeus Diokas - 30an
+l9	row	— Monika Szukicze - 20an.
+l10	row	— Anna Szliażas - 11an.
+l11	row	hab. Anna Rudovska - 12an.
+l12	row	11.- Młynarz Josephus Żlabis - 33an
+l13	row	ux. Valeriana - 30an
+l14	row	filius Josephus - 1an
+l15	row	fam. Brigitta Puidicze - 40an.
+l16	row	— Casimirus Taraszevski - 28an
+l17	row	12.- Thomas Gatulius - 36an
+l18	row	ux. Anna - 25an
+l19	row	filius Julianus - 2an
+l20	row	— Clemens - 1an
+l21	row	— Antonina - 5an
+l22	row	13.- Thadeus Gatulis - 46an
+l23	row	ux. Helena - 32an
+l24	row	filius Stanislaus - 7.
+l25	row	— Thadeus - 2-
+l26	row	frater - Alexander - 50an
+l27	row	fam. Alexander Tovtvoisz - 17.
+l28	row	— Victoria Szvambaricze 20an
+l29	row	— Marianna - 13.
+l30	row	14.- Thadeus Laucius - 55an
+l31	row	ux. Helena - 40an
+l32	row	filia Anna - 17an
+l33	row	— Barbara - 13an
+l34	row	pater Thomas Jonkus - 75an
+l35	row	fam. Casimirus Czepa - 27an
+l36	row	— Barbara Stabrovkicze - 18an
+l37	row	— Antonius Valis - 25.
+l38	page-number	17
+l39	row	15. Joannes Diokas - 40an
+l40	row	ux. Anna - 30an
+l41	row	filius Franciscus - 21an
+l42	row	— Casimirus - 19an
+l43	row	— Joannes - 13an
+l44	row	— Stanislaus - 11an
+l45	row	— Anna - 15an
+l46	row	— Casimira - 7an
+l47	row	— Zuzanna - 4 -
+l48	row	— Alexandrina - 1.
+l49	row	fam. Brigitta Diokicze - 20an
+l50	row	— Marianna Niprikicze - 16an
+l51	row	16.- Thadeus Jurevicz - 35an
+l52	row	ux. Zuzanna - 39an
+l53	row	filius - Antonius - 5an
+l54	row	— Victoria - 6an
+l55	row	— Justina - 4an
+l56	row	— Ludvina - 1an
+l57	row	fam. Victor Geister - 10an
+l58	row	hab. - Barbara Naudużjienie - 56an
+l59	row	17.- dec.- Joannes Jonkus - 40an
+l60	row	ux. Helena - 30an
+l61	row	filia Gasper - 11
+l62	row	— Helena - 18an
+l63	row	— Monica - 16an
+l64	row	— Alexandra - 14an
+l65	row	— Bronislava - 4an
+l66	row	fam. Josephus Diokas - 26an
+l67	row	— Vincentius Dambrovski 24an
+l68	row	— Magdalena Macicze - 13an

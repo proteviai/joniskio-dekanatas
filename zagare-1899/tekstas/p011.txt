@@ -1,0 +1,68 @@
+# skenas = 0011
+# busena = ok
+# eScriptorium = dok. 2, 
+l1	row	famulus Joannes Jurgaitis - 28an
+l2	row	— Helena Nagis - 29an
+l3	row	mater Helena - 71an
+l4	row	vid.
+l5	row	25. Anna Ditkalties - 46an
+l6	row	filius - Paulus - 16an
+l7	row	— Franciscus - 13an
+l8	row	Soror. Helena Ramaszevska - 70an.
+l9	row	26. Stanislaus Parażinski - 60an
+l10	row	uxor Heva - 60an.
+l11	row	filia - Zuzanna - 29an.
+l12	row	Donilei
+l13	row	1) vid. Thadeus Andraszius - 50an
+l14	row	filius Thadeus - 12
+l15	row	— Apolonia - 17an
+l16	row	— Anna - 13an
+l17	row	— Joanna - 9an
+l18	row	— Helena - 8 an
+l19	row	— Magdalena - 7
+l20	row	Soror Anna - 34.
+l21	row	2) Casimirus Venckus - 30an
+l22	row	ux. Helena - 30an
+l23	row	filia - Zuzanna - 4
+l24	row	— Anna - 2an
+l25	row	mater Elisabeth Żakajtis - 84an
+l26	row	3) Joannes Urbonas - 60an
+l27	row	ux. - Rozalia - 40an
+l28	row	filia - Apolonia - 18an
+l29	row	— Monica - 15an
+l30	row	hab. Anna Petrajtis - 84an
+l31	page-number	19
+l32	row	4.) Antonius Pranciulis - 27an
+l33	row	ux Agata - 23an
+l34	row	filius Josephus - 1
+l35	row	5. herus Casimirus Żakajtis - 40an
+l36	row	ux.- Anna - 32an
+l37	row	filius - Josephus - 11an
+l38	row	— Franciscus - 6an
+l39	row	— Alexander - 5an
+l40	row	— Julianus - 1
+l41	row	— Antonina - 9an
+l42	row	— Anna - 3an
+l43	row	6. Herus Thadeus Urbonas - 50an
+l44	row	ux. - Anna - 40an
+l45	row	filius Josephus - 2an
+l46	row	famulus Antonius Virbicki - 17an
+l47	row	— Antonina Leonajticze - 17an
+l48	row	— Franciscus Alsis - 14an
+l49	row	Soror Ursula Urbonas - 60an
+l50	row	7.- Dec. Franciscus Butautis - 29an
+l51	row	ux. Apolonia - 19an
+l52	row	famula - Anastasia Norvillo - 20an
+l53	row	— Rozalia Tovtvaisz - 30an
+l54	row	mater. Barbara - 50an
+l55	row	— Joannes - 60an
+l56	row	Franciscus Butautis - 67an
+l57	row	ux. Eleonora - 56an
+l58	row	famulus Joannes Ivankievicz - 26an
+l59	row	— Helena Szliażas - 13an
+l60	row	— Francisca - 1an
+l61	row	8 herus.- Josephus Pranciulis - 30an
+l62	row	frater Joannes - 34an
+l63	row	ux. Marta - 22an
+l64	row	Soror Apolonia - 20an
+l65	row	frater Thadeus - 22an

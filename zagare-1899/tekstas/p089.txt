@@ -1,0 +1,76 @@
+# skenas = 0089
+# busena = mach
+# eScriptorium = dok. 3, 0089 klausimai [segReady auto1]
+l1	row	42 Casimirus Biczius 36an
+l2	row	ux Rozalia 27an
+l3	row	mater Veronica 60an
+l4	row	43 Herus Casimirus Szimkus 60an
+l5	row	ux Barbara 42an
+l6	row	filius Dominicus 15an
+l7	row	Josephus 6an
+l8	row	Helena 4an
+l9	row	famulus Alexander Dabriszka 76an
+l10	row	Martha Mickicze 22an
+l11	row	44 Herus Benedictus Doczkus 38an
+l12	row	ux Juliana 28an
+l13	row	filius Petrus 1an
+l14	row	Francisca 7an
+l15	row	Palmira 2an
+l16	row	famulus Josephus Miklosius 16an
+l17	row	Anna Szimkicze 20an
+l18	row	Angela 25an
+l19	row	mater Helena Szimkuvienie 60an
+l20	row	45 Joannes Jaraszevski 44an
+l21	row	ux Helena 40an
+l22	row	filia Juliana 12an
+l23	row	46 Herus Dominicus Jaraszevski 45an
+l24	row	ux Anna 30an
+l25	row	filia Monica 6an
+l26	row	Cristina 3an
+l27	row	Justina 2an
+l28	row	famulus Alexander Barovski 25an
+l29	row	Juliana Miklosicze 15an
+l30	page-number	87
+l31	row	47 Dde Franciscus Jonkus 60an
+l32	row	ux Monica 52an
+l33	row	filius Hieronimus 30an
+l34	row	Casimirus 27an
+l35	row	Eleonora 23an
+l36	row	famulus Vincentius Szukszta 22an
+l37	row	Vladislaus Brazulis 17an
+l38	row	a Barbara Liebajtienie 80an
+l39	row	Eleonora Biczicze 30an
+l40	row	Ludovicus Villimas 40an
+l41	row	Szwetpol
+l42	row	1 Augzoli? b Aloizius Klaupszas 38an
+l43	note-below	u76an
+l44	row	ux Barbara 28
+l45	row	filia Ludovica 6
+l46	row	Martha Bartosius 17
+l47	row	2 Joannes Sora 40
+l48	note-below	Jatja?
+l49	row	ux Juljana 35
+l50	row	filius Joseph 11
+l51	row	II Joannes 9
+l52	row	3 Ignatius Kipszas 53
+l53	row	ux Juljana 42
+l54	note-below	faeris
+l55	note-below	in
+l56	row	filius Jenia? Juus 22an
+l57	row	filia Angela 15
+l58	row	Benedicta Szeperska vd 61
+l59	row	b auriga Franciscus Kalendarz 51an
+l60	note-below	4eds
+l61	note-below	fa hemuso
+l62	row	ux Anna 28
+l63	row	Heva Bujvidis virgo 19
+l64	row	a mater Helena vid 62
+l65	row	c Joannes Dowejka 39
+l66	row	ux Marianna 36
+l67	row	filius Joseph 9
+l68	row	II Clemens 3
+l69	row	III Stanislaus 1
+l70	row	filiae Juljanna 14
+l71	row	II Birgitta 5
+l72	row	b Joseph Rymkus 53
+l73	row	ux Monica 42

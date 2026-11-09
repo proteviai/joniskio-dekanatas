@@ -1,0 +1,65 @@
+# skenas = 0114
+# busena = mach
+# eScriptorium = dok. 3, 0114 klausimai [segReady seg8a]
+l1	row	filius Joannes 12an
+l2	row	b) Joannes Jankievicz 30an
+l3	row	ux Juliana 27an
+l4	row	37 Ursula Nagliovienie 73an
+l5	row	filius Alexander 25an
+l6	row	38 Joannes Żigulis 58an
+l7	row	ux Veronica 38an
+l8	row	filius Alexander 12an
+l9	row	Joannes 10an
+l10	row	Petrus 7an
+l11	row	Victoria 16an
+l12	row	Sophia 15an
+l13	row	Josepha 8an
+l14	row	39 Apolinarius Kaczenovski 54an
+l15	row	filia Sophia 23an
+l16	row	40 Franciscus Pugvillo 45an
+l17	row	ux Sophia 30an
+l18	row	filius Julianus 4an
+l19	row	Francisca 1an
+l20	row	famula Veronica 18an
+l21	row	Casimirus Romanovski 25an
+l22	row	Heva Czepkasajtie 18an
+l23	row	Angela Lavcievicz 60an
+l24	page-number	112
+l25	row	Kantora?
+l26	row	1. transksluvium: Marcianus Rudis 51
+l27	row	ux Anna 40
+l28	row	filius Marcianus 17
+l29	row	II Casimirus 6
+l30	row	filia Magdalena 20
+l31	row	II Anna 12
+l32	row	III Susanna 6
+l33	row	b) Joannes Parażewski 34
+l34	row	ux Anna 27
+l35	row	filius Joannes 1
+l36	row	2 Casimirus Savicki 51
+l37	row	ux Magdalena 40
+l38	row	filius Constantinus 13
+l39	row	filia Amelia 11
+l40	row	b Casimirus Glosnis 29
+l41	row	ux Helena 20
+l42	row	filiae Juljanna 4
+l43	row	II Francisca 3
+l44	row	a) Mathias Norwajszas 60
+l45	row	ux Anastasia 55
+l46	row	filius Vincentius 25
+l47	row	II Franciscus 26
+l48	row	ux Birgitta 24
+l49	scribe-mistake	6
+l50	row	a Casimirus Butkus 43
+l51	row	ux Agatha 66
+l52	row	filius Joannes 23
+l53	row	II Helena 26
+l54	row	b Michael Lubowski 24
+l55	row	ux Susanna 22
+l56	row	filia Susanna 3
+l57	row	c) Marianna Czepa 29
+l58	row	ux Cristina 26
+l59	row	filia Juljanna 1
+l60	row	Georgius Czepa 67
+l61	row	ux Helena 68
+l62	row	Anna Parażewska virgo 26

@@ -1,0 +1,67 @@
+# skenas = 0088
+# busena = mach
+# eScriptorium = dok. 3, 0088 klausimai [segGT auto1]
+l1	row	83 Herus Dominicus Mitrikas 46an
+l2	row	ux Helena 28an
+l3	row	filius Dominicus 2an
+l4	row	famulus Josephus Zibartas 26an
+l5	row	Marianna Gibuzicze 17an
+l6	row	mater Helena 75an
+l7	row	ux Anna 25an
+l8	row	34 Herus Casimirus Nifodas 40an
+l9	row	filia Juliana 1an
+l10	row	famula Sophia Janulicze 20an
+l11	row	35 herus Casimirus Cajkaris 40an
+l12	row	ux Marianna 31an
+l13	row	famulus Casimirus Romanowski 14an
+l14	row	Juliana Romanowckicze 16an
+l15	row	pater Thadeus 80an
+l16	row	filius Petrus 38an
+l17	row	36 herus Dominicus Kaczkis 30an
+l18	row	ux Marianna 30an
+l19	row	filius Dominicus 6an
+l20	row	Josaphata 4an
+l21	row	Petronis 4an
+l22	row	pater Thadeus Zuskis 83an
+l23	row	soror Anna Klexauckicze 40an
+l24	row	37 Herus Joannes Kaczkis 30an
+l25	row	ux Martha 24an
+l26	row	filius Joannes 3an
+l27	row	Juliana 8an
+l28	row	Zuzanna 2an
+l29	row	famulus Antonius Morkelis 23an
+l30	row	ux Josaphata 22an
+l31	row	famula Anna Pamparicze 15an
+l32	row	86
+l33	row	38 Herus Joannes Żenkus 60an
+l34	row	ux Helena 50an
+l35	row	filius Josephus 18an
+l36	row	Dominicus 12an
+l37	row	Alexander 6an
+l38	row	Marianna 8an
+l39	row	Juliana 5an
+l40	row	mater Barbara Ginczienie 70an
+l41	row	39 herus Kasimirus Pratiis 65an
+l42	row	ux Helena 50an
+l43	row	filius Alexander 25an
+l44	row	Josephus 21an
+l45	row	Casimirus 19an
+l46	row	Helena 23an
+l47	row	famula Barbara Kurovszcze 11an
+l48	row	40 Clemens Mecis 44an
+l49	row	ux Magdalena 32an
+l50	row	filius Clemens 14an
+l51	row	Thilippus? 4an
+l52	row	Zuzanna 10an
+l53	row	Magdalena 9an
+l54	row	Joanna 6an
+l55	row	Sogotina? 1an
+l56	row	41 Herus Antonius Biczius 28an
+l57	row	ux Marianna 28an
+l58	row	filius Antonius 8an
+l59	row	Joannes 3an
+l60	row	famulus Josephus Biczius 26an
+l61	row	Antonius Mikulskis 40an
+l62	row	Julianna Biczicze 17an
+l63	row	Marianna Biczicze 18an
+l64	page-number	86

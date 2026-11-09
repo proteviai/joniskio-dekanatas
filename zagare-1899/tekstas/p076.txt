@@ -1,0 +1,87 @@
+# skenas = 0076
+# busena = ok
+# eScriptorium = dok. 3, 0076 baigta [segReady auto1]
+l1	row	5 Amelia Żlabis vd 46
+l2	row	filii Vincentius 17
+l3	row	II Joseph 16
+l4	row	III Franciscus 14
+l5	row	IV Antonius 11
+l6	row	V Joannes 9
+l7	row	filia Barbara 20
+l8	row	6 Augustinus Skrypkus 48
+l9	row	ux Mariana 40
+l10	row	filius Dominicus 9
+l11	row	filia Barbara 12
+l12	row	II Magdalena 5
+l13	row	III Susanna 2
+l14	row	Helena (Skry) Grejczius vd
+l15	wrapped	74
+l16	row	Paulus Skrypkus 22
+l17	row	7 Rosalia Żakis vd 51
+l18	row	filius Joannes 25
+l19	row	II Joseph 21
+l20	row	filiae Monica 26
+l21	row	II Anna 23
+l22	row	Juljanus Załoga 11
+l23	row	8 Herus Joseph Kajenas 25
+l24	row	ux Amelia 20
+l25	row	filia Emilia 1
+l26	row	Heva Lekas 17
+l27	row	Marcianus Lekas vd 65
+l28	row	Helena Żakicze 19
+l29	row	9 Herus Joseph Kajcus 54
+l30	row	ux Barbara 50
+l31	row	filius Alexandr 20
+l32	row	II Casimirus 17
+l33	row	filia Anna 16
+l34	row	Benedicta Wiłkodimas vd
+l35	wrapped	70
+l36	row	10. Sem her. Antonius Ramaszewski 35
+l37	row	ux Juljana 26
+l38	row	Helena Ramaszewska vd
+l39	wrapped	70
+l40	page-number	74
+l41	row	11 Alexander Żukowski 36
+l42	row	ux Eleonora 30
+l43	row	filius Casimirus 1
+l44	row	filiae Anna 9
+l45	row	II Susanna 7
+l46	row	Ursula Towtwajsz vd
+l47	wrapped	71
+l48	row	12 Joseph Pacewicz 28
+l49	row	ux Susanna 24
+l50	row	filia Sophia 2
+l51	row	Casimirus Wezuls vd 64
+l52	note-below	conj
+l53	row	13 Joannes Skrypkus 60
+l54	row	ux Monica 54
+l55	row	filius Joseph 13
+l56	row	filia Cristina 22
+l57	row	14 Cristina Srypkus vgo
+l58	wrapped	46
+l59	row	Coecilia Adomajtis 40
+l60	note-below	vd
+l61	row	filius Rochus 5
+l62	row	II Antonius 3
+l63	row	Agatha Tomaszewska 50
+l64	row	Helena Wajtiekajtis vd
+l65	wrapped	78
+l66	row	15 Joseph Maczulis 30
+l67	row	ux Helena 30
+l68	row	filia Marciana 2
+l69	row	b) Joannes Josephowicz
+l70	wrapped	28
+l71	row	ux Marciana 31
+l72	row	filia Susanna 1
+l73	row	16 Joannes Nipriks 46
+l74	row	ux Martha 44
+l75	row	filius Stanislaus 8
+l76	row	II Constantinus 4
+l77	row	III Vincentius 2
+l78	row	IV Joseph 4
+l79	row	Casper Szymkajtis vd 70
+l80	row	17 Herus Stanislaus Rakutis
+l81	wrapped	42
+l82	row	ux Josephata 30
+l83	row	filius Dominicus 17
+l84	row	II filia Ludovica 2

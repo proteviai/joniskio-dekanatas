@@ -1,0 +1,77 @@
+# skenas = 0058
+# busena = mach
+# eScriptorium = dok. 3, 0058 paruošta [segReady auto1]
+l1	row	9 Herus Josephus Szalkovski 26an
+l2	row	ux Barbara 23an
+l3	row	filia Antonina - 3an
+l4	row	mater Juliana 65an
+l5	row	famulus Stanislaus Micloszius - 15an
+l6	row	a) Josephata Vajtiekunicze - 80an
+l7	row	10 herus Casimirus Jurgajtis 35an
+l8	row	ux. Anna - 24an
+l9	row	filius Casimirus 5an
+l10	row	Alexander 3an
+l11	row	Joannes 1an
+l12	row	mater Helena 60an
+l13	row	famulus Joannes Jurgaitis 15an
+l14	row	Rozalia Kundroticze 37an
+l15	row	11 Herus Josephus Szolkovski 38an
+l16	row	ux Anna 35an
+l17	row	filius Josephus 11an
+l18	row	Joannes 10an
+l19	row	Stanislaus 6an
+l20	row	Apalonia 12an
+l21	row	Amelia 3an
+l22	row	mater Victoria 60an
+l23	row	12 Casimirus Mikutis 40an
+l24	row	mater Barbara 80an
+l25	row	filia Helena 40an
+l26	row	13.- herus Thadeus Mikutis - 50an
+l27	row	ux Monica 30an
+l28	row	filius Josephus 7an
+l29	row	Thadeus 3an
+l30	row	Monica 8an
+l31	row	Amelia 6an
+l32	row	Apalonia 2an
+l33	row	famula Anna Biczicze - 16an
+l34	row	Barbara Adomajticze 40an
+l35	row	filius Stanislaus 4an
+l36	page-number	56
+l37	row	a) Martha Janiszkicze - 46an
+l38	note-above	herus
+l39	row	14.- Casimirus Kajkaris - 34an
+l40	row	ux Monica 29an
+l41	row	filius Casimirus 6an
+l42	row	Francisca 2an
+l43	row	mater Helena 80an
+l44	row	famulus Alexander Adomajtis 17an
+l45	row	Apalonia Navogrockicze - 20an
+l46	row	Marianna Kaczkicze - 18an
+l47	note-above	famulus
+l48	row	15 arend. Antonius Doviltis 30an
+l49	row	herus Ignatius Romaszevski 56an
+l50	row	ux Anna 40an
+l51	row	filius Josephus 8an
+l52	row	Constantinus 4an
+l53	row	Stanislaus - 2an
+l54	row	famula Helena Kardinskicze 20an
+l55	row	Apalonia Ledicze 30an
+l56	row	16.- Her. Marcianus Pranis - 55an
+l57	row	ux. Magdalena - 55an
+l58	row	filius Vincentius 19an
+l59	row	Anna 17an
+l60	row	famulus Vladislaus Adomajtis - 13an
+l61	note-above	herus
+l62	row	17.- Thadeus Biczius - 60an
+l63	row	ux Marianna 50an
+l64	row	filia Monica 27an
+l65	row	Barbara - 25an
+l66	row	famulus Casimirus Missius 25an
+l67	row	Jacobus Norvajsz 10an
+l68	note-above	her
+l69	row	18. Casimirus Norvajsz - 30an
+l70	row	ux Joanna 26an
+l71	row	filia Joanna 3an
+l72	row	Justina 2an
+l73	row	Cleophasa 1an
+l74	row	famulus Vincentius Udrakis 21an

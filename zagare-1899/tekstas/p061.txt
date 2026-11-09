@@ -1,0 +1,64 @@
+# skenas = 0061
+# busena = ok
+# eScriptorium = dok. 3, 0061 baigta [segGT]
+l1	row	Paberżinis
+l2	row	1) Marcianus Jakubajtis - 55an
+l3	row	ux. Helena - 50an
+l4	row	filius Casimirus - 22an
+l5	row	Thadeus - 18an
+l6	row	Alexander - 13an
+l7	row	Helena - 16an
+l8	row	2) Antonius Garbenis - 40an
+l9	row	ux. Anna - 33an
+l10	row	filius Petrus - 5an
+l11	row	Apalonia - 8an
+l12	row	3.- Josephus Kriżanovski - 57an
+l13	row	ux. Ursula - 35an
+l14	row	filius Franciscus - 17an
+l15	row	Josephus - 12an
+l16	row	Liudovicus - 7an
+l17	row	Joannes - 3an
+l18	row	Apalonia - 19an
+l19	row	Zuzanna - 9an
+l20	row	4.- Josephus Petrajtis - 40an
+l21	row	ux. Helena - 30an
+l22	row	filius Casimirus - 7an
+l23	row	Francisca - 8an
+l24	row	Petrajczei
+l25	row	1). Casimirus Żaks - 43an
+l26	row	ux. Anna - 38an
+l27	row	filia Barbara - 3an
+l28	row	mater Barbara - 70an
+l29	row	2) Josephus Josapaitis - 40an
+l30	row	ux. Antonina - 36an
+l31	page-number	59
+l32	row	filius Clemens -  12an
+l33	row	Antonina - 14an
+l34	row	Anna - 9an
+l35	row	Soror Anna Josapajticze - 40an
+l36	row	3.- Marcianus Valiszevski - 35an
+l37	row	ux. Helena - 40an
+l38	row	4.) Vincentius Valiszevski - 27an
+l39	row	ux. Magdalena - 23an
+l40	row	5.) Marianna Macziulicze 35an
+l41	row	filius Dominicus - 13an
+l42	row	Franciscus - 5an
+l43	row	Anna - 15an
+l44	row	6.- Alexander Navagrockis - 29an
+l45	row	ux. Alexandra - 23an
+l46	row	filius. Vincentius - 3an
+l47	row	Monica - 1an
+l48	row	7.- Joannes Janutis - 30an
+l49	row	ux. Anna - 28an
+l50	row	filia Cristina - 2an
+l51	row	mater Anna - 56an
+l52	row	8.- Vincentius Jasajtis - 34an
+l53	row	ux. Anna - 30an
+l54	row	filius Josephus - 6an
+l55	row	Stanislaus - 4an
+l56	row	Juliana - 8an
+l57	row	Anna - 2an
+l58	row	9.- Franciscus Vozbutas - 40an
+l59	row	ux. Amelia - 35an
+l60	row	filius Casimirus - 9an
+l61	row	Rochus - 1an

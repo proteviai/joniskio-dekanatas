@@ -1,0 +1,63 @@
+# skenas = 0121
+# busena = mach
+# eScriptorium = dok. 3, 0121 klausimai [segReady seg8a]
+l1	row	a) Casimirus Codżius 30an
+l2	row	ux Apalonia 22an
+l3	row	b) Marcianus Tumins 40an
+l4	row	ux Juliana 30an
+l5	row	filius Dominicus 8an
+l6	row	Helena 4an
+l7	row	c Franciscus Venckus 53an
+l8	row	ux Anna 60an
+l9	row	filia Zuzanna 2an
+l10	row	d Casimirus Pavlovski 43an
+l11	row	ux Magdalena 40an
+l12	row	Antonius 19an
+l13	row	Vincentius 16an
+l14	row	Georgius 10an
+l15	row	Josephus 3an
+l16	row	c) Angela Plekaviczienie 65an
+l17	row	filia Theodora 30an
+l18	row	2 Josephus Jakovski 40an
+l19	row	ux Josaphata 36an
+l20	row	filius Josephus 10an
+l21	row	Vincentius 4an
+l22	row	Antonina 13an
+l23	row	a) Marcianus Beniuszis 27an
+l24	row	ux Anna 22an
+l25	row	Casimirus Butkus 28an
+l26	row	ux Zuzanna 20an
+l27	row	mater Barbara Adomajtienie 40an
+l28	row	filius Josephus 15an
+l29	row	filiae Vincentius 6an
+l30	row	Juliana 10an
+l31	row	d) Anna Vajtiekajticze 18an
+l32	row	e) Elisabeth Szantorajtie 25an
+l33	row	f) Monica Vajtiekajticze 20an
+l34	row	g) Julianus Nagievicz 59an
+l35	row	ux Casimira 45an
+l36	row	filius Stanislaus 17an
+l37	row	Joannes 18an
+l38	row	Vladislaus 10an
+l39	row	Adolphina 8an
+l40	row	Dvaro ulica
+l41	row	l) Josephus Jaudżemis 40an
+l42	row	ux Anna 25an
+l43	row	filia Juliana 4an
+l44	row	Elisabeth 3an
+l45	row	a) Magdalena Szilkauckienie 40an
+l46	row	b) Francisca Carsokienie 50an
+l47	row	2 Michael Namovicz 40an
+l48	row	fratr. Antonius N. 50an
+l49	row	Darguzicze
+l50	row	famula Anna ~~Kvedaricze~~ 25an
+l51	row	3 Josephus Kvedras 50an
+l52	row	ux Juliana 40an
+l53	row	filius Antonius 12an
+l54	row	Franciscus 11an
+l55	row	filia Kristina 14an
+l56	row	a Anna Żlabicze 40an
+l57	row	1 Joannes Liskis 50an
+l58	row	ux Elisabeth 40an
+l59	row	filia Francisca 9an
+l60	row	c) Cajetanus Żigulis 60an

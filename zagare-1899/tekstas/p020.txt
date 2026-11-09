@@ -1,0 +1,72 @@
+# skenas = 0020
+# busena = ok
+# eScriptorium = dok. 2, 
+l1	row	Normanczei
+l2	row	1.- Dominicus Jocubajtis - 35an
+l3	row	ux. Marianna - 30an
+l4	row	mater Helena - 80an
+l5	row	frater Ignatius - 30an.
+l6	row	2.- Ignatius Bakiunas - 40an
+l7	row	— Agnes - 35an
+l8	row	3.- Josephus Pranis - 36an
+l9	row	ux. Anna - 34an
+l10	row	filius Casimirus - 5.
+l11	row	— Barbara - 7an
+l12	row	4. - Josephus Gulbins - 58an
+l13	row	servitr.
+l14	row	ux. Anna - 45an
+l15	row	filius - Dominicus - 15an
+l16	row	— Vladislaus - 9an
+l17	row	— Anna - 18an
+l18	row	— Brigitta - 14an
+l19	row	5. herus Joannes Locoszunas - 42an
+l20	row	ux. Barbara - 40an
+l21	row	filia - Apolonia - 8an
+l22	row	— Helena - 4.
+l23	row	— Antonina - 2an
+l24	row	pater Dominicus - 68an
+l25	row	fam. Jonnes Nipriks - 13an
+l26	row	6.- Josephus Kirvelis - 50an
+l27	row	ux. Marianna - 40an
+l28	row	filius Casimirus - 5an
+l29	row	— Clemens - 2an
+l30	row	— Marianna - 14an
+l31	row	— Francisca - 10
+l32	row	— Zuzanna - 7.
+l33	page-number	18
+l34	row	7.- Joannes Kirvelis - 45an
+l35	row	ux. Zuzanna - 25an
+l36	row	— fil. Elizabeth - 1an
+l37	row	frater Antonius - 39an
+l38	row	pater Josephus - 73an
+l39	row	mater - Elizabet - 69an
+l40	row	famula Anna Butauticze 25an
+l41	row	— Casimirus Kilczevski - 10an
+l42	row	8.- Thadeus Kipszas - 35an
+l43	row	frater Josephus - 28an
+l44	row	pater - Ignatius - 80an
+l45	row	fam. - Joannes Vejkalas - 70an
+l46	row	— Antonina Vasilevskicze - 20an
+l47	row	— Malvina Szipkicze - 13an
+l48	row	9.- Casimirus Kipszas - 40an
+l49	row	ux. Anna - 30an
+l50	row	filia - Joanna - 7an
+l51	row	— Zuzanna - 5an
+l52	row	— Bronislava - 1an
+l53	row	famula Monika Morkelis - 17an
+l54	row	10.- Casimirus Janczevski - 50an
+l55	row	ux. Helena - 40an
+l56	row	filiu Josephus - 14an
+l57	row	— Vincentius - 8an
+l58	row	— Marciana - 20an
+l59	row	— Barbara - 18an
+l60	row	— Helena - 14an
+l61	row	hab. Heva Rakszticze - 20an
+l62	row	fam. Paulus Raksztis - 12an
+l63	row	11.- Mathias Kipszas - 34an
+l64	row	ux. Anna - 25an
+l65	row	filius - Mathias - 2an
+l66	row	— Casimirus - 1an
+l67	row	— Anna - 3an
+l68	row	fam. Elizabetha Juknicze - 16an
+l69	row	— Jeronimus Diokas - 8an

@@ -1,0 +1,67 @@
+# skenas = 0117
+# busena = mach
+# eScriptorium = dok. 3, 0117 klausimai [segReady seg8a]
+l1	row	8) Marianna Stankievicz 50an
+l2	row	filia Marianna 15an
+l3	row	a) Vincentius Simikus 45an
+l4	row	ux Anna 34an
+l5	row	filia Martha 10an
+l6	row	Magdalena Miknievicz 76an
+l7	row	9 Marcianus Szukszta 49an
+l8	row	a Antonius Udrakis 44an
+l9	row	b) Georgius Czalnaris 50an
+l10	row	ux Marianna 45an
+l11	row	filius Constantinus 18an
+l12	row	ubern Marciana 9an
+l13	row	Malvina 9an
+l14	row	c) Franciscus Olechno 50an
+l15	row	ux Anna 44an
+l16	note-above	mabri
+l17	row	filia Justina 7an
+l18	row	Marianna 4an
+l19	row	Magdalena 4an
+l20	row	10 Casimirus Pranis 27an
+l21	row	ux Cecilia 20an
+l22	row	filia Lucia 1an
+l23	row	a) Joannes Pranis 36an
+l24	row	ux Anna 36an
+l25	row	filius Joannes 4an
+l26	row	II Vladislaus 10an
+l27	row	Victoria 8an
+l28	row	Josaphata 6an
+l29	row	mater Joanuesjita? 70an
+l30	row	a) Monica Gialgodienie 27an
+l31	row	filius Casimirus 2an
+l32	row	c) Stephanus Kuzmicki 65an
+l33	row	ux Catherina 30an
+l34	row	filius Alexander 10an
+l35	row	Josephus 4an
+l36	row	Paulina 12an
+l37	row	Anna 4an
+l38	row	Elisabeth 5an
+l39	row	a) Juliana Mickiese 29an
+l40	row	11 Andrejus Zakis 52an
+l41	row	ux Magvicta? 50an
+l42	row	filius Carolus 20an
+l43	row	a) Jacobus Noris 26an
+l44	row	frater Orofis? 23an
+l45	row	soror Carolina 40an
+l46	row	Anna 30an
+l47	row	filia Francisca 3an
+l48	row	c) Stanislaus Kublicki 55an
+l49	row	ux Elisabeth 41an
+l50	row	filius Eduardus 16an
+l51	row	Helena 14an
+l52	row	c Casimirus Kupszas 50an
+l53	row	ux Apalonia 40an
+l54	row	filia Juliana 15an
+l55	row	d) Anna Pietrovienie 80an
+l56	row	filia Anna 18an
+l57	row	e) Barbara Urbonicze 80an
+l58	row	12 Casimirus Creuczunas 42an
+l59	row	ux Emilia 32an
+l60	row	filius Vincentius 5an
+l61	row	Anna 7an
+l62	row	a Barbara Jasuticze 70an
+l63	row	13 Veronika Szemiotienie 30an
+l64	row	14

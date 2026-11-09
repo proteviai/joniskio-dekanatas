@@ -1,0 +1,81 @@
+# skenas = 0068
+# busena = ok
+# eScriptorium = dok. 3, 0068 baigta [segGT]
+l1	row	19. Joseph Pranculis 52.
+l2	row	ux. Helena 40.
+l3	row	filius Joannes 16.
+l4	row	Elisabeth Urbanas vd. 64.
+l5	row	20 Vincentius Guntis 70.
+l6	row	ux. Heva 50.
+l7	row	filius Vincentius 25.
+l8	row	Anna Lukans vd. 71.
+l9	row	21. Joannus Kirna 39.
+l10	row	ux. Barbara 40.
+l11	row	filius Benedictus 5.
+l12	row	filiae Anna 7.
+l13	row	II. Amelia 3.
+l14	row	b). Rosalia Kupstis vgo 41.
+l15	row	22. Jacobus Kweders 46.
+l16	row	ux. Barbara 60
+l17	row	filius Joannes 20.
+l18	row	filia Susanna 16.
+l19	row	Minczajczej:
+l20	row	1. Alexander Jasutis 42.
+l21	row	ux. Heva 33.
+l22	row	filia Anna 3.
+l23	row	2. Herus Joannes Jasutis 37.
+l24	row	ux Helena 38.
+l25	row	Barbara Jasutis vd. 76
+l26	row	3. Joseph Lubinas gd 51.
+l27	row	filius Casimirus 16.
+l28	row	filia Elisabeth 18.
+l29	row	4. Franciscus Derżynski 45
+l30	row	ux. Anna 31.
+l31	row	b) Gasparas Witołs-Głosnis 61.
+l32	row	ux. Amelia 60.
+l33	row	bis aufugit filius Joannes 30.
+l34	row	filia Juljana 20.
+l35	row	Helena Wisztartas vgo 50.
+l36	row	5 Franciscus Franckiewicz 58
+l37	row	ux. Mariana 45
+l38	row	filius Joseph 13
+l39	row	II Alexander 5
+l40	page-number	66
+l41	row	filia Malvina 13.
+l42	row	Joseph Kweders c. 36.
+l43	row	6 Helena Ledas vd 90.
+l44	row	Michael Jwoszkiewicz 50.
+l45	row	ux. Helena 46.
+l46	row	filiae Eleonora 9.
+l47	row	II. Susanna 7.
+l48	row	III. Marianna 4.
+l49	row	7. Joannes Sziurkus 35.
+l50	row	ux. Mariana 41.
+l51	row	filius Joseph 4.
+l52	row	filia Mariana 7.
+l53	row	Antonius Sziurkus 8
+l54	row	8. Georgius Gałkus 51.
+l55	row	ux. Angela 46.
+l56	row	filia Susanna 15.
+l57	row	filius Georgius 22.
+l58	row	9 Herus Casimirus Kwedars 43.
+l59	row	ux. Helena 42.
+l60	row	filius Alexander 24.
+l61	row	II. Casimirus 18.
+l62	row	III. Joseph 15.
+l63	row	IV. Bonifacius 12.
+l64	row	V. Stanislaus 8.
+l65	row	filia Susanna 22.
+l66	row	10. Joseph Dabriszka 45
+l67	margin-note	Herus
+l68	margin-note	bibulus
+l69	row	ux. Magdalena 37.
+l70	row	filius Marcianus 9
+l71	row	filiae Juljana 22.
+l72	row	II. Annna 13.
+l73	row	III. Apolonia 7.
+l74	row	IV Lucia 2.
+l75	row	Petronila Naudużas 56.
+l76	wrapped	vd
+l77	row	Thaddeus Gustas - 23.
+l78	row	Joseph Melis 23.

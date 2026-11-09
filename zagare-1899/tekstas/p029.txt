@@ -1,0 +1,72 @@
+# skenas = 0029
+# busena = mach
+# eScriptorium = dok. 3, 0029 atsakyta [segGT]
+l1	row	Custos Silvae:
+l2	row	Joseph Marcinkiewicz 78
+l3	row	ux. Catharina 64.
+l4	row	filius Leopoldus 35.
+l5	row	II. Antonius 18
+l6	row	Julianna Matuz vgo 30.
+l7	row	Augustinus Kiuszas 14.
+l8	row	Toloteli:
+l9	row	1. Thomas Bubelis 61.
+l10	row	ux. Barbara 51.
+l11	row	Casimirus Bubelis 80.
+l12	row	2. Ludovicus Szydłowski 56.
+l13	row	ux. Barbara 49.
+l14	row	filius Joseph 25.
+l15	row	II. Stanislaus 16.
+l16	row	3. Joseph Matuz 47.
+l17	row	ux. Helena 40
+l18	row	Casimirus Romaszewski 34.
+l19	note-below	in America
+l20	row	ux. Catharina 34.
+l21	row	4 Casimirus Kipszas 41.
+l22	row	ux. Barbara 40.
+l23	row	filius Casimirus 12.
+l24	row	filia Antonina 15.
+l25	row	5. Joseph Jodrys 45.
+l26	row	ux. Anna 39.
+l27	row	filius Alexandr 15
+l28	row	II. Stanislaus 13.
+l29	row	III. Joseph  9.
+l30	row	filia Monica 18.
+l31	row	II. Anna 7.
+l32	row	Catharina Jodrys vd 17.
+l33	page-number	27
+l34	row	6. Marcianius Bedżiugatis
+l35	wrapped	67.
+l36	row	ux. Anna 55.
+l37	row	filius Thaddeus 16.
+l38	row	II. Franciscus  11.
+l39	row	filia Birgitta 14.
+l40	row	7. Paulus Ginkus 44.
+l41	row	ux. Józefa 36.
+l42	row	filius Juljanus 8
+l43	row	II. Marcianus 5.
+l44	row	III. Joseph 3.
+l45	row	filia Antonina 1.
+l46	row	Toloczi:
+l47	row	1. Herus Casimirus Walonczius 39.
+l48	row	ux. Magdalena 30.
+l49	row	filius Casimirus 11.
+l50	row	II. Joseph 8.
+l51	row	III. Ladislaus 7.
+l52	row	IV. Stanislaus 4
+l53	row	filiae Barbara 12.
+l54	row	II. Monica  10.
+l55	row	III. Francisca 3.
+l56	row	Alexander Bubelis 25.
+l57	row	II Antonius Dijokas 18.
+l58	row	Angela Waupszycze 26.
+l59	row	2. Semher. Andrykajtis Joannes 35
+l60	row	ux. Benedicta 30.
+l61	row	filiae Alexandra 5.
+l62	row	II. Catharina 2.
+l63	row	Casimirus Andrykajtis 35.
+l64	note-below	c.
+l65	row	Helena Urniażys 17.
+l66	row	Sophia Lapińska 10.
+l67	row	3 Semher. Casimirus Andrykajtis 40
+l68	row	ux. Amelia 36
+l69	row	filii Casimirus 8

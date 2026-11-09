@@ -1,0 +1,67 @@
+# skenas = 0107
+# busena = mach
+# eScriptorium = dok. 3, 0107 klausimai [segReady seg8a]
+l1	row	17) Helena Kizievicz 60an
+l2	row	filia Marianna 26an
+l3	row	a) Marianna Pelajtis 17an
+l4	note-above	vem
+l5	row	18 Carolina Stanksevicz vd 32an
+l6	row	filius Josephus 13an
+l7	row	Constantinus 9an
+l8	row	Casimirus 4an
+l9	row	Adamus 3an
+l10	row	frater Adamus St 33an
+l11	row	19 Monica Marcinkienie 38an
+l12	row	filia Monica 11an
+l13	row	f Paulus Sokolovski 30an
+l14	row	7 ux Cristina 50an
+l15	row	filius Constantinus 18an
+l16	row	a Josephus Jacubajtis 60an
+l17	row	ux Catherina 60an
+l18	row	filius Josephus 30an
+l19	row	Casimirus 23an
+l20	row	20 Josephus Navicki 50an
+l21	row	ux Anna 30an
+l22	row	filius Albertus? 1an
+l23	row	Anna 6an
+l24	row	Paulina 3an
+l25	row	21 Josephus Żalis 23an
+l26	row	ux Lucia 31an
+l27	row	a) Alexander Varasilka 27an
+l28	row	ux Anna 30an
+l29	row	filius Joannes 2an
+l30	row	Apalonia 6an
+l31	row	mater Agatha Jankajtienie 60an
+l32	row	c Marianna Szakinskienie 60an
+l33	row	filius Josephus 30an
+l34	row	Marianna 26.
+l35	row	Apolonia 28an
+l36	row	22 Alexander Dante 27an
+l37	row	ux Anna 25an
+l38	row	mater Anna Savickienie 62an
+l39	row	a Lausentius? Czeputis 44an
+l40	row	ux Anna 38an
+l41	row	filius Josephus 13an
+l42	row	Casimirus 12an
+l43	row	Adanius? 11an
+l44	row	Alexander 8an
+l45	row	Anna 7an
+l46	row	Vincentius 1an
+l47	row	b Alexander Kurovski 60an
+l48	row	ux Helena 40an
+l49	row	filius Alexander 13an
+l50	row	Brigitta 18an
+l51	row	Helena 12an
+l52	row	Anna 4an
+l53	row	Francisca 2an
+l54	row	c) Silvester Bizovski 36an
+l55	row	ux Rozalija 40an
+l56	row	filius Antonius 16an
+l57	row	Rochus 4an
+l58	row	Anna 13an
+l59	row	d Ignatius Kavneckis 25an
+l60	row	ux Anna 30an
+l61	row	filia Zuzanna 3an
+l62	row	Juliana 1an
+l63	row	sor Barbara Zaneckicze 15an
+l64	row	mater Ursula Viginskienie 36an

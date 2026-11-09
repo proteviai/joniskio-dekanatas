@@ -1,0 +1,75 @@
+# skenas = 0014
+# busena = ok
+# eScriptorium = dok. 2, 
+l1	row	15.- Marcianus Szukszto - 40an
+l2	row	ux. Brigitta - 40an
+l3	row	filius - Casimirus - 12 an
+l4	row	— Julianus - 6 an
+l5	row	— Amelia - 4an
+l6	row	famulus Antonius Svegżdo - 30an
+l7	row	mater Helena - 60an
+l8	row	16.- Joannes Virbickas - 40an
+l9	row	ux. Anna - 35an
+l10	row	filius Julianus - 15an
+l11	row	— Alexander - 5an
+l12	row	— Leo - 3 an
+l13	row	— Juliana - 9an
+l14	row	frater Casimirus - 45an
+l15	row	mater Barbara - 80an
+l16	row	hab. Anna Żirgulis - 80an
+l17	row	famula Eleonora Stasiulis - 20an
+l18	row	— Agnes Jurguticze - 30an
+l19	row	17. Joannes Doviltis - 50an
+l20	row	ux. Juliana - 35an
+l21	row	filius Petrus - 12an
+l22	row	— Clemens - 10an
+l23	row	— Franciscus - 9 an
+l24	row	— Helena - 7an
+l25	row	— Juliana - 5 an
+l26	row	frater Josephus - 33an
+l27	row	vid. Barbara Pavlovska - 31an
+l28	row	filia Adolphina - 8 an
+l29	row	— Antonius Naudużas - 47 an
+l30	row	mater Anna Szimajtis - 35 an
+l31	row	18.- Joannes Szymajtis - 16an
+l32	row	— Antonius Doviltis - 32an
+l33	row	— Thadeus Szymajtis - 45an
+l34	row	fam. Antonius Jaraszevski - 40an
+l35	row	— Apolonia Daunicze - 17an
+l36	row	— Juliana Szymajticze - 13an
+l37	row	— Antonius Rudovski - 10an
+l38	page-number	12
+l39	row	19.- Alexander Kajkaris - 31an
+l40	row	ux. Monica - 23an
+l41	row	filius Alexander - 1an
+l42	row	soror - Brigitta - 23an
+l43	row	pater Bonifacius - 70an
+l44	row	famulus Dominicus Ginkus - 21an
+l45	row	— Clemens Vejkalas - 18 -
+l46	row	— Barbara Dovidajtis - 22an
+l47	row	— Franciszka Raneki - 12an
+l48	row	20. Ignatius Jonkus - 50an
+l49	row	ux. Barbara - 85an
+l50	row	filius Vincentius Norvaisz - 24an
+l51	row	— Casimirus - 16an
+l52	row	fam. Anna Kvederas - 25an
+l53	row	— Helena Kielpszicze - 16an
+l54	row	— Adolphina Pavlovska - 8an
+l55	row	21.- Stephanus Żigulis - 60an
+l56	row	ux. Kristina - 40an
+l57	row	famulus - Franciscus Machavecki - 28
+l58	row	— Franciscus Kraszevski - 14an
+l59	row	— Margrieta Kraszevska - 25an
+l60	row	— Matilda Tamulis - 19an
+l61	row	Tauczunaj
+l62	row	1) Thadeus Doigotas - 40an
+l63	row	ux. Marianna - 21an
+l64	row	filia Victoria - 1an
+l65	row	hab. a) Anna Micolajtis vid. - 50an
+l66	row	filia - Marianna - 9 an
+l67	row	— Anna - 16an
+l68	row	2) Helena Dargużas vid. - 70an
+l69	row	Agnes Kaczkis vid. - 39an
+l70	row	filius - Bronislaus - 9an
+l71	row	— Monica - 15an
+l72	row	— Euphemia - 11an

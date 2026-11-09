@@ -1,0 +1,65 @@
+# skenas = 0113
+# busena = mach
+# eScriptorium = dok. 3, 0113 klausimai [segReady seg8a]
+l1	row	30.) Josephus Szidlovski 50an
+l2	row	ux Martha 40an
+l3	row	filius Ignatius 13an
+l4	row	Josephus 6an
+l5	row	Martha 10an
+l6	row	pat Rochus Ramutis 60an
+l7	row	ux Francisca 40an
+l8	row	filius Josephus 21an
+l9	row	Vincentius 18an
+l10	row	Franciscus 7an
+l11	row	Helena 18an
+l12	row	Joanna 3an
+l13	row	31 Josephus Jakubajtis 58an
+l14	row	ux Rozalia 40an
+l15	row	filius Joannes 9an
+l16	row	Rozalia 15an
+l17	row	Zuzanna 12an
+l18	row	Anna ~~17~~3an
+l19	row	Martha 5an
+l20	row	a Sophia Mickievicz 30an
+l21	row	b) Anna Jasapajticze 30an
+l22	row	filia Apelonia? 13an
+l23	row	32.) Dominicus Tovtvojszas 35an
+l24	row	ux Theodora 25an
+l25	row	filius Casimirus 3an
+l26	row	Francisca 5an
+l27	row	a Alexander Lindovicz 30an
+l28	row	ux Barbara 33an
+l29	row	filius Josephus 3an
+l30	row	Vincentius 6an
+l31	page-number	111
+l32	row	filia Amelia 8an
+l33	row	33 Casimirus Dauginis 36an
+l34	row	ux Juliana 30an
+l35	row	filius Casimirus 4an
+l36	row	a Anna Tovstvajszienie 40an
+l37	row	filius Leo 16an
+l38	row	Marianna 19an
+l39	row	34.) Marcianus Ornażis 40an
+l40	row	ux Barbara 39an
+l41	row	nug Vladislaus Niukas 5an
+l42	row	a Josephus Pukinski 32an
+l43	row	ux Barbara 34an
+l44	row	filius Joannes 5an
+l45	row	Casimirus 3an
+l46	row	Juliana 7an
+l47	row	35.) Antonius Krevczunas 42an
+l48	row	ux Helena 50an
+l49	row	filia Marianna 15an
+l50	row	a Barbara Kibartienie 80an
+l51	row	filia Anna 50an
+l52	row	b Casimirus Gulbons 50an
+l53	row	ux Marianna 40an
+l54	row	filius Clemens 16an
+l55	row	Josephus 14an
+l56	row	Vladislaus 14an
+l57	row	Zuzanna 15an
+l58	row	36 Anna Szliażevicz 69an
+l59	row	filia Justina Tovtvojszienie 33an
+l60	row	filius Constantinus 9an
+l61	row	a Joannes Pablovski 40an
+l62	row	ux Eleonora 38an

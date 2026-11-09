@@ -1,0 +1,69 @@
+# skenas = 0123
+# busena = mach
+# eScriptorium = dok. 3, 0123 klausimai [segReady seg8a]
+l1	row	2 Adamus Rankovski 38an
+l2	row	ux Juliana 21an
+l3	row	a) Joannes Gedartas 60an
+l4	row	ux Anna 70an
+l5	row	3) Vincentius Kacskis 22an
+l6	row	ux Susanna 25an
+l7	row	a Thadeus Gasparajtis 42an
+l8	row	ux Anna 45an
+l9	row	filius Joannes 14an
+l10	row	Adamus 7an
+l11	row	Anna 17an
+l12	row	Helena 13an
+l13	row	Juliana 12an
+l14	row	Zuzanna 3an
+l15	row	4 Davidus Kukulis 60an
+l16	row	ux Juliana 50an
+l17	row	filia Anna 19an
+l18	row	a) Franciscus Czepinskis 22an
+l19	row	ux Martha 27an
+l20	row	filius Stanislaus 7an
+l21	row	Alexander 6an
+l22	row	Constantinus 4an
+l23	row	Vladislaus 3an
+l24	row	5 Casimirus Zaloga 49an
+l25	row	ux Agnes 30an
+l26	row	filius Casimirus 2an
+l27	row	Casimira 6an
+l28	row	6) Elisabeth Dovidajtiene 60an
+l29	row	filius Joannes 26an
+l30	row	Thadeus 36an
+l31	row	Marianna 20an
+l32	row	a Antonius Janovicz 60an
+l33	row	ux Marianna 55an
+l34	row	filius Antonius 18an
+l35	row	b Marianna Grinicze 40an
+l36	row	c Veronica Juriaviczienie 40an
+l37	row	filius Anna 9an
+l38	row	Boleslaus 5an
+l39	row	d) Ignatius Szlods 80an
+l40	row	a) Marcianus Jezopovicz 50an
+l41	row	7 Antonius Tovstvojsz 45an
+l42	row	ux Anna 40an
+l43	row	filia Malvina 18an
+l44	row	Justina 17an
+l45	row	8 Helena Januszicze 40an
+l46	row	filia Marciana 16an
+l47	row	a Casimirus Grigaliunas 50an
+l48	row	ux Elisabeth 40an
+l49	row	filia Juliana 11an
+l50	row	9 Franciscus Gaubert 30an
+l51	row	ux Helena 26an
+l52	row	filius Albinus 4an
+l53	row	Helena 3an
+l54	row	Victoria 1an
+l55	row	Hedvica? 1an
+l56	row	10 Vincentius Virbickas 38an
+l57	row	ux Anna 35an
+l58	row	filius Alexander 7an
+l59	row	Zuzanna 1an
+l60	row	Adomus Virbreki 27an
+l61	row	11 Joannes Gricius 40an
+l62	row	ux Agatha 32an
+l63	row	filius FZrancrsus? 4an
+l64	row	Joanna 3an
+l65	row	Anna 1an
+l66	row	soror Dorotha Czechanovska 25an

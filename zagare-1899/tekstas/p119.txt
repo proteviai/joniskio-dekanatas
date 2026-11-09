@@ -1,0 +1,71 @@
+# skenas = 0119
+# busena = mach
+# eScriptorium = dok. 3, 0119 klausimai [segReady seg8a]
+l1	row	24 Vincentius Tovtvojsz 39an
+l2	row	ux Anna 38an
+l3	row	filius Stanislaus 8an
+l4	row	Vladislaus 6an
+l5	row	Marianna 14an
+l6	row	Alexandra 4an
+l7	row	mater Elisabeth Baltruszajtiene 50an
+l8	row	a) Casimirus Pavlovski 40an
+l9	row	ux Marianna 30an
+l10	row	filius Dominicus 6an
+l11	row	Antonina 6an
+l12	row	mater Anna Gustienie 70an
+l13	row	b Eleonora Gudickajtie 14an
+l14	row	c) Antonius Żalieckis 70an
+l15	row	ux Josepha 50an
+l16	row	filius Vladislaus 16an
+l17	row	Franciscus 25an
+l18	row	Stanislaua 19an
+l19	row	25 Marianna Mirovicz 50an
+l20	row	filius Adolphus 23an
+l21	row	Alexander 14an
+l22	row	Josephus 7an
+l23	row	Stanislaua 19an
+l24	row	mater Helena Rudriska 80an
+l25	row	26 Alexander Marcinkus 25an
+l26	row	ux Francisca 20an
+l27	row	mater Domicella 70an
+l28	row	Josephus Tarvidis 45an
+l29	row	Drabauckiene
+l30	row	c) Anna Drabauckiene 19an
+l31	row	Mehamekien? 10an
+l32	row	filia Marianna 24an
+l33	row	filia Sophia 1an
+l34	page-number	117
+l35	row	ux Joanna
+l36	row	1) Georgius Zesyeckas 53an
+l37	row	ux Martha 54an
+l38	row	filius Casimirus 21an
+l39	row	Vincentius 11an
+l40	row	Helena 20an
+l41	row	Martha 14an
+l42	row	2- Casimirus Koderas 35an
+l43	row	ux Victoria 24an
+l44	row	filius Hieronimus 2an
+l45	row	Agatha Szipalicze 12an
+l46	row	b Marcianus Danta 48an
+l47	row	ux Helena 40an
+l48	row	filius Gasparas 19an
+l49	row	Casimirus 17an
+l50	row	Stanislaus 11an
+l51	row	Josephus 6an
+l52	row	Marianna 12an
+l53	row	Juliana 5an
+l54	row	Amelia 3an
+l55	row	3.) Josephus Vajtiekajtis 32an
+l56	row	ux Anna 30an
+l57	row	mater Helena Drigotienie 60an
+l58	row	a Casimirus Dirzinski 32an
+l59	row	ux Juliana 40an
+l60	row	4 Mathias Szidlovski 45an
+l61	row	ux Catherina 42an
+l62	row	filius Joannes 15an
+l63	row	Josephus 12an
+l64	row	Vincentius 34an
+l65	row	a Magdalien? a Bicziosienis 34an
+l66	row	filius Josephus 6an
+l67	row	Aantanunus? 5an
+l68	row	a) Eleonora Rambauckicze 40an

@@ -1,0 +1,63 @@
+# skenas = 0037
+# busena = ok
+# eScriptorium = dok. 3, 0037 baigta [segReady]
+l1	row	10. Semherus Antonius Pampars - 33an
+l2	row	ux. Helena - 32an
+l3	row	filius Josephus - 10an
+l4	row	Clemens - 8an
+l5	row	Joannes - 6an
+l6	row	Anna - 11an
+l7	row	patres. Vincentius - 70an
+l8	row	ux. Helena - 60an.
+l9	row	11.- Alexander Mickus - 40an
+l10	row	ux. Rozalia - 30an
+l11	row	filius Alexander - 5an
+l12	row	mater Martha Briedienie - 60an
+l13	row	12. Josephus Czeputis - 31an
+l14	row	ux. Monica - 28an
+l15	row	filius Josephus - 1an
+l16	row	Sophia - 5an
+l17	row	Francisca - 2an
+l18	row	a) Casimirus Szutks - 38an
+l19	row	ux. Elisabeth - 35an
+l20	row	filia - Elisabeth - 7an
+l21	row	Juliana - 5an
+l22	row	13.- Alexander Czeputis - 53an
+l23	row	ux. Helena - 50an
+l24	row	filius Alexander - 17an
+l25	row	Helena - 19an
+l26	row	14.- Joannes Kviadaras - 23an
+l27	row	ux. Eleonora - 20an
+l28	row	mater. Catherina - 60an
+l29	page-number	35
+l30	row	15.- Joannes Pampars - 32an
+l31	row	ux. Barbara - 26an
+l32	row	filius Joannes - 5an
+l33	row	16.- Thomas Adomajtis - 40an
+l34	row	ux. Anna - 32an
+l35	row	filius Julianus - 8an
+l36	row	Casimirus - 6an
+l37	row	Joanna - 11an
+l38	scribe-mistake	mater Barbara Adomajti - 70an
+l39	row	17.- Josephus Kviadaras - 38an
+l40	row	ux. Barbara - 30an
+l41	row	filius Casimirus - 6 -
+l42	row	Josephus - 7.
+l43	row	Cleophatra - 2an
+l44	row	mater - Helena Szutrovienie - 80an
+l45	row	18.- Casimirus Orlovski - 60an
+l46	row	ux. Marianna - 60an
+l47	row	Sem
+l48	row	19. Herus Alexander Jonkus - 30an
+l49	row	ux. Helena - 27an
+l50	row	mater Barbara - 60an
+l51	row	famula Juliana Zalogicze - 18an
+l52	note-above	Semh
+l53	row	20.- Petrus Orlovski - 50an
+l54	row	ux. Marianna - 40an
+l55	row	filius Michael - 2an
+l56	row	Magdalena - 20an
+l57	row	Brigitta - 12an
+l58	row	Zuzanna - 5an
+l59	row	Apolonia - 4an
+l60	row	famulus Joannes Udrakis - 40an

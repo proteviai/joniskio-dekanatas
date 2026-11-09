@@ -1,0 +1,63 @@
+# skenas = 0111
+# busena = mach
+# eScriptorium = dok. 3, 0111 klausimai [segReady seg8a]
+l1	row	c Josephus Szukis 27an
+l2	row	ux Heva 29an
+l3	row	filius Antonius 2an
+l4	row	d Anna Szinienie 70an
+l5	row	filius Antonius 23an
+l6	row	Anastasia 14an
+l7	row	13 Felicianus Danielius 22an
+l8	row	Dvioataan?
+l9	row	a Antonius Lemczunas 50an
+l10	row	ux Helena 45an
+l11	row	filius Antonius 7an
+l12	row	Josephus 16an
+l13	row	Victoria 10an
+l14	row	Helena 18an
+l15	row	fer Ignatius Lemezunas 27an
+l16	row	b Barbara Skerienie 50an
+l17	row	c Elisabeth Frakauckienie 50an
+l18	row	18 Franciscus Grużinski 33an
+l19	row	ux Anna 32an
+l20	row	filius Franciscus 5an
+l21	row	Vincentius 2an
+l22	row	Anna 12an
+l23	row	Apalonia 7an
+l24	row	a Josephus Niukas 28an
+l25	row	ux Angela 22an
+l26	row	filia Euphosina 2an
+l27	row	c Michael Dements 30an
+l28	row	ux Anna 40an
+l29	row	filius Josephus Sranusiai 17an
+l30	row	Vaclavus 1an
+l31	row	19 Stanislaus Garbaczevski 6an
+l32	row	ux Helena 40an
+l33	row	filius Stanislaus 8an
+l34	row	Zuzanna 16an
+l35	row	Marciana 14an
+l36	row	Amelia 12an
+l37	row	Juliana 1an
+l38	row	20 Georgius Razvodovski 22an
+l39	row	soror Juliana 16an
+l40	row	Barbara 8an
+l41	row	a Thadeus Sziaudiskis 40an
+l42	row	ux Barbara 50an
+l43	row	filius Joannes 18an
+l44	row	c Juliana Bladicze 26an
+l45	row	soror Helena 22an
+l46	row	Apalonia 25an
+l47	row	21 Ignatius Szidlovski 60an
+l48	row	ux Helena 28an
+l49	row	filia Juliana 4an
+l50	row	Casimira 3an
+l51	row	Benedicta 2an
+l52	row	famula Barbara Bicziuszicze 26an
+l53	row	a Anna Buzienie 70an
+l54	row	22 Marcianus Adomajtis 65an
+l55	row	ux Ursula 60an
+l56	row	d Vincentius Vajtkus 38an
+l57	row	ux Anna 25an
+l58	row	filia Sophia 3an
+l59	row	Helena 2an
+l60	row	famulus Josephus Jasutis 19an

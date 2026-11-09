@@ -1,0 +1,70 @@
+# skenas = 0099
+# busena = mach
+# eScriptorium = dok. 3, 0099 klausimai [segReady seg8a]
+l1	row	6 Joannes Balcziunas 47an
+l2	row	ux Liudovica 45an
+l3	row	Bartuvrs? ul
+l4	row	1 Casimirus Romaszevski 72an
+l5	row	ux Veronica 70an
+l6	row	a Josephus Bredis 34an
+l7	row	ux Marianna 32an
+l8	row	filius Josephus 2an
+l9	row	2 Antonius Tarvidis 40an
+l10	row	ux Marianna 30an
+l11	row	filius Josephus 12an
+l12	row	Alexander 6an
+l13	row	filia Marianna 15an
+l14	row	Elisabeth 4an
+l15	row	fil Julianus Mituzas 15an
+l16	row	3 Clemens Dambrovski 40an
+l17	row	ux Agatha 30an
+l18	row	filius Vincentius 4an
+l19	row	Constantinus 2an
+l20	row	Helena 7an
+l21	row	4 Cleophas Petrilla 30an
+l22	row	ux Juliana 29an
+l23	row	filius Alexander 9an
+l24	row	Josephus 2an
+l25	row	a Casimirus Stankajtis 23an
+l26	row	ux Catherina 19an
+l27	row	filia Amelia 1an
+l28	row	b Dominicus Zelis 40an
+l29	row	ux Helena 36an
+l30	row	c Josephus Kavalas 40an
+l31	row	ux Juliana 40an
+l32	row	5 Monica Buiszicze 70an
+l33	row	mater Monica 70an
+l34	row	famula Anna Vajtievajcze 30an
+l35	row	nepta Ludvina 5an
+l36	row	6 Thadeus Zanuszevski 50an
+l37	row	ux Heva 24an
+l38	row	filius Joannes 5an
+l39	row	Petrus 3an
+l40	row	Ealominicus? 1an
+l41	row	a Jacobus Lebecki 26an
+l42	row	ux Anna 22an
+l43	row	7 Antonius Visztartas 35an
+l44	row	ux Helena 34an
+l45	row	filius Albinus 10an
+l46	row	Franciscus 5an
+l47	row	Alexander 3an
+l48	row	Antonina 1an
+l49	row	a Vincentius Melis 72an
+l50	row	filius Caesarius 19an
+l51	row	b Casimirus Ornezis 67an
+l52	row	ux Petronella 51an
+l53	row	6 Alexander Vajtiekajtis 40an
+l54	row	ux Catherina 40an
+l55	row	a Carolus Pielgocki 38an
+l56	row	soror Carolina 30an
+l57	row	ux Martha 30an
+l58	row	filius Josephus 7an
+l59	row	Petrus 2an
+l60	row	Anna 10an
+l61	margin-note	fatb
+l62	row	mater Anna Storkajtiene 82an
+l63	row	b Joannes Kvedaras 18an
+l64	row	Smater? Barbara 60an
+l65	row	Jadamus? Jakajtis 22an
+l66	row	ux Annacze? 30an
+l67	row	filia Helena 1an

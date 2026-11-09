@@ -1,0 +1,68 @@
+# skenas = 0063
+# busena = mach
+# eScriptorium = dok. 3, 0063 atsakyta [segReady auto1]
+l1	row	5 Marcianus Valis 40an
+l2	row	ux Marianna 28an
+l3	row	filia Apalonia 2an
+l4	row	6 Thadeus Vajcziulis 60an
+l5	row	ux Anna 50an
+l6	row	filius Thadeus 21an
+l7	row	Anna 25an
+l8	row	Juliana 12an
+l9	row	a) Victoria Maravskienie 60an
+l10	row	7 Herus Josephus Rudominas 60an
+l11	struck	ux Marianna So 40an
+l12	row	filius Hieronimus 28an
+l13	row	vir aufugit ~~nit~~ Marianna Savickienie 40an
+l14	row	filia Apalonia 14an
+l15	row	famul Vincentius Buzas 32an
+l16	row	Dominicus Żalis 12an
+l17	row	Ursula Jusevicicze 28an
+l18	row	8 herus Joannes Gurski 57an
+l19	row	ux Anna 47an
+l20	row	filius Joannes 19an
+l21	row	Stephans 17an
+l22	row	Anna 14an
+l23	row	Apalonia 12an
+l24	row	famula Helena Urbonicze 20an
+l25	row	9) Barbara Norkovienie 57an
+l26	row	vir expullsus
+l27	row	10) Helena Kaliendrienie 40an
+l28	row	filius Josephus 14an
+l29	row	Casimirus 13an
+l30	row	Joannes 9an
+l31	row	mater Anna 60an
+l32	row	a) Hippolitus Dakanavicz 24an
+l33	row	ux Juliana 25an
+l34	page-number	61
+l35	row	11 Josephus Urbonas 60an
+l36	row	ux Anna 50an
+l37	row	filia Juliana 7an
+l38	row	12 arend Joannes Jasiunas 60an
+l39	row	ux Magdalena 50an
+l40	row	filius Joannes 21an
+l41	row	famulus Antonius Jankovsk. 23an
+l42	row	Martha Gumauskajtie 18an
+l43	note-above	vir liguni?s per
+l44	row	Helena Pilkienie 24an
+l45	row	filius Josephus 7an
+l46	row	Francisca 3an
+l47	row	13 herus Angela Szalkovskienie 70an
+l48	row	filia Juliana 40an
+l49	row	Marciana 35an
+l50	row	14 herus Dominicus Valis 38an
+l51	row	ux Helena 25an
+l52	row	filius Franciscus 1an
+l53	row	Anna 3an
+l54	row	famulus Josephus Narutis 20an
+l55	row	pater Michael 90an
+l56	note-above	filia
+l57	row	Soror Zuzanna 20an
+l58	row	15 herus Alexander Norkus 30an
+l59	row	frater Petrus 26an
+l60	row	soror Helena 28an
+l61	row	mater Rozalia 56an
+l62	row	Soror Magdalena Josapaviczenie 50an
+l63	row	Soror Helena Jurgelicze 60an
+l64	row	famula Antonina Stuguricze 30an
+l65	row	Casimirus Panka 10an

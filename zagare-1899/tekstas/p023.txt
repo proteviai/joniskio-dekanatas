@@ -1,0 +1,71 @@
+# skenas = 0023
+# busena = ok
+# eScriptorium = dok. 2, 
+l1	row	2. Antonius Balakas - 40an
+l2	row	ux. Juliana - 30an
+l3	row	filius Joannes - 8an
+l4	row	— Zuzanna - 6an
+l5	row	— Marianna - 2an
+l6	row	1.- Franciscus Kapczius - 40an
+l7	row	ux. Anna - 30an
+l8	row	filius Franciscus - 12an
+l9	row	— Josephus - 4an
+l10	row	— Marianna - 10an
+l11	row	— Zuzanna - 8an
+l12	row	— Ludovica - 6an
+l13	row	— Rozalia - 2an
+l14	row	frater Antonius Daunis - 21an
+l15	row	2. Thadeus Adomajtis - 60.
+l16	row	ux. Barbara - 40an
+l17	row	filia Rozalia - 6an
+l18	row	— Barbara - 4an
+l19	row	3. Josephus Baltoks - 26an
+l20	row	ux. Barbara - 30an
+l21	row	filius Franciscus - 2an
+l22	row	Custos Silvae.
+l23	row	1)- Alexander Narvid - 32an
+l24	row	ux. Razalia - 22an
+l25	row	mater Thecla Modestovicz - 62an
+l26	row	frater Vladislaus Modestovicz - 19an
+l27	row	— Hieronimus Dżiugis - 15an
+l28	row	Biejki
+l29	row	1) Herus.- Adolf Liesczinski - 50an
+l30	row	ux. Helena - 45an
+l31	row	filia - Bronislava - 19an
+l32	row	filia Jedviga - 21an
+l33	page-number	21
+l34	row	famulus Josephus Barovski - 43an
+l35	row	ux. Emilia - 50an
+l36	row	filius - Carolus - 12an
+l37	row	— Michalina - 7an
+l38	row	fam. Augustinus Judka - 34an
+l39	row	ux. Anna - 25an
+l40	row	filia - Agnes - 2an
+l41	row	— Jozepha - 1an
+l42	row	Andruszki:
+l43	row	1. Custos Silvae
+l44	row	Ladislaus Malcewicz 46.
+l45	row	ux. Marcianna 35.
+l46	row	filius Sigismundus 3
+l47	row	Marcianna Pukowska vgo 80.
+l48	row	Joseph Naudużas 15.
+l49	row	2 Georgius Naudużas 39
+l50	row	ux. Barbora 31.
+l51	row	filius Joseph 3.
+l52	row	filiae Marciana 6.
+l53	row	II. Barbara 4.
+l54	row	III Casimira 1.
+l55	row	3 Joseph Naudużas 50.
+l56	row	ux. Anna 30.
+l57	row	filius Antonius 3.
+l58	row	filia Marciana 6.
+l59	row	4. Tadeusz Sabaszewski 40.
+l60	row	Barbora 46.
+l61	row	filius Joannes Nauduzas 19.
+l62	row	filius Sobaszewski Georgius 10.
+l63	row	filia Marciana 6.
+l64	row	Rosalia Romaszewska - 19.
+l65	row	5. Anna Czużewska vid 31.
+l66	row	filius Alexander 15.
+l67	row	filia Helena 10.
+l68	row	Helena Słanczewska vd. 50.

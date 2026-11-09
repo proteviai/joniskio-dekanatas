@@ -1,0 +1,63 @@
+# skenas = 0091
+# busena = mach
+# eScriptorium = dok. 3, 0091 klausimai [segReady seg8a]
+l1	row	4 Magdalena Kaczkienie 61an
+l2	row	filia Magdalena 25an
+l3	row	5 Alexander Naudużas 40an
+l4	row	ux Antonina 36an
+l5	row	filius Josephus 13an
+l6	row	Antonius 12an
+l7	row	Alexander 4an
+l8	row	Anna 8an
+l9	row	Francisca 1an
+l10	note-above	vid
+l11	row	6 Thadeus Mickus 80an
+l12	row	filia Helena 29an
+l13	row	filia Juliana pas pisorius privatus 30an
+l14	row	7 Casimirus Berzinis 50an
+l15	row	ux Kristina 48an
+l16	row	pater Elisabeth 80an
+l17	row	8 Joannes Gurski 53an
+l18	row	ux Heva 38an
+l19	row	filius Antonius 19an
+l20	row	Vladislaus 16an
+l21	row	Joannes 14an
+l22	row	Josephus 4an
+l23	row	Zuzanna 13an
+l24	row	Palmira 10an
+l25	row	Juliana 6an
+l26	row	a Annus? Kaczkicze 40an
+l27	row	9 Antonius Kuzmicki 45an
+l28	row	ux Magdalena 40an
+l29	row	10 Josephus Szliażas 44an
+l30	row	ux Zuzanna 26an
+l31	row	pater Anna 70an
+l32	row	a Magdalena Szliażicze 80an
+l33	row	11 Herus Vladislaus Strockis 30an
+l34	row	ux Heva 28an
+l35	row	filia Sophia 6an
+l36	row	Zuzanna 2an
+l37	row	famulus Michael Pampars 29an
+l38	row	Josephus Berzinis 44an
+l39	row	Joanna Petrauckicze 18an
+l40	note-above	ux
+l41	row	Helena Pamparienie 24an
+l42	row	filius Vladislaus 1an
+l43	row	pater Josephus 76an
+l44	row	12 Herus Marcianus Dvelis 56an
+l45	row	ux Magdalena 40an
+l46	row	filius Alexander 20an
+l47	row	Zuzanna 17an
+l48	row	Joanna 14an
+l49	row	famulus Antonius Kligeris 14an
+l50	row	Lucia Berżinicze 25an
+l51	row	13 Herus Josephus Diokas 45an
+l52	row	ux Juliana 32an
+l53	row	filius Vladislaus 7an
+l54	row	Josephus 7an
+l55	row	Argehas 8an
+l56	row	Helena 2an
+l57	row	14 Hherus? Antonius Kigas 60an
+l58	row	ux Rozalia 60an
+l59	row	filius Antonius 30an
+l60	row	Casimirus 29an

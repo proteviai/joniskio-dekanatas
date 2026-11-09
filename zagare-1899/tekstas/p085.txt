@@ -1,0 +1,68 @@
+# skenas = 0085
+# busena = mach
+# eScriptorium = dok. 3, 0085 klausimai [segReady auto1]
+l1	row	83
+l2	row	5 Casimirus Jonkus 40an
+l3	row	ux Juliana 34an
+l4	row	12 Herus Dec Alex Skrypko 61
+l5	row	filius Casimirus 3an
+l6	row	ux Barbara 44.
+l7	row	filius Joseph 27.
+l8	row	6 Joannes Ribskis 70an
+l9	row	II Ladislaus 9
+l10	row	ux Anastasia 50an
+l11	row	filiae Anna 20.
+l12	row	filia Elisabeth 24an
+l13	row	II Justina 12.
+l14	row	7 Casimirus Mikulskas 28an
+l15	row	11 Felix Guzewski 28.
+l16	row	ux Emilia 28an
+l17	row	Monica Skrypkus 26an
+l18	row	patres Casimirus 80an
+l19	row	Anna ~~St.~~ Grikas 13an
+l20	row	ux Eleonora 68an
+l21	row	b) Vincentius Mużyninks
+l22	wrapped	23.
+l23	row	ux Anna 22
+l24	row	8 Alexander Jasajtis 37an
+l25	row	filia Josephata 2
+l26	row	ux Anna 35an
+l27	row	filius Thadeus 8an
+l28	row	Casimirus 3an
+l29	row	Verszej?
+l30	row	Alexander 2an
+l31	row	1 Josephus Mikloszius 40an
+l32	row	ux Heva 37an
+l33	row	9 Josephus Szakinski 25an
+l34	row	filius Joannes 14an
+l35	row	ux Helena 21an
+l36	row	Josephus 9an
+l37	row	filius Josephus 2an
+l38	row	Marianna 7an
+l39	row	a Eleonora Kardinskienie 80an
+l40	row	a Thadeus Mikloszius 90an
+l41	row	10 Thadeus Szukszta 50an
+l42	row	2 Vincentius Czesniks 40an
+l43	row	ux Grasilda 50an
+l44	row	filius Alfons 8an
+l45	row	ux Eleonora 50an
+l46	row	filius Vladislaus 8an
+l47	row	Vincentius 5an
+l48	row	Barbara 12an
+l49	row	Joanna 14an
+l50	row	3 Josephus Biczius 37an
+l51	row	11 Dominicus Sziukszta 40an
+l52	row	ux Anna 26an
+l53	row	ux Monica 33an
+l54	row	filius Georgius 6an
+l55	row	filius Alexander 8an
+l56	row	Casimirus 4an
+l57	row	Dominicus 6an
+l58	row	Josephus 3an
+l59	row	Marcianus 3an
+l60	row	4 Helena Bicziuszienie 60an
+l61	row	12 Alexander Bertulis 25an
+l62	row	filia Helena 37an
+l63	row	frater Vincentius 16an
+l64	row	Barbara 30an
+l65	row	mater Barbara 40an

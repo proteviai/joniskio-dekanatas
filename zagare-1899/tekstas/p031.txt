@@ -1,0 +1,75 @@
+# skenas = 0031
+# busena = ok
+# eScriptorium = dok. 3, 0031 baigta [segReady]
+l1	row	filiae Joanna 14
+l2	row	II. Marianna 5.
+l3	row	4 Joannes Balaks 40
+l4	row	ux Heva 30
+l5	row	filius Joannes 9
+l6	row	II. Benedictus 7.
+l7	scribe-mistake	III. Hyeronimus 1.
+l8	scribe-mistake	5 Georgius Kiusas 38.
+l9	row	ux. Catharina 36.
+l10	row	filius Stanislaus 10.
+l11	row	II Rochus 8.
+l12	row	III. Constantinus 2
+l13	row	filiae Jadvigis 3.
+l14	row	6 Ignatius Zalecki 33
+l15	row	ux. Eleonora 22.
+l16	row	filiae Alexandra 5
+l17	row	II Anna  4.
+l18	row	Eleonora Daunis vd 70.
+l19	row	filius Vincentius 14.
+l20	row	Custos Silvae:
+l21	row	Joseph Szymkiewicz 34.
+l22	row	ux. Anna 33.
+l23	row	filius Stanislaus 7.
+l24	row	filia Sophia. 5.
+l25	row	Thecla Sobańska vd
+l26	wrapped	71.
+l27	row	Juljanna Balcziunas 14.
+l28	row	Leo Maczulski 20.
+l29	row	Manczi:
+l30	row	1. Vincentius Novicki 62
+l31	row	ux. Barbara 46.
+l32	row	filius Vincentius 2
+l33	row	filia Anastasia 11.
+l34	scribe-mistake	II Bronislaa 5.
+l35	page-number	29
+l36	row	Joseph Czeszinskas vd 67.
+l37	row	2 Semher. Ludovicus Jurgelis 34.
+l38	row	ux. Anna 30.
+l39	row	filia Susanna 7.
+l40	row	II. Benedicta 4.
+l41	row	III. Marianna 2
+l42	scribe-mistake	Thecla Jurgielis vd. 71.
+l43	row	Barbara Adomajtis 40.
+l44	row	b) Rochus Nauduzas 42.
+l45	row	ux. Anna 40.
+l46	row	filius Joseph 8.
+l47	row	filia Alexandra 6
+l48	row	Antonina
+l49	wrapped	17
+l50	shared	Jurgelis
+l51	row	Helena
+l52	wrapped	15.
+l53	row	3. Kmieci: Casimirus Pelecki 50
+l54	row	ux. Ursula 46
+l55	row	filius Antonius  5.
+l56	row	filia Susanna 14.
+l57	needs-research	b) Thadeus Styrpejko 50.
+l58	row	ux. Anna. 45.
+l59	row	filius Joseph 12.
+l60	row	II. Vincentius 2.
+l61	row	filia Helena 15.
+l62	row	II. Anna ~~1~~7.
+l63	row	c) Casimirus Kipszas 43.
+l64	row	ux. Elisabeth 28
+l65	row	filius Clemens 1.
+l66	row	Catharina Kipszas 67.
+l67	row	d) Joseph Auksalis 33.
+l68	row	ux Anna 32.
+l69	row	filius Joseph 12.
+l70	row	II. Vincentius 6.
+l71	row	filia Alexandra 3.
+l72	row	II. Marciana 1.

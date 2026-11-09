@@ -1,0 +1,61 @@
+# skenas = 0010
+# busena = ok
+# eScriptorium = dok. 2, 
+l1	row	13. Josephus Czeczinskas - 60an
+l2	row	ux. Anna - 42an
+l3	row	filius Josephus - 18an
+l4	row	— Casimirus - 8an
+l5	row	— Helena - 11an
+l6	row	14. Casimirus Dante - 36an
+l7	row	ux. Barbara - 28an
+l8	row	15. Josephus Stancus - 65an.
+l9	row	ux. Helena - 50an
+l10	row	filius Alexander - 16an
+l11	row	— Thadeus - 19an
+l12	row	16.- Franciscus Norvaisz - 44an
+l13	row	ux. Anna - 35an
+l14	row	filius - Franciscus - 9an
+l15	row	— Alexander - 7an
+l16	row	17. Michael Kurowski - 38an
+l17	row	ux. Anna - 30an
+l18	row	filius - Alexander - 5an
+l19	row	— Anna - 12an
+l20	row	— Antonina - 1an
+l21	row	mater Marianna - 63an
+l22	row	18.- Josephus Mikloszius - 59an
+l23	row	ux. Helena - 47an
+l24	row	filius - Antonius - 21an
+l25	row	— Alexander - 12an
+l26	row	— Franciscus - 3an
+l27	row	— Barbara - 17an
+l28	row	— Helena - 10an
+l29	row	— Monica - 7
+l30	row	19.- Marcianus Baravicas - 51an
+l31	row	ux. Anna - 44an
+l32	row	filius - Josephus - 9an
+l33	row	— Barbara - 20an
+l34	row	20. Stanislaus Vaitiekajtis - 40a.
+l35	row	ux. Eleonora - 35an
+l36	row	filius - Casimirus - 1an
+l37	row	— Antonina - 15an
+l38	row	21.-) Joannes Margelis - 71an
+l39	row	ux. Eleonora - 65an
+l40	row	filia - Helena - 30an
+l41	row	filia - Brigitta - 20an
+l42	row	— Barbara - 28an
+l43	row	filia Amelia - 7an
+l44	row	22.- Alexander Keturakis - 35an
+l45	row	ux. Helena - 30an
+l46	row	filius Alexander - 7an
+l47	row	— Helena - 5an
+l48	row	— Juliana - 1an
+l49	row	famula - Juliana Zalogas - 19-
+l50	row	pater Antonius Norvaisz - 68an
+l51	row	23.- Barbara Norvaisz - 39an
+l52	row	filius Vladisłaus - 9an
+l53	row	hab. - Helena Virbickis - 40an
+l54	row	24. - dec. Dominicus Dante - 30an
+l55	row	ux.- Eleonora - 25an
+l56	row	filia - Juliana - 5 an
+l57	row	— Josephata - 3
+l58	row	— Francisca - 1an

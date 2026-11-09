@@ -1,0 +1,69 @@
+# skenas = 0039
+# busena = ok
+# eScriptorium = dok. 3, 0039 baigta [segGT]
+l1	row	filius Franciscus - 5an
+l2	row	Casimirus - 2an
+l3	row	Joanna - 13an
+l4	row	Amelia - 6an
+l5	row	30.- Vincentius Jars - 30an
+l6	row	ux. Marianna - 28an
+l7	row	Soror. Constantia - 30an
+l8	row	Barbara - 24an
+l9	row	pater Caietanus - 75an
+l10	row	31.- Dominicus Kalendra - 43an
+l11	row	ux. Marianna - 35an
+l12	row	filius Dominicus - 9an
+l13	row	Casimirus - 5an
+l14	row	Franciscus - 3an
+l15	row	Marianna - 6an
+l16	row	frater Ignatius Lokoszunas - 40an
+l17	row	hab. Magdalena Lokoszunicze 70an
+l18	row	Mażeliukai:
+l19	row	1) Stanislaus Nagis - 72an
+l20	row	ux. Barbara - 60an
+l21	row	filius Josephus - 29an
+l22	row	Lajkuniszkej
+l23	row	1) Veronica Mieszkunicze 33an
+l24	row	hab)a)- Anastasia Tamaszauckienie - 68an
+l25	row	b) Barbara Tamaszauckicze - 40an
+l26	row	filius - Albinus - 5an
+l27	row	Constantinus - 2an
+l28	row	Tulnej
+l29	row	1)- Antonius Daugmandis 31an
+l30	row	ux. Anna - 30an
+l31	row	filius - Julianus - 5an
+l32	row	Ignatius - 2an
+l33	row	Anna - 4an
+l34	row	Soror Adolpha 20an
+l35	page-number	37
+l36	row	patres - Casimirus - 60an
+l37	row	ux.- Helena - 55an
+l38	row	famulus Alexander Rimejko - 27an
+l39	row	Hieronimus Virbicki - 17an
+l40	row	Juliana Bagdonus - 12an
+l41	row	hab.- Franciscus Dovidajtis - 55an
+l42	row	ux. Barbara - 50an
+l43	row	filius - Dominicus - 24an
+l44	row	filia Juliana - 9an
+l45	row	2. Josephus Czechanovski - 60an
+l46	row	ux. Apolonia - 30an
+l47	row	filia Amelia - 5an
+l48	row	Izabella 4an
+l49	row	filius Vincentius - 30an
+l50	row	ux. Juliana - 25an
+l51	row	filius Vincentius - 7an
+l52	row	Alexander - 4an
+l53	row	Zuzanna - 1an
+l54	row	famulus Stanislaus Dovidajtis 24an
+l55	row	Josephus Virbic~~z~~ki 13an
+l56	row	Monica Macziulis - 20an
+l57	row	Marianna Petkicze - 15an
+l58	row	Joanna ~~Adomajtis~~ - 9an
+l59	row	Żejmei -
+l60	row	1) Joannes Szidlovski - 49an
+l61	row	ux. Genoveffa - 40an
+l62	row	filius - Zigmuntus - 10an
+l63	row	Praxeda - 12an
+l64	row	Carolina - 6an
+l65	row	Apalonia - 1an
+l66	row	mater Praxeda Kenstovicz - 80an

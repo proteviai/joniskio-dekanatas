@@ -1,0 +1,67 @@
+# skenas = 0035
+# busena = ok
+# eScriptorium = dok. 3, 0035 baigta [segReady]
+l1	page-number	33
+l2	row	Żadejkej
+l3	row	10. Marcianus Gaputis 60.
+l4	row	operarii 1) Joannes Labutis - 52an
+l5	row	ux. Ursula 50.
+l6	row	ux. Ursula - 40an
+l7	row	filius Casimirus 14
+l8	row	filius Joannes - 13an
+l9	row	filia Monica 6.
+l10	row	Casimirus - 7.
+l11	row	b) Joseph Wajtiekunas 30.
+l12	row	ux. Barbara 24.
+l13	row	Lucia - 18an
+l14	row	filia Barbara 1.
+l15	row	Anastasia - 17
+l16	row	filius Joseph 2.
+l17	row	Anna - 10an
+l18	row	11. Agnes Dragunas vd 41.
+l19	row	furman Alexander Szolkovski - 43an
+l20	row	filius Joseph 19.
+l21	row	ux. Lojza lut.
+l22	row	filius Jacobus - 14an
+l23	row	12 Joannes Norwajsz 38.
+l24	row	Raphael - 12an
+l25	row	ux. Helena 34
+l26	row	Alexander - 7an
+l27	row	filius Benedictus 16.
+l28	row	Vincentius - 3an
+l29	row	II. Joannes 14.
+l30	row	Amelia - 16an
+l31	row	III. Joseph 9
+l32	row	mater Carolina - 65an
+l33	row	filia Anna 13.
+l34	row	2) Rochus Zars - 60an
+l35	row	Custos Silvae:
+l36	row	ux. Elisabeth - 45an
+l37	row	13
+l38	wrapped	Marcianus Wajszwiłas 36.
+l39	row	filius Josephus - 25an
+l40	row	ux. Victoria 24
+l41	row	Stanislaus - 23 -
+l42	row	filius Alphonsus 2.
+l43	row	Casimirus Dowidajtis 9.
+l44	row	b) Franciscus Dargużas - 29an
+l45	row	ux Marianna - 25an
+l46	row	14. Her Dec.
+l47	row	c) Casimirus Abramovicz 60an
+l48	wrapped	Thomas Dragunas 70.
+l49	row	ux. Magdalena 60.
+l50	row	ux. Amelia - 50an
+l51	row	filius Joseph 27.
+l52	row	filius Josephus - 25an
+l53	scribe-mistake	Michael Jurgieli 25.
+l54	row	Anna - 18an
+l55	row	Anna Matuz 14
+l56	row	Heva - 11an
+l57	row	Martha Radkus vgo 19.
+l58	row	Ursula - 5an
+l59	row	3.) Joannes Kacziuszko - 35an
+l60	row	ux. Barbara - 31an
+l61	row	filius - Jacobus - 8an
+l62	row	Stanislaus - 6an
+l63	row	Alexander - 1an
+l64	row	pater Jacobus Larkus - 67an

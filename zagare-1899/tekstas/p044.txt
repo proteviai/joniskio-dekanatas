@@ -1,0 +1,69 @@
+# skenas = 0044
+# busena = ok
+# eScriptorium = dok. 3, 0044 baigta [segGT test]
+l1	row	Taruczej
+l2	row	1) Josephus Vaupszas - 35an
+l3	row	ux. Anna - 27an
+l4	scribe-mistake	filius Apalonia - 2an
+l5	row	Josepha - 1an
+l6	row	2.) Alexander Vaupszas - 40an
+l7	row	ux. Anna - 37an
+l8	row	filius Vincentius - 3an
+l9	row	Juliana - 8an
+l10	row	Antonina - 5an
+l11	row	Sophia Gasparaitis - 13an
+l12	row	3. Herus - Alexander Pranciulis - 35an
+l13	row	geo.
+l14	row	ux. Marianna - 28an
+l15	row	filius - Josephus - 3an
+l16	row	mater Barbara - 65an
+l17	row	filia Juliana - 26an
+l18	row	famula Juliana Alsejkajte - 24an
+l19	row	4.- herus Petrus Bagdonas - 50an
+l20	row	ux. Cristina - 25an
+l21	row	filius Petrus - 1an
+l22	row	Francisca - 3an
+l23	row	famulus Antonius Bagdonas - 40an
+l24	row	Antonius Varaszylka - 15an
+l25	row	Isabella Lukajte - 20an
+l26	row	Helena Adamajticze - 12an
+l27	row	5.- Joannes Vaupszas - 48an
+l28	row	ux. Zuzanna - 34an
+l29	row	filius Joannes - 3an
+l30	row	Anna - 15an
+l31	row	Bronislava - 9an
+l32	row	Zuzanna - 7an
+l33	row	Alexandrina - 4an
+l34	row	Justina - 1an
+l35	row	mater Eleonora Karvielienie - 70an
+l36	page-number	42
+l37	row	6) heru - Franciscus Vaupszas - 42an
+l38	row	ux. Francisca - 33an
+l39	row	filius Daniel - 8an
+l40	row	Eduardus - 3an
+l41	row	Helena - 4an
+l42	row	Stanislaus - 1an
+l43	row	famulus Adamus Czipokas - 45an
+l44	row	Eleonora Tovtvojszicze - 18an
+l45	row	Antonius Radvillo - 13an
+l46	row	Custos Silvae
+l47	row	1. Franciscus Mandejkis - 56an
+l48	row	ux. Helena - 45an
+l49	row	filius Antonius - 6an
+l50	row	Juliana - 17an
+l51	row	Anna - 15an
+l52	row	Martha - 12an
+l53	row	Cristina - 7an
+l54	row	Jodejkei
+l55	row	1)- Casimirus Pranckus - 35an
+l56	row	ux. Elisabeth - 30an
+l57	row	filia - Apalonia - 7an
+l58	row	Heva - 5an
+l59	row	2.) Josephus Sora - 53an
+l60	row	ux. Marianna - 37an
+l61	row	filius Petrus - 15an
+l62	row	Anna - 12an
+l63	row	Zuzanna - 5.
+l64	row	3.) Josephus Dementis - 60an
+l65	row	ux. Helena - 40an
+l66	row	filius Dominicus - 3an

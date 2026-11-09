@@ -1,0 +1,61 @@
+# skenas = 0096
+# busena = mach
+# eScriptorium = dok. 3, 0096 klausimai [segReady seg8a]
+l1	row	49 Casimirus Adomajtis 50an
+l2	row	ux Anna 50an
+l3	row	filius Clemens 18an
+l4	row	Juliana 15an
+l5	row	Anna 13an
+l6	row	Amelia 10an
+l7	row	ux Monica 24an
+l8	row	50 fr Philippus Szlanczauskius 31an
+l9	row	45 Herus Marcianus Frankis 70an
+l10	row	ux Helena 60an
+l11	row	filii Marcianus 20an
+l12	row	Joannes 14an
+l13	row	Josephus 12an
+l14	row	c Josephus Prasczius 30an
+l15	row	ux Helena 45an
+l16	row	filius Alexander 19an
+l17	row	Apolinarius 20an
+l18	row	famula Joanna Szviekicze 19an
+l19	row	52 Her Josephus Bagdonas 38an
+l20	row	ux Barbara 30an
+l21	row	filius Josephus 12an
+l22	row	Antonius 6an
+l23	row	Josepha 8an
+l24	row	Elisabeth 4an
+l25	row	her Mich
+l26	row	53 Her Michael Bagdonas 70an
+l27	row	ux Eleonora 60an
+l28	row	filius Alexander 30an
+l29	row	famula Joanna Szimaicze 24an
+l30	row	Helena Vajszvilicze 16an
+l31	row	54 Her Marcianus Zaloga 32an
+l32	row	ux Magdalena 30an
+l33	row	filius Casimirus 5an
+l34	row	Alexander 3an
+l35	row	Stanislaus 8an
+l36	row	Helena 6an
+l37	row	Helena Gunticze 18an
+l38	row	famulus Franciscus Skeris 40an
+l39	row	Liudvina Pramiuslicze 13an
+l40	row	a) Barbara Parvidienie vd 35an
+l41	row	filius Josephus 10an
+l42	row	b Josephus Zaloga 60an
+l43	row	ux Juliana 40an
+l44	row	filius Antonius 12an
+l45	row	Dominicus 6an
+l46	row	55 Her Josephus Dvelis 45an
+l47	row	ux Victoria 40an
+l48	row	filius Josephus 14an
+l49	row	Amelia 13an
+l50	row	famula Josephus Juknas 28an
+l51	row	Apolonia Jokubajticze 19an
+l52	row	pater Laurentius 70an
+l53	row	56 Her Alexander Rankauczis 35an
+l54	row	ux Juliana 30an
+l55	row	filius Alexander 6an
+l56	row	Alexandrina 7an
+l57	row	Stanislaus 3an
+l58	row	mater Helena 70an

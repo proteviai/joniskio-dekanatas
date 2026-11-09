@@ -1,0 +1,70 @@
+# skenas = 0052
+# busena = ok
+# eScriptorium = dok. 3, 0052 baigta [segReady]
+l1	row	5.) Stephanus Naudużas - 40an
+l2	row	ux. Barbara - 42an
+l3	note-above	her
+l4	row	6.) Joannes Naudużas - 64an
+l5	row	ux. Helena - 45an
+l6	row	filius - Joannes - 21an
+l7	row	Antonius - 10an
+l8	row	Helena - 17an
+l9	row	famulus- Petrus Adomajtis 45an
+l10	row	Barbara Naudużicze - 19an
+l11	row	Marianna Virbickicze - 13an
+l12	row	7. Vincentius Naudużas - 50an
+l13	row	ux. Heva - 30an
+l14	row	filia Anna - 5an
+l15	row	8. Herus - Casimirus Naglius - 20an
+l16	row	ux. Helena - 50an
+l17	row	famulus Joannes Szimkus - 30an
+l18	row	Marcianus Szutkus - 43an
+l19	row	Vladislaus Orlovski - 14an
+l20	row	Barbara Kvedaras - 16an
+l21	row	hab. Anna Kaziulienie - 80an
+l22	row	9.-) Jonnes Balakas - 67an
+l23	row	ux. Barbara - 44an
+l24	row	filia Juliana - 6an
+l25	note-above	Herus
+l26	row	10. Alexander Udrakis - 35an
+l27	row	ux. Josepha - 20an
+l28	row	filius Stanislaus - 1an
+l29	row	famulus Josephus Pacius - 27an
+l30	row	Marcianus Adomajtis - 10an
+l31	row	Anna Korkicze - 20an
+l32	row	frater Joannes - 28an
+l33	row	pater Michael - 70an
+l34	row	ux. Magdalena - 50an
+l35	page-number	50
+l36	row	11.-) Joannes Czuta - 35an
+l37	row	ux Helena - 28an
+l38	row	filia Anna - 3an
+l39	row	Francisca - 1an
+l40	row	soror Apalonia Urbonicze - 17an
+l41	row	Juliana - 10an
+l42	row	Barbara - 7an
+l43	row	famulus Augustinus Berzikis - 27an
+l44	row	hab.- Casimirus Urbans - 7an
+l45	row	12.- Her. Joannes Jonkus - 35an
+l46	row	ux. Anna - 35an
+l47	row	filia Anna - 9an
+l48	row	mater Anna - 60an
+l49	row	famulus Joannes Sargiunis - 19an
+l50	row	Josephus Balakas - 19an
+l51	note-above	Vincentius
+l52	row	~~Franciscus~~ Rimejko - 25an
+l53	note-above	virgo
+l54	row	Agnes Nastajtie - 45an
+l55	row	filia Agnes - 20an
+l56	row	Priezej:
+l57	row	1. Anna Szałkowska vd. 42.
+l58	row	filia. Francisca 11.
+l59	scribe-mistake	Materi ianna Gasperajtis 76.
+l60	row	2. Faber: Antonius Petrutis 45.
+l61	row	ux. Petronilla 39.
+l62	row	filius Antonius 17.
+l63	row	II. Alexander 5.
+l64	row	III. Dominicus 3.
+l65	row	IV. Joannes 1.
+l66	row	filiae Susanna 11.
+l67	row	II. Anna 9.

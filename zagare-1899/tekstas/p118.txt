@@ -1,0 +1,72 @@
+# skenas = 0118
+# busena = mach
+# eScriptorium = dok. 3, 0118 klausimai [segReady seg8a]
+l1	row	14 Joannes Szavleckis 24an
+l2	row	ux Monica 26an
+l3	row	filius Stanislaus 4an
+l4	row	Marianna 1an
+l5	row	b Josephus Gustas 40an
+l6	row	ux Apalonia 40an
+l7	row	filius Josephus 8an
+l8	row	Casimirus 13an
+l9	row	Marianna 4an
+l10	row	Martha 1an
+l11	row	mater Marianna Lonkutajtie 70an
+l12	row	c Elisabeth Norkovienie 50an
+l13	row	15 Alexan Apniamonts 56an
+l14	row	ux Eleonora 46an
+l15	row	16 Benedictus Varaszilko 50an
+l16	row	ux Elisabeth 35an
+l17	note-above	~~frater~~
+l18	row	filius Benedictus 14an
+l19	margin-note	Sp. niechr
+l20	row	Juliana 10an
+l21	row	Anna 3an
+l22	row	17 Joannes Januszevski 38an
+l23	row	ux Barbara 300an?
+l24	row	filius Josephus 12an
+l25	row	Thadeus 4an
+l26	row	Sp. niechr Anna 10an
+l27	row	Constantia 2an
+l28	row	a Agatha Szivickienie 40an
+l29	row	filia Juliana 27an
+l30	row	Zuzanna 21an
+l31	row	18 Franciscus Motuzas 64an
+l32	row	ux Anna 60an
+l33	row	Kmliranscus? 43an
+l34	row	Monanna? 30an
+l35	row	19 Josephus Kasperovicz 57an
+l36	row	ux Carolina 56an
+l37	row	filius Vincentius 28an
+l38	row	Sophia 10an
+l39	row	a Anna Revosz 45an
+l40	row	ciotka Anna 75an
+l41	row	20 Thekla Macovicz 60an
+l42	row	a Elisabeth Volotkievicz 32an
+l43	row	Michael Macievicz 6an
+l44	row	21 Adelia Gaevska 64an
+l45	row	AJusana? Czesnikicze 20an
+l46	row	22 Marcianus Baltokas 43an
+l47	row	ux Anna 30an
+l48	row	filius Marcianus 4an
+l49	row	Benedictus 7an
+l50	row	Carolina 8an
+l51	row	Anna 1an
+l52	row	23 Josephus Ratkus 38an
+l53	row	ux Angela 37an
+l54	row	filius Josephus 10an
+l55	row	Anna 10an
+l56	row	Julianas? 16an
+l57	row	a Helena Ramaszauckienie 39an
+l58	row	filius Antonius 8an
+l59	row	Amelia 14an
+l60	row	b Alexander Macis 40an
+l61	row	ux Juliana 30an
+l62	row	filius Ignatius 7an
+l63	row	Joannes 3an
+l64	row	Vanateus? 1an
+l65	row	Alexandra 5an
+l66	row	c Josephus Szalkovski 40an
+l67	row	ux Anna 30an
+l68	row	filius Josephus 5an
+l69	row	Elisabeth 2an

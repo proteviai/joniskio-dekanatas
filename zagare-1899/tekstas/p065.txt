@@ -1,0 +1,69 @@
+# skenas = 0065
+# busena = ok
+# eScriptorium = dok. 3, 0065 baigta [segGT]
+l1	row	26.- Helena Gurskienie - 28an
+l2	row	filius - Josephus - 3an
+l3	row	mater Martha Jonajtienie - 70an
+l4	row	27. Michael Davolus - 40an
+l5	row	ux. Anna - 25an
+l6	row	filius Michael - 8an
+l7	scribe-mistake	Liudovicus - 5an
+l8	row	Hieronimus - 3an
+l9	row	Stanislaus - 1an
+l10	row	28.- Antonius Mikuckas - 34an
+l11	row	ux Helena - 30an
+l12	row	filia Francisca - 2an
+l13	row	Soror Zuzanna Kalendricze - 22an
+l14	row	29.
+l15	row	in exilio Dominicus Kalendra - 40an
+l16	row	- ux. Veronica - 40an
+l17	row	30.- Michael Żemepatis - 46an
+l18	row	ux. Anna - 38an
+l19	row	filius Michael - 12an
+l20	row	Ignatius - 1an
+l21	row	Apolonia - 3an
+l22	row	Amelia - 4an
+l23	row	31. Marcianus Żemepatis - 40an
+l24	row	ux. Anna - 30an
+l25	row	filia - Paulina - 5an
+l26	row	Zuzanna - 2an
+l27	needs-research	mater Helena Ramaszauskienie - 50an
+l28	row	32.- Joannes Valis - 45an
+l29	row	ux. Anna - 30an
+l30	row	filia Elisabeth - 8-
+l31	row	Juliana - 6an
+l32	row	Amelia - 4an
+l33	row	Anna - 3an
+l34	page-number	63
+l35	row	33.-) Josephus Valis - 38an
+l36	row	ux. Helena - 28an
+l37	row	filius Thadeus - 2an
+l38	row	~~a)~~ Anna Beleckienie - 43an
+l39	row	filia Agnes - 4an
+l40	row	patres Josephus Valis 80an
+l41	row	ux. Anna - 70an
+l42	row	34.-) Franciscus Urbonas 45an
+l43	row	ux. Heva - 30an
+l44	row	filia Palmira - 17an
+l45	row	35.-) Thadeus Valis - 80an
+l46	row	ux Anna - 80an
+l47	row	36.- Josephus Ramaszevski - 50an
+l48	row	filia Helena - 20an
+l49	row	mater. Helena Mickovienie 80an
+l50	row	37.- Casimirus Galkus - 70an
+l51	row	ux Elisabeth - 50an
+l52	scribe-mistake	38.- Anma Virbickienie - 60an
+l53	row	filia Helena - 25an
+l54	row	39.) Thadeus Naudużas - 80an
+l55	row	ux. Anna - 40an
+l56	row	mater- Marianna Pamparienie - 60an
+l57	row	40.-) Vincentius Lieparski 31an
+l58	row	ux. Anna - 24an
+l59	row	a) Josephus Pampars in Szauli 50an
+l60	row	ux. Sophia - 35an
+l61	row	flia - Josepha - 10an
+l62	row	Constantia - 7an
+l63	row	Alexandra - 3an
+l64	row	Antonina - 2an
+l65	row	b) Elisabeth Antanaviczienie 60an
+l66	row	filia Helena - 30an

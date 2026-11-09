@@ -1,0 +1,75 @@
+# skenas = 0030
+# busena = ok
+# eScriptorium = dok. 3, 0030 baigta [segGT]
+l1	row	II. Joannes 10.
+l2	row	filiae. Amelia 6.
+l3	row	Joseph Andrykajtis 80
+l4	row	ux. Anna 76
+l5	row	Joannes Bandza 18
+l6	row	3 Herus Antonius Bijejkis 50
+l7	row	ux. Marianna 40
+l8	row	filius Alexander 19.
+l9	row	II Joseph 15
+l10	row	III. Tadeus 12
+l11	row	IV. Casimirus 4
+l12	row	V. Antonius  3.
+l13	row	filiae Monica 17.
+l14	row	II. Anna 13.
+l15	row	b) Joseph Lulewicz 60
+l16	row	ux. Juljanna 51.
+l17	row	filius Marcianus 27
+l18	row	II. Franciscus 14.
+l19	row	filiae Antonina 19.
+l20	row	II. Ludovica 15.
+l21	row	Helena Bijejkis vd. 70.
+l22	row	Georgius Navadzelski 19.
+l23	row	Amelia Zalecka 20.
+l24	row	Anna Atstupicze 13.
+l25	row	Petrus Mituzas 12.
+l26	row	Vincentius Astupa 11.
+l27	row	4 Herus Stephanus Baczulis 17
+l28	row	Mater Marianna vd. 40
+l29	row	Alexander Gerlych 13.
+l30	row	5. Her Dec. Joannes Baczulis 60
+l31	row	ux. Helena 55.
+l32	row	dec filius Joannes c. 29.
+l33	row	II. Ignatius c. 23
+l34	row	filiae Francisca 14
+l35	row	II. Benedicta 12.
+l36	row	Stanislaus Drygotas 22.
+l37	row	Paulina Szydłovska 26.
+l38	page-number	28
+l39	row	Ignatius Strakszas 15.
+l40	row	6. Joseph Baczulis 80.
+l41	row	ux. Juljanna 36.
+l42	row	filii Alexander 6.
+l43	row	II. Joannes 4.
+l44	row	filiae Juljanna 9.
+l45	row	Catharina Jękicze 56.
+l46	row	Jordajcie:
+l47	row	1. Józef Kibart 45
+l48	row	ux. Jadwigis 30.
+l49	row	filius Ladislaus 13.
+l50	row	Vincentius Kielpsz 40
+l51	row	ux. Agnes 37.
+l52	row	filiae Magdalena 3.
+l53	row	II. Agatha 1.
+l54	row	Catharina Marcinkievicz 22
+l55	row	Anna Kontowt 19.
+l56	row	Anna Żygulis 18.
+l57	needs-research	Theodorus Kiuscis 15.
+l58	row	Eleonora Lobańska vgo 29.
+l59	row	2 Joseph Walentinowicz 56
+l60	row	ux. Apolonia 45.
+l61	scribe-mistake	filia Julja 5
+l62	row	3 Casimirus Żasins 40.
+l63	row	ux. Barbara 40
+l64	row	filius Joannes 10
+l65	row	filiae Anna 5.
+l66	row	II. Amelia 2
+l67	row	III. Cleopha 1.
+l68	row	4 Franciscus Jonajtis 45
+l69	row	ux. Barbara 28
+l70	row	filius Casimirus 16
+l71	row	II. Franciscus 13
+l72	row	III. Petrus 1

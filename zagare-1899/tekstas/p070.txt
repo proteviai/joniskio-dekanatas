@@ -1,0 +1,73 @@
+# skenas = 0070
+# busena = ok
+# eScriptorium = dok. 3, 0070 baigta [segReady auto1]
+l1	row	Marcianus Kweder 15
+l2	row	Soror Susanna 17
+l3	row	b) Franciscus Adomajtis 60
+l4	row	ux Mariana 50
+l5	row	filia Mariana 18
+l6	row	c) Vincentius Dwelis 35
+l7	row	ux Veronica 21
+l8	row	filia Monica 2
+l9	row	19 Joseph Horakis 34
+l10	row	ux Eleonora 27
+l11	row	filius Joseph 5
+l12	row	20 Casimirus Jasutis 71
+l13	row	ux Marta 51
+l14	row	21 Herus Georgius Jasutis 47
+l15	note-below	dec.
+l16	row	ux Eleonora 34
+l17	row	filius Joseph 16
+l18	row	II Casimira 12
+l19	row	filiae Helena 21
+l20	row	II Angela 19
+l21	row	III Mariana 17
+l22	row	IV Joanna 10
+l23	row	V Adelais 5
+l24	row	VI Apolonia 3
+l25	row	Stełmokaj:
+l26	row	1 Semher Joseph Waraszyłka 56
+l27	row	ux Anna 50
+l28	row	filius Carolus 22
+l29	row	II Joseph 27
+l30	row	filiae Anna 21
+l31	row	II Juljanna 20
+l32	row	III Apolonia 12
+l33	row	IV Amelia 7
+l34	row	2 Herus Joseph Naudużas 48
+l35	row	ux Helena 34
+l36	page-number	68
+l37	row	filius Dominicus 2
+l38	row	filiae Helena 12
+l39	row	II Juljanna 9
+l40	row	Anna Laurinajtis 20
+l41	row	b) Benedictus Nauduzas 40
+l42	note-below	c
+l43	row	Mater Anna 66
+l44	row	filius Joannes 26
+l45	row	II Antonius 9
+l46	row	Franciscus Jasutis 16
+l47	row	Anna Puzeras 30
+l48	row	Barbara Skyrius conj 30
+l49	row	3 Herus Joannes Pelenis 50
+l50	row	ux Juljanna 52
+l51	row	fil Ladislaus Putris 17
+l52	row	Michael Żukowski 26
+l53	row	Georgius Raczkowski 10
+l54	row	Juljana Daknis 25
+l55	row	Anna Nagis 16
+l56	row	Thecla Raczkowska 16
+l57	row	Dylbinaj
+l58	row	1 Casimirus Novogrodski 52
+l59	row	ux Heva  55
+l60	row	Juljana Mażejko 25
+l61	row	Helena Nowogrodzkiene vd
+l62	wrapped	74
+l63	row	2 Herus Casimirus Żlabis 28
+l64	row	ux Juljana 49
+l65	row	filiae Juljanna 20
+l66	row	II Susanna 17
+l67	row	Marcianus Żłabis 78
+l68	row	ux Barbara 54
+l69	row	Vincentius Srgius 17
+l70	row	Franciscus Dakaris 27

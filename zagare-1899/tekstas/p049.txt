@@ -1,0 +1,72 @@
+# skenas = 0049
+# busena = ok
+# eScriptorium = dok. 3, 0049 baigta [segReady auto1]
+l1	row	6.) Vincentius Bagdonas 45an
+l2	row	ux Barbara 40an
+l3	row	filius Stanislaus 24an
+l4	row	Antonius 21an
+l5	row	Onufrius 6an
+l6	row	Helena 22an
+l7	row	Amelia 19an
+l8	row	Eleonora 15an
+l9	row	Julianna 10an
+l10	row	Joanna 8an
+l11	row	Alexander 3an
+l12	row	7 Alexander Kvederas 37an
+l13	row	ux Elisabeth 28an
+l14	row	filius Jozephus 8an
+l15	row	Clemens 5an
+l16	row	Alexander 1an
+l17	scribe-mistake	Euphosina 3an
+l18	row	frater Josephus 27an
+l19	note-above	herus
+l20	row	8 Antonius Kvedaras 39an
+l21	row	patres Thadeus 70an
+l22	row	ux Helena 65an
+l23	row	filia Barbara 30an
+l24	row	famula Juliana Sziauricze 17an
+l25	row	9.) her Anna Kviadariene 50an
+l26	row	ux Helena 17an
+l27	row	famulus Franciscus Barovski 40an
+l28	row	herus
+l29	row	10 Antonius Kavalas 31an
+l30	row	ux Anna 26an
+l31	row	filius Stanislaus 1an
+l32	row	mater Heva 50an
+l33	row	frater Joannes Kavals 23an
+l34	row	11 Liudovicus Srogius 50an
+l35	row	filia Anna 22an
+l36	page-number	47
+l37	row	12) Helena Virbickienie 50an
+l38	row	filia Juliana 24an
+l39	row	13 Josephus Kavalas 35an
+l40	row	ux Barbara 30an
+l41	row	filius Franciscus 9an
+l42	row	Casimirus 7an
+l43	row	Joannes 5an
+l44	row	Apalonia 11an
+l45	row	Helena 3an
+l46	note-above	her
+l47	row	14 in Riga Vincentius Virbicki 60an
+l48	row	ux Anna 60an
+l49	row	filius Hieronimus 15an
+l50	row	Marianna 12an
+l51	row	arend Gaspars Kriscziunas 40an
+l52	row	ux Francisca 38an
+l53	row	filius Franciscus 10an
+l54	row	Leo 8an
+l55	row	Vincentius 3an
+l56	row	~~fim~~ Antonius 1an
+l57	row	hab Anna Jaroszevskicze 50an
+l58	row	15 Victor Staszinski 58an
+l59	row	ux Marianna 50an
+l60	row	filius Casimirus 25an
+l61	row	famulus Clemens Petkievicz 50an
+l62	row	Helena Jasuticze 26an
+l63	row	Vincentius Urmons 12an
+l64	row	16 Antonius Kigas 42an
+l65	row	ux Elisabeth 30an
+l66	row	filius Alexander 7an
+l67	row	Albinus 4an
+l68	row	Casimirus 2an
+l69	row	Zuzanna 1an

@@ -1,0 +1,34 @@
+# skenas = 0004
+# busena = ok
+# eScriptorium = dok. 2, 0004 taisau
+l1	row	Budraijci.
+l2	row	1) Antonius Mitrikas - 70an
+l3	row	uxor Barbara - 60an
+l4	row	filius Antonius - 28-
+l5	row	— Stanisłaus - 23-
+l6	row	2)- Joannes Baltruszajtis - 60 cir.
+l7	row	ux. Barbara - 30an
+l8	row	filia Apolonia - 4-
+l9	row	3) Zemluny Joannes Strockis - 35an
+l10	row	ux. Marta - 22an
+l11	row	filius Joannes - 1an
+l12	row	4) Alexander Bożius - 63an.
+l13	row	ux. Eleonora - 60an.
+l14	row	filius Alexander - 20an
+l15	row	— Anna - 17an.
+l16	row	5) Franciscus Szliażas 35an in America
+l17	row	ux. Eleonora - 32an
+l18	row	filius Vladislaus - 5-
+l19	row	— Apolonija - 3an
+l20	row	— Helena - 8an.
+l21	row	mater Ursula - 70an.
+l22	row	6) Franciscus Strockis - 60an
+l23	row	ux. Eleonora - 57an
+l24	row	filius Alexander-23 in militia
+l25	row	— Stanislaus-20 in Riga
+l26	row	— Vincentius - 18an
+l27	row	7- Josephus Kuodulis - 57an
+l28	row	ux. Helena - 50an
+l29	row	filius Stephanus - 27 in Riga
+l30	row	— Anna - 21an
+l31	row	— Helena - 15-

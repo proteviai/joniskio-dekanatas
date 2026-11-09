@@ -1,0 +1,75 @@
+# skenas = 0021
+# busena = ok
+# eScriptorium = dok. 2, 
+l1	row	12.- Thadeus Kipszas - 40an
+l2	row	ux. Juliana - 34an
+l3	row	filius Julianus - 4an
+l4	row	— Euphrosina - 2an
+l5	row	patres. Josephus - 66an
+l6	row	ux. Anna - 70an
+l7	row	fam. Ursula Nobużinskicze - 40an
+l8	row	13.- Alexander Adomajtis - 33an
+l9	row	ux. Rozalia - 40an
+l10	row	famulus Joannes Romaszevski - 22.
+l11	row	— Joannes Drigotas - 17an
+l12	row	— Helena Kipszas - 18an
+l13	row	— Franciska Gendvilicze - 16.
+l14	row	— Zuzanna Balnicze - 10an
+l15	row	mat. Marianna Balsiaviczenie - 47an
+l16	row	— Stanislaus Balsievicz - 12an
+l17	row	14.- Casimirus Pranis - 40an
+l18	row	ux. Joanna - 24an
+l19	row	pater Thadeus - 68an
+l20	row	ux. Marianna - 60an
+l21	row	frater Vincentius - 21an
+l22	row	fam. Monika Bijeikicze - 16an
+l23	row	— Vladislaus Naudużas - 7.
+l24	row	15.- her. Antonius Butautis - 50an
+l25	row	ux. Anna - 40an
+l26	row	16.- her. Josephus Szliażas - 40an
+l27	row	ux. Marianna - 25an
+l28	row	filius Julianus - 6an
+l29	row	— Casimirus - 1an
+l30	row	— Amelia - 3an
+l31	row	famula Agnes Jonajticze - 19an
+l32	row	— Marianna Butauticze - 16an
+l33	row	patres: Josephus - 60an
+l34	row	ux. Agnes - 50an
+l35	row	fam. Antonius Urbonas - 8an
+l36	page-number	19
+l37	row	17.- vd. Helena Vajcziulienie - 45an
+l38	row	filia Zuzanna - 19an
+l39	row	— Alexandrina - 7an
+l40	row	18.- dec. Thadeus Pranis - 58an
+l41	row	ux. Anna - 45an
+l42	row	filia Alexandrina - 9an
+l43	row	filius Josephus - 23an
+l44	row	famulus Philippus Czeputis - 40an
+l45	row	— Antonina Butauticze - 19an
+l46	row	— Helena Vilimicze - 15an
+l47	row	— Casimirus Auksialis - 12an
+l48	row	hab. vid. Marianna Lauciuvienie - 78an
+l49	row	Normancziu desitninkai.
+l50	row	1) Josephus Balakas - 48an
+l51	row	ux. Marianna - 37an
+l52	row	filius Alexander - 13an
+l53	row	— Joannes - 12
+l54	row	— Casimirus - 11
+l55	row	— Anna - 8
+l56	row	— Francisca - 3
+l57	row	— Stanislaus - 1an
+l58	row	2.- Marcianus Jukna - 87an
+l59	row	— Barbara - 50an
+l60	row	filius Josephus - 25an
+l61	row	— Marianna - 14.
+l62	row	3.- Joannes Norvajsz - 30an
+l63	row	ux. Juliana - 40an
+l64	row	filius Vincentius - 5an
+l65	row	— Franciscus - 9an
+l66	row	mat. Barbara - 80an
+l67	row	4.- Josephus Gaputis - 39an
+l68	row	— Helena - 30an
+l69	row	filius Antonius - 5an
+l70	row	— Zuzanna - 7an
+l71	row	— Juliana - 1an
+l72	row	mater. Anna - 70an

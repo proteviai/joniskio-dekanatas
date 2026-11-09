@@ -1,0 +1,75 @@
+# skenas = 0066
+# busena = ok
+# eScriptorium = dok. 3, 0066 baigta [segReady]
+l1	row	filia Anna - 6an
+l2	row	41.- Adamus Lokoszunas - 38an
+l3	row	ux. Juliana - 27an
+l4	row	filius Casimirus - 1an
+l5	row	Zuzanna - 3an
+l6	struck	Sor
+l7	row	42.) Josephus Kvederas - 38an
+l8	row	ux. Magdalena - 40an
+l9	row	filia - Joanna - 12an
+l10	note-above	herus
+l11	row	43.- Casimirus Pampars - 40an
+l12	row	ux. Anna - 30an
+l13	row	filius - Casimirus - 12an
+l14	row	Stanislaus - 3an
+l15	row	Juliana - 14an
+l16	row	Amelia - 10an
+l17	row	Anna - 2an
+l18	row	44.- Herus Casimirus Gurski - 37an
+l19	row	ux. Marianna - 35an
+l20	row	filius Casimirus - 8an
+l21	row	Vladislaus - 6an
+l22	row	Albinus - 1an
+l23	row	Liudvina - 4an
+l24	row	frater Vincentius - 25an
+l25	row	Antonius Antanovicz - 13an
+l26	row	45. Herus - Thadeus Naglis - 30an
+l27	row	ux. Amelia - 25an
+l28	row	filius Constantinus - 5an
+l29	row	Francisca - 3an
+l30	row	famulus Vincentius Kurmavski - 25an
+l31	row	Mathias Daunis - 18an
+l32	row	Joannes Gałkus - 12an
+l33	row	Anna Szidlauckajte - 20an
+l34	row	Ursula Vaicziulicze - 14an
+l35	row	Barbara Mondejkienie - 50an
+l36	page-number	64
+l37	row	Baczuliszki:
+l38	row	1. Thadeus Naglus 56.
+l39	struck	herus
+l40	row	ux. Heva 50.
+l41	row	filius Vincentius 19
+l42	row	II. Antonius 11.
+l43	row	III. Thaddeus 8
+l44	row	filia Susanna 15.
+l45	row	Joannes Naglus c. 40.
+l46	row	Juljanna Leberska vgo 20.
+l47	row	Dylbineli:
+l48	row	1. Jan Macis 60.
+l49	row	ux. Martha 50.
+l50	row	filius Ladislaus 24.
+l51	row	filia Joanna 18.
+l52	row	Joseph Radowski c 22.
+l53	row	2. Michael Petkus 55.
+l54	row	ux. Helena 50
+l55	row	filia Susanna 19.
+l56	row	3 Petrus Balcsinus 60
+l57	row	ux. Barbara 50
+l58	row	filius Joannes 15.
+l59	row	filia Marianna 19.
+l60	row	4. Joannes Ramons 50
+l61	row	ux. Anna 34.
+l62	row	filius Antonius 14.
+l63	row	II. Joannes 1.
+l64	row	filia Josephata 9.
+l65	row	II. Anna 7.
+l66	row	III. Marianna 5.
+l67	row	IV. Juljanna 3.
+l68	row	5. Rozalia Sargiuns vd 74.
+l69	row	Herus Anna Kasiulis vd 40.
+l70	row	filia Juljanna 14
+l71	row	II. Palmira 8.
+l72	row	III. Martha 5.

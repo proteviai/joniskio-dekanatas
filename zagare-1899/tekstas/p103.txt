@@ -1,0 +1,61 @@
+# skenas = 0103
+# busena = mach
+# eScriptorium = dok. 3, 0103 klausimai [segReady seg8a]
+l1	row	filius Laurentius 30an
+l2	row	Petrus 25an
+l3	row	c Ursula Metkrcze 40an
+l4	row	20 Juliana Bujszenie 70an
+l5	row	Sa Antonius Vajtkievicz 43an
+l6	row	ux Barbara 30an
+l7	row	filius Adamus 20an
+l8	row	c Joannes Mikulski 44an
+l9	row	ux Barbara 27an
+l10	row	filius Joannes 5an
+l11	row	Zuzanna 1an
+l12	row	mater Helena vid 67an
+l13	row	filius Stanislaus 6an
+l14	row	d Ignatius Bartkievicz 29an
+l15	row	ux Anna 30an
+l16	row	c Josephus Kuczinski 50an
+l17	row	ux Helena 40an
+l18	row	filius Alexander 14an
+l19	row	21 Angela Ravinskienie 70an
+l20	row	Sa Antonius Ginajtis 30an
+l21	row	ux Victoria 29an
+l22	row	filia Juliana 4an
+l23	row	c Alexander Stapanovicz 33an
+l24	row	ux Juliana 25an
+l25	row	filia Francisca 1an
+l26	row	22 Zuzanna Vajcziulienie 50an
+l27	row	filius Constantinus 26an
+l28	row	Juliana 22an
+l29	row	Marianna 12an
+l30	row	a Josephus Lokoszunas 45an
+l31	row	ux Anna 46an
+l32	row	mater Barbara Szlepokienie 80an
+l33	row	6 Isidorus Malinovski 32an
+l34	row	ux Anna 28an
+l35	row	filia Elisabeth 3an
+l36	row	Petronella 1an
+l37	row	c Ludvina Vitkauckienie 63an
+l38	row	filia Emilia 18an
+l39	row	Anna 16an
+l40	row	d Alexander Navagrockis 32an
+l41	row	ux Elisabeth 28an
+l42	row	filia Alexandra 3an
+l43	row	Zuzanna 9an
+l44	note-above	sx luderis
+l45	row	e Marianna Klievienie 60an
+l46	row	f Helena Tovtvojszicze 60an
+l47	row	g Rozalia Kesztotienie 60an
+l48	row	23 Josephus Lipski 50an
+l49	row	ux Anna 45an
+l50	row	filia Anna 21an
+l51	row	Marianna 14an
+l52	row	Juliana 14an
+l53	row	Juliana 14an
+l54	row	a Ignatius Gosztovts 40an
+l55	row	ux Eleonora 40an
+l56	row	Petrus 27an
+l57	row	filius Josephus 13an
+l58	row	mater Magdalena 60an

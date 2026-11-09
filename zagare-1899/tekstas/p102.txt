@@ -1,0 +1,63 @@
+# skenas = 0102
+# busena = mach
+# eScriptorium = dok. 3, 0102 klausimai [segReady seg8a]
+l1	row	e Antonius Fedorkins 59an
+l2	row	ux Anna 50an
+l3	row	filia Juliana 12an
+l4	row	f Vincentius Dubovski 28an
+l5	row	ux Liudvina 20an
+l6	row	9 Josephus Virbicki 40an
+l7	row	ux Martha 28an
+l8	row	filius Adamus 2an
+l9	row	Zuzanna 5an
+l10	row	10 Marianna Kudulienie 85an
+l11	row	filius Thadeus 40an
+l12	row	i Agnes Gunticze 80an
+l13	row	17 Josephus Tamasunas 45an
+l14	row	ux Anna 40an
+l15	row	filius Joannes 10an
+l16	row	Marianna 13an
+l17	row	Anna 6an
+l18	row	Liudvina 4an
+l19	row	a Barbara Daugieliene 40an
+l20	row	b Anna Naglicze 40an
+l21	row	a Barbara Daunackiese 40an
+l22	row	c Josephus Zlabis 33an
+l23	row	ux Eleonora 21an
+l24	row	filia Alexandra 3an
+l25	row	d Josephus Lovbingtis 70an
+l26	row	ux Anna 60an
+l27	row	e Joannes Alexna 50an
+l28	row	ux Elisabeth 32an
+l29	row	filius Casimirus 8an
+l30	row	Zuzanna 4an
+l31	row	flia Juliana 2an
+l32	row	Joannes 1an
+l33	row	b Barbara Jasuticze 40an
+l34	note-above	he
+l35	row	Franciscus Kaczkis 47an
+l36	row	ux Marianna 24an
+l37	row	mater Ursula 90an
+l38	row	mater Dominica Strockienie 70an
+l39	row	le Josephus Alexna 39an
+l40	row	ux Ursula 30an
+l41	row	filia Apalonia 1an
+l42	row	i Franciscus Vozbutas in Asikai 35an
+l43	row	ux Angela 30an
+l44	row	flius Albinus 6an
+l45	row	4 Magdalena Nagicze 50an
+l46	row	1 AnnaCzeputionie? 40an
+l47	row	filia Zuzanna 15an
+l48	row	18 Joannes Urbonas 59an
+l49	row	ux Barbara 57an
+l50	row	filius Joannes 24an
+l51	row	Magdalena 21an
+l52	row	a Benedicta Szimkovienie 80an
+l53	row	filius Antonius 33an
+l54	row	Andrejus 30an
+l55	row	19 Franciscus Valiszevski 40an
+l56	row	ux Zuzanna 30an
+l57	row	a Michael Jonutis 49an
+l58	row	ux Anna 35an
+l59	row	filius Antonius 15an
+l60	row	b Marianna Krisztopajtienie 55an

@@ -1,0 +1,67 @@
+# skenas = 0036
+# busena = ok
+# eScriptorium = dok. 3, 0036 baigta [segGT]
+l1	row	b) Casimirus Balcziunas - 40an
+l2	row	ux. Helena - 30an
+l3	row	filia - Francisca - 2an
+l4	row	a) Marta Balcziunicze - 30an
+l5	row	filia Zuzanna - 4an
+l6	row	4.) Franciscus Kirvelis - 47.
+l7	row	ux. Barbara - 24an
+l8	row	b) Casimirus Daunis - 36an
+l9	row	ux Alexandra (schismat) 34an
+l10	row	filius Petrus - 1an
+l11	row	Marianna - 2an
+l12	row	Olga - 3an
+l13	row	Domejkej
+l14	row	1.) Marcianus Adomajtis - 43an
+l15	row	ux. Juliana - 30an
+l16	row	filius Josephus - 8an
+l17	row	Apolonia - 5an
+l18	row	Juliana - 3an
+l19	row	Zuzanna - 1an
+l20	row	2). Herus Josephus Kalendra - 40an
+l21	row	ux. Helena - 35an
+l22	row	filia - Sophia - 7an
+l23	row	Marianna - 6an
+l24	row	Josepha - 4an
+l25	row	Francisca - 3an
+l26	row	famula - Monika Dunskicze - 28an
+l27	row	Casimirus Czeputis 30an
+l28	row	2) Herus Dec. - Joannes Kalendra 37an
+l29	row	ux. Marciana - 36an
+l30	row	filia - Valeriana - 9an
+l31	row	Victoria - 5an
+l32	row	pater Josephus - 75an
+l33	page-number	34
+l34	row	famulus Alexander Lidejkis - 21an
+l35	row	Anna Kumpicze - 25an
+l36	row	3.mlynarz - Josephus Mikulski - 55an
+l37	row	ux. Francisca - 30an
+l38	row	filia Helena - 8an
+l39	row	Barbara - 6an
+l40	row	Marianna - 2an
+l41	row	4.- Casimirus Kviadaras - 32an
+l42	row	ux. Anna - 27an
+l43	row	filia - Anna - 3an
+l44	row	5.- herus Joannes Kviadaras - 46an
+l45	row	ux. Magdalena - 45an
+l46	row	filius Alexander - 15an
+l47	row	Antonius - 13an
+l48	row	Juliana - 12an
+l49	row	Zuzanna - 11an
+l50	row	6.- Kasimirus Strakszas - 53an
+l51	row	ux. Helena - 47an
+l52	struck	filius
+l53	row	7).- Josephus Strakszas - 40an
+l54	row	ux. Barbara - 40an
+l55	row	filius Josephus - 5an
+l56	scribe-mistake	Casimirus - 3an
+l57	row	Barbara - 1an
+l58	row	8-.) Marcianus Szutkus - 45an
+l59	row	ux. Anna - 35an
+l60	row	filia Anna - 13an
+l61	row	Apolonia - 12an
+l62	row	Victoria - 8an
+l63	row	9.- Vincentius Pampars - 29an
+l64	row	ux. Ursula - 27an

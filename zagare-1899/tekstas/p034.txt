@@ -1,0 +1,79 @@
+# skenas = 0034
+# busena = ok
+# eScriptorium = dok. 3, 0034 baigta [segReady]
+l1	row	b) Juljanus Puczyński 56.
+l2	row	ux. Anna 44.
+l3	row	filius Casimirus 23.
+l4	row	II. Josephus 18.
+l5	row	III. Franciscus 6.
+l6	row	filia Antonina 12.
+l7	row	Heva Małaszewska vd 40.
+l8	scribe-mistake	filii Franciscus 15.
+l9	row	filia Anna 7.
+l10	row	4 Praedium:
+l11	row	Alexander Malcewicz c. 40.
+l12	row	Juljanna Zasinas wd 32.
+l13	row	b) Thomas Srogius 58.
+l14	row	uxor. Marianna 38.
+l15	row	filius Clemens 15.
+l16	row	II. Joannes 13.
+l17	row	III Joseph 3.
+l18	row	filiae Mariana 7.
+l19	scribe-mistake	II. Vincenta 5.
+l20	row	III. Barbara 2.
+l21	row	c) Casimirus Krysztopajtis
+l22	wrapped	40.
+l23	row	ux. Anna 39.
+l24	row	filius Casimirus 15.
+l25	scribe-mistake	filiae Susana~~e~~ 17.
+l26	row	II. Antonina 14.
+l27	row	III. Joanna 2.
+l28	row	Biczużej:
+l29	row	1. Herus Joseph Jurewicz 30
+l30	row	ux. Barbara 28.
+l31	row	filius Jozef 8.
+l32	row	II. Ignatius 5.
+l33	row	III. ~~Ignatius~~ Ladislaus 2.
+l34	row	IV. Casimirus 1.
+l35	row	filia Alexandra 3.
+l36	row	Juljanus Nowogrodzki 36.
+l37	page-number	32
+l38	row	Ladislaus Zdanovicz 11.
+l39	row	Helena Poteriabas 25
+l40	row	Marcianus Galkus c. 78.
+l41	row	Anna Gosztowt vg 30.
+l42	row	2
+l43	wrapped	Herus Joseph Gosztowt 40.
+l44	row	ux. Helena 34.
+l45	row	filius Joseph 13
+l46	row	II. Vincentius 7.
+l47	row	III Stanislaus 2.
+l48	row	3 Herus Joseph Gaputis 35.
+l49	row	ux. Mariana 26
+l50	row	filius Joseph 5
+l51	row	filia Mariana 4
+l52	row	II. Anna 2.
+l53	row	III. Francisca 1.
+l54	row	4. Herus Ignatius Nauduzas 49.
+l55	row	ux. Marianna 45.
+l56	row	Petrus Bubelis 13.
+l57	row	5.
+l58	wrapped	Herus Joannes Powilajtis 25
+l59	wrapped	c.
+l60	row	Mater Helena Powilajtis vd 50
+l61	row	filius Casimirus 26.
+l62	row	filiae Mariana 19.
+l63	row	II. Helena 17
+l64	row	Helena Gosztowt 10.
+l65	row	Joannes Norwajsz 13.
+l66	row	6 - Casimirus Adomajtis 25.
+l67	wrapped	c.
+l68	row	Soror Anna 22.
+l69	row	7.- Joannes Daraszka 55.
+l70	row	ux. Anna 50.
+l71	row	filia Susanna 19
+l72	row	8. Joseph Daraszka 60.
+l73	row	uxor Anna 80.
+l74	row	9. Joannes Czapas 48
+l75	row	ux. Magdalena 40
+l76	row	filius Joannes 8.

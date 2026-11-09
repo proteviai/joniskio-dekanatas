@@ -1,0 +1,69 @@
+# skenas = 0005
+# busena = ok
+# eScriptorium = dok. 2, 
+l1	row	8) Casimirus Navardovski - 30an
+l2	row	ux. Agnes - 30an
+l3	row	pater - Casimirus Norvajsz - 70an
+l4	row	9) Telesphorus Diokas - 80an
+l5	row	ux. Barbara - 40an
+l6	row	filius - Franciscus - 17an
+l7	row	— Joannes - 9-
+l8	row	10) Banifacius Markievicz - 70an.
+l9	row	ux. Anna - 38-
+l10	row	filija - Anna - 18an
+l11	row	frater Petrus Markevicz - 65an
+l12	row	11.- Antonius Potius - 45an
+l13	row	ux.- Marta - 40an
+l14	row	filii - Vladislaus - 9an
+l15	row	— Franciscus - 2
+l16	row	— Francisca - 11-
+l17	row	— Apalonia - 7
+l18	row	— Anna - 4
+l19	row	12- Vincentius Diokas - 45.
+l20	row	ux. Anna - 40an
+l21	row	filia - Rozalija - 21an
+l22	row	— Anna - 18an
+l23	row	— Josaphata - 17an
+l24	row	13- Josephus Davolius - 40an
+l25	row	ux. Monica - 35-
+l26	row	filius - Josephus - 15-
+l27	row	— Zuzanna - 3an
+l28	row	14- Tadeus Lacas - 50an
+l29	row	uxor - Anna - 35an
+l30	row	filius - Izidorus - 7
+l31	row	— Casimirus - 1.
+l32	row	— Kristina - 9.
+l33	page-number	3
+l34	row	15. Herus Stanislaus Jasajtis - 43an
+l35	row	ux.- Constantia - 32an
+l36	row	filius - Stanisłaus - 8an
+l37	row	— Franciscus - 6
+l38	row	avuncula Anna Puterabas - 60.
+l39	row	famuli: Juliana Kreuczunas - 25an
+l40	row	— Juliana Božicse - 12.-
+l41	row	16.- Herus Josephus Zaloga - 57an
+l42	row	ux.- Anna - 48an
+l43	row	filius - Alexander-28an in America
+l44	row	— Antonius - 26-
+l45	row	— Josephus - 15
+l46	row	— Silvester - 8
+l47	row	— Anna - 20-
+l48	row	— Helena - 18.
+l49	row	— Apalonia - 16
+l50	row	— Stephania - 10.
+l51	row	17. Herus Hieronimus Szliager - 72an
+l52	row	ux - Antonina - 50an
+l53	row	filia - Casimira - 26-
+l54	row	18.- Gasper Norbutas - 40an
+l55	row	ux Cunigunda - 39an
+l56	row	filius - Franciscus - 5
+l57	row	famulus - Alexander Morkelis - 10.-
+l58	row	— Juliana Lipkicze - 60an
+l59	row	19 Herus - Stephanus Dante - 23-
+l60	row	ux. Magdalena - 20-
+l61	row	filia - Francisca - 1
+l62	row	famulus - Stanislaus Vozbutas - 28-
+l63	row	— Anna Visztartas - 17an
+l64	row	— Antonius Rekis - 11
+l65	row	Patres - Thadeus Mitricas - 70 -
+l66	row	ux. Anna - 60 -

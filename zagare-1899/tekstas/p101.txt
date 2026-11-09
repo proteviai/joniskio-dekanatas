@@ -1,0 +1,61 @@
+# skenas = 0101
+# busena = mach
+# eScriptorium = dok. 3, 0101 klausimai [segReady seg8a]
+l1	row	11.) Franciscus Krupszas 70an
+l2	row	ux Ursula 85an
+l3	row	filius Alexander 25an
+l4	row	Josephus 18an
+l5	row	Helena 12an
+l6	row	Sophia 14an
+l7	row	Casimirus Macis 70an
+l8	row	a) ux. Eleonora 50an
+l9	row	filius Casimirus 16an
+l10	row	c) Marianna Senenovicz 70an
+l11	row	filius Alexander 23an
+l12	row	12 Josepha Rudovska 40an
+l13	row	filius Julianus 12an
+l14	row	Vadislaus? 11an
+l15	row	pater Casimirus Rarovicz 83an
+l16	row	13 Joannes Szimanski 30an
+l17	row	ux Helena 28an
+l18	row	filius Joannes 1an
+l19	row	Francisca 4an
+l20	row	a Franciscus Povilajtis 37an
+l21	row	ux Marianna 33an
+l22	row	filius Franciscus 10an
+l23	row	Joannes 8an
+l24	row	Casimirus 8an
+l25	row	Helena 4an
+l26	row	c) Joannes Virbicki 33an
+l27	row	ux Juliana 31an
+l28	row	filius Stanislaus 2an
+l29	row	Zuzanna 8an
+l30	row	1) Adamus Szimanski 28an
+l31	row	ux Rosalia 32an
+l32	row	filius Stanislaus 2an
+l33	row	d) Vincentius Danila 47an
+l34	row	ux Helena 46an
+l35	row	filia Martha 4an
+l36	row	Anna 11an
+l37	row	c Stanislaus Gustas 59an
+l38	row	ux Helena 60an
+l39	row	1) Anna Kukszienie vd. 28an
+l40	row	filia Joanna 4an
+l41	row	a) Anna Liuberskicze 8an
+l42	row	16 Joannes Bagdonas 59an
+l43	row	ux Marianna 50an
+l44	row	filia Zuzanna 18an
+l45	row	Helena 14an
+l46	row	a) Adamus Okmans 73an
+l47	row	ux Anna 50an
+l48	row	filius Augustinus 10an
+l49	row	Helena 10an
+l50	row	c Josephus Vipartas 22an
+l51	row	soror Martha 75an
+l52	row	ux Juliana 25an
+l53	row	filia Zuzanna 1an
+l54	row	d Joannes Romaszevski 39an
+l55	row	ux Anna 50an
+l56	row	filia Marianna 24an
+l57	row	Anastasia 17an
+l58	row	Zuzanna 14an

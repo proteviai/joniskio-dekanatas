@@ -1,0 +1,60 @@
+# skenas = 0094
+# busena = mach
+# eScriptorium = dok. 3, 0094 klausimai [segReady seg8a]
+l1	row	32 Joannes Stabrovskis 48an
+l2	row	ux Agnes 40an
+l3	row	filius Joannes 4an
+l4	row	Domicella 8an
+l5	row	33 Marcianus Orneżis 33an
+l6	row	ux Helena 27an
+l7	row	filius Josephus 4an
+l8	row	Anna 2an
+l9	row	a Sranislar? Zubovskis 41an
+l10	row	ux Victoria 26an
+l11	row	filius Franciscus 1an
+l12	row	Staneleus? 12an
+l13	row	Frarcpcus? Gkeris 40an
+l14	row	b Anna Skierienie 50an
+l15	row	34 her Joannes Orneżis 38an
+l16	row	ux Elizabeth 33an
+l17	row	filius Alexander 12an
+l18	row	Stanislaus 4an
+l19	row	Bronislaa 2an
+l20	row	famulus Josephus Butkus 24an
+l21	row	Eleonora Ramaszauckicze 18an
+l22	row	a Marianna Vicziuszienie vid 60an
+l23	row	filius Vincentius 12an
+l24	row	35 Barbara Drigotienie 35an
+l25	row	filius Franciscus 9an
+l26	row	Barboara? 17an
+l27	row	a Anna Stabrauskicze 30an
+l28	row	filis Joannes 13an
+l29	row	Herus
+l30	row	36 Casimirus Drigotas 40an
+l31	row	ux Constantia 35an
+l32	row	filius Josephus 18an
+l33	row	Casimirus 16an
+l34	row	Casimira 7an
+l35	row	famula Ebomnora? Paulauevek 28an
+l36	row	Hebia? Laucicze 14an
+l37	row	37 Herus Josephus Keturakis 60an
+l38	row	ux Helena 50an
+l39	row	filius Josephus 2an
+l40	row	Zuzanna 6an
+l41	row	famulis Petrus Sleveczis 16an
+l42	row	Apalonia Jurskicze 2an
+l43	row	Amelia Virbickicze 23an
+l44	row	38aea Alexander Gurskis 38an
+l45	row	ux Marianna 50an
+l46	row	famulus Josephus Macis 18an
+l47	row	Stanislaus Zubovskis 45an
+l48	row	Zuzanna Bagdonicze 18an
+l49	row	Juliana Jankajticze 16an
+l50	row	Zuzanna Savickicze 14an
+l51	row	39 Vincentius Puterebas 64an
+l52	row	ux Barbara 40an
+l53	row	filius Josephus 19an
+l54	row	Vincentius 9an
+l55	row	Amelia 4an
+l56	row	Zuzanna 15an
+l57	row	filius Constantinus 9an

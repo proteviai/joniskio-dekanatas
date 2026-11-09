@@ -1,0 +1,75 @@
+# skenas = 0013
+# busena = ok
+# eScriptorium = dok. 2, 
+l1	row	6.- Josephus Norvaisz - 51an
+l2	row	ux. Anna - 30an
+l3	row	filius Carolus - 4-
+l4	row	— Vladislaus - 2
+l5	row	— Antonina - 7
+l6	row	— Casimira - 4
+l7	row	7.- vid. Baltrom Mundris - 50an
+l8	row	filia - Anna - 20
+l9	row	— Dorothea - 18an
+l10	row	— Natalia - 17an
+l11	row	— Paulina - 14an
+l12	row	— Joanna - 12an
+l13	row	famulus - Ignatius Jovajszas - 30an
+l14	row	8.- Adamus Pavlovski - 31an
+l15	row	ux. Juliana - 25an
+l16	row	filius Josephus - 1an
+l17	row	famulus - Casimirus Curovski - 26an
+l18	row	— Casimirus Szukis - 22an
+l19	row	— Juliana Kucsinska - 22an
+l20	row	— Anna Staporajtis - 27an
+l21	row	pater Josephus - 80an
+l22	row	9. - Clemens Levejko - 30an
+l23	row	mater Anna - 60an
+l24	row	frater Josephus - 27an
+l25	row	soror Constantia - 32an
+l26	row	— Rozalia - 17an
+l27	row	— Barbara - 20an
+l28	row	famula Monica Vejkalas - 10an
+l29	row	10.- Josephus Leveika - 45an
+l30	row	ux. Anna - 25an
+l31	row	filia - Stanislaa - 3
+l32	row	mater Rozalia - 70an
+l33	row	famula - Josepha Budvajtis - 19an
+l34	row	— Francisca Adamajtis - 13an
+l35	page-number	11
+l36	row	11- Josephus Doviltis - 30an
+l37	row	ux. Eleonora - 19an
+l38	row	filius Josephus - 2 an
+l39	row	frater Georgius - 30an
+l40	row	famulus Clemens Bakiunas - 22an
+l41	row	— Thadeus Stankus - 20an
+l42	row	— Barbara Pangas - 15an
+l43	row	— Marianna Ramunas - 30an
+l44	row	mater- Juliana - 70an
+l45	row	12.- Antonius Lavrinajtis - 40an
+l46	row	ux. Antonina - 30an
+l47	row	filius Clemens - 5
+l48	row	— Juliana - 3
+l49	row	— Joanna - 1an
+l50	row	vid. Eleonora Szliaupienie - 35an
+l51	row	filia - Anna - 8 an
+l52	row	frater Josephus - 19
+l53	row	famula Apolonia Rauckins - 14an
+l54	row	13.- Josephus Szliaupas - 27an
+l55	row	ux. Juliana - 22an
+l56	row	mater - Joanna Rauckinas - 60an
+l57	row	hab. a) vid. Anna Putericbienie - 45an
+l58	row	filia Marciana - 6
+l59	row	filia- Apolonia - 14an
+l60	row	— Eleonora - 4 an
+l61	row	— Francisca - 12an
+l62	row	— Casimirus - 7an
+l63	row	— Dominicus - 6 an
+l64	row	b) Anna - ux. 40an
+l65	row	Casimirus Rauckins. - 40an
+l66	row	14.- Antonius Stasiulis - 21an
+l67	row	frater Josephus - 19an
+l68	row	— Casimirus - 13an
+l69	row	— Francisca - 17an
+l70	row	— Juliana - 15 an
+l71	row	famula Helena Briedicze - 20an
+l72	row	— Dominicus Stasiulis - 25-

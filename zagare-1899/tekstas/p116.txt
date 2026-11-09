@@ -1,0 +1,70 @@
+# skenas = 0116
+# busena = mach
+# eScriptorium = dok. 3, 0116 klausimai [segReady seg8a]
+l1	row	5 in cadem domo. Antonius Jasiunas
+l2	wrapped	29
+l3	row	ux Ana Jaksztovicz 29an
+l4	row	Maria Jakutowicz 8.
+l5	row	II Leokadja? 2an
+l6	row	Marianna Adamowicz 20.
+l7	row	apud Magazinierin
+l8	row	Helena Grejczius 42an
+l9	row	apud Petrow.
+l10	row	Custos: J Alexander Jasutis 30an
+l11	margin-note	hepur viros
+l12	row	ux Marianna 27an
+l13	row	soror Ursula Paulauckienie 25an
+l14	row	a Casimirus Vilunas 80an
+l15	row	filia Apalonia 19an
+l16	row	2 Alexander Pavlovsk 30an
+l17	row	ux Anna 31an
+l18	row	filius Casimirus 5an
+l19	row	Anna 8an
+l20	row	mater Helena 60an
+l21	note-above	ax
+l22	row	3 Josephus Petrovski 44an
+l23	row	ux Marianna 39an
+l24	row	filius Josephus 19an
+l25	row	Antonius 8an
+l26	row	Juliana 11an
+l27	row	Marianna 12an
+l28	row	4 Joannes Vidutis 47an
+l29	row	ux Francisca 29an
+l30	row	filius Joannes 7an
+l31	row	Anna 6an
+l32	row	Alexandra 5an
+l33	row	Malvina 3an
+l34	row	Marianna 1an
+l35	note-above	filius herus
+l36	note-above	mater
+l37	row	5.
+l38	wrapped	Paulus Ramonas 22an
+l39	row	ux Barbara 46an
+l40	row	filius Alexander 17an
+l41	row	Marianna 12an
+l42	row	a) Franciscus Rudis 30an
+l43	row	ux Magdalena 40an
+l44	row	filius Casimirus 8an
+l45	row	Apolonia 15an
+l46	row	b Joannes Gulbins 30an
+l47	row	ux Marcianna 31an
+l48	row	filius Antonius 1an
+l49	row	Apolonia 10an
+l50	row	Zuzanna 8an
+l51	row	6 Joannes Kviadaras 38an
+l52	row	ux Helena 28an
+l53	row	filia Zuzanna 13an
+l54	row	Francisca 4an
+l55	row	Stanislaua 1an
+l56	row	a) Helena Kviadaricze 40an
+l57	row	9 Baltiraneus? Gilis 50an
+l58	row	ux Magdalena 30an
+l59	row	filius Antonius 8an
+l60	row	mater Ursula Norejkienie 70an
+l61	row	7 Josephus Szalovejus 35an
+l62	row	ux Pellagia 33an
+l63	row	filia Hedwiga 4an
+l64	row	Casimira 1an
+l65	row	pater Josephus 68an
+l66	row	ux Anna 60an
+l67	row	filius Antonius 29an

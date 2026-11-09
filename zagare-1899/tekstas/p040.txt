@@ -1,0 +1,62 @@
+# skenas = 0040
+# busena = ok
+# eScriptorium = dok. 3, 0040 baigta [segReady]
+l1	row	2.) Casimirus Bertulis - 35an
+l2	row	ux. Barbara - 30an
+l3	row	3.) Victor Climas - 40an
+l4	row	ux. Anna - 29an
+l5	row	filius Vincentius - 6an
+l6	row	Benedictus - 4
+l7	row	4.) Franciscus Narbuts - 56an
+l8	row	ux. Anna - 40an
+l9	row	filius - Casimirus - 18an
+l10	row	Antonius - 12an
+l11	row	Franciscus - 10an
+l12	row	Stanislaus - 7an
+l13	row	Josepha - 18an
+l14	row	5.) Franciscus Jarutis - 38an
+l15	row	ux. Marciana - 25an
+l16	row	filius - Franciscus - 10an
+l17	row	Josepha - 4an
+l18	row	6.- Jacobus Makovski - 47an.
+l19	note-above	virgo
+l20	row	~~ux.~~ Anna Jodeikicze - 24an
+l21	row	filius Josephus - 3an
+l22	row	Theodora - 5an
+l23	row	7.-) Josephus Dante - 32an
+l24	row	ux. Anna - 30an
+l25	row	filius Clemens - 3an
+l26	row	Justinus - 1an
+l27	row	8.- Martelianus Januszas - 50an
+l28	row	ux Anna - 25an
+l29	row	filia Apalonia - 1an
+l30	row	9.- Ignatius Kimant- 50an
+l31	page-number	38
+l32	row	fam. Josephus Butkievicz - 36an
+l33	row	Kasimirus Alsius - 19an
+l34	row	Kasimirus Narbut - 17an
+l35	row	Stanislaua Belska - 20an
+l36	row	Barbara Vieliczko - 18an
+l37	row	Helena Mandeiko - 18an
+l38	row	Custos Silvae
+l39	row	1) Antonius Sipovicz - 35an
+l40	row	ux. Sophia - 30an
+l41	row	filia - Stanislaua - 4an
+l42	row	Sophia - 2an
+l43	row	a) Domicella Bilzo vid. 60an
+l44	row	~~filia~~ Alexandra virg - 30an
+l45	row	filius Michael - 8an
+l46	row	2) Joannes Vilkievicz - 60an
+l47	row	Eleonora - 60an
+l48	row	filius Franciscus (rozpustnik 26an
+l49	row	Casimirus - in militia - 24an
+l50	row	famulus - Franciscus Czechanovski - 16an
+l51	row	Barbara Noruticze - 26an
+l52	row	filius. Vladislaus - 1an
+l53	row	Rocskej
+l54	row	1) Casimirus Adomajtis - 29an
+l55	row	ux. Barbara - 27an
+l56	row	filius - Franciscus Balsis - 24an
+l57	row	Rochus Gricius - 19an
+l58	row	Barbara Kipszicze - 18an
+l59	row	Marianna Abramovicz - 14an

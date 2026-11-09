@@ -1,0 +1,71 @@
+# skenas = 0007
+# busena = ok
+# eScriptorium = dok. 2, 
+l1	row	herus
+l2	row	28.- Casimirus Vajtiekunas - 38an
+l3	row	ux. Magdalena - 28an
+l4	row	filius Bronislaus - 4an
+l5	row	— Casimirus - 2
+l6	row	a) hab., vid. Marta Sziurko - 23an
+l7	row	filia - Juliana - 14an
+l8	row	— Zuzanna - 9an
+l9	row	b) Helena Sziuko virg - 21an
+l10	row	filia - Marciana - 1an
+l11	row	29.- vid. Caterina Zaloga - 56an,
+l12	row	filia Juliona - 19an.
+l13	row	a)- hab. Barbara Urneżis - 90an
+l14	row	b)- Matheus Dombrovski - 63an
+l15	row	ux. Magdalena - 40an
+l16	row	filius - Antonius - 3
+l17	row	— Stanislaus - 1
+l18	row	herus
+l19	row	30.- Marcianus Ginkus - 22an
+l20	row	mater Eleonora Narbutas - 43an
+l21	row	filius Franciszkus Narbutas - 12 -
+l22	row	31.) Vincentius Buzas - 40an
+l23	row	ux. Barbara - 28
+l24	row	filius - Vincentius - 7
+l25	row	— Marianna - 1an
+l26	row	32 Herus - Antonius Butautis - 38an
+l27	row	ux. Helena - 35
+l28	row	filius Antonius - 6.
+l29	row	— Marciana - 15an
+l30	row	— Casimira - 7
+l31	row	— Anna - 4an
+l32	row	— Amelia - 2
+l33	row	famulus Augustinus Morkelis - 19 -
+l34	row	— Marianna Ventaras - 22an
+l35	row	patres - Josephus Norvaisz - 70an
+l36	row	ux. Thecla - 67.
+l37	page-number	5
+l38	row	33 Herus - Antonius Narvids - 37
+l39	row	ux. Anna - 27
+l40	row	filius - Stephania - 1an
+l41	row	pater Ignatius - 75an
+l42	row	a) Marcianus Reckus - 46an
+l43	row	ux. Ursula - 43an
+l44	row	filius - Vincentius - 21 -
+l45	row	— Marcianus - 18 -
+l46	row	— Michael - 13
+l47	row	— Antonius - 11
+l48	row	— Helena - 9
+l49	row	— Georgius - 6
+l50	row	— Stanislaus - 2
+l51	row	— Benedicta - 3 -
+l52	row	34= Georgius Baltruszajtis - 50an
+l53	row	ux. Helena - 30an
+l54	row	filius - Vincentius - 1an
+l55	row	— Francisca - 2an
+l56	row	— Clemens 23 in militia
+l57	row	35 Herus Josephus Baltruszajtis - 26an
+l58	row	ux. Ursula - 32an
+l59	row	filius Antonius - 5an
+l60	row	— Clemens - 3an
+l61	row	— Josephus - 1an
+l62	row	Soror - Benedicta - 21an
+l63	row	36 Herus - Alexander Narvidas - 40an
+l64	row	ux. Benedicta - 48an
+l65	row	filius - Stanislaus Strockis - 24an
+l66	row	— Michael - 20an
+l67	row	— Benedictus - 17-
+l68	row	— Anna - 22an

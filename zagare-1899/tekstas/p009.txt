@@ -1,0 +1,69 @@
+# skenas = 0009
+# busena = ok
+# eScriptorium = dok. 2, 
+l1	row	Herus
+l2	row	5. Franciscus Jars - 28an
+l3	row	ux. Helena - 23.
+l4	row	filius Vladislaus - 1 an
+l5	row	frater Joannes - 20an
+l6	row	famula Helena Urbunas - 30an
+l7	row	— Josephus Marcincus - 14an
+l8	row	herus
+l9	row	6. Alexander Żaloga - 62an
+l10	row	ux. Anna - 56
+l11	row	filius Casimirus - 30an
+l12	row	— Alexander - 28an
+l13	row	— Helena - 26
+l14	row	famula Barbara Jasutis - 18
+l15	row	— Antonius Jasutis - 12
+l16	row	— Michael Zaloga - 19an
+l17	row	7) Herus - Casimirus Marcinkus - 43an
+l18	row	uxor Marianna - 33an
+l19	row	filius Alexander - 13an
+l20	row	— Franciscus - 7an
+l21	row	— Benedictus - 4
+l22	row	— Elizabeth - 6an
+l23	row	famulus - Joannes Miclosius - 20an
+l24	row	— Helena Geisteris - 17
+l25	row	patres Casimirus - 70an
+l26	row	ux. Barbara - 70an
+l27	row	8.) Joannes Simonajtis - 60an
+l28	row	ux. Julianna - 60an
+l29	row	filius Thomas - 24an
+l30	row	— Constantinus - 19an
+l31	row	— Antonius - 21an
+l32	row	famula Barbara Mergelis - 28an
+l33	row	— Zuzanna Norvajsz - 15an
+l34	page-number	7
+l35	row	9. Herus- Thadeus Vajtiekajtis - 36an
+l36	row	ux. Teresa - 30an
+l37	row	filius Julianus - 2an
+l38	row	— Josephata - 4an
+l39	row	— Augustina - 1an
+l40	row	famulus Josephus Adomajtis - 26an
+l41	row	— Juliana Adamajtis - 23an
+l42	row	— Anna Kumpis - 16an
+l43	row	10.+ Adamus Szimajtis - 50an
+l44	row	ux. Elisabeth - 30an
+l45	row	filius - Joannes - 15an
+l46	row	— Josephus - 10an
+l47	row	— Elisabeth - 18an
+l48	row	— Helena - 9an
+l49	row	famulus Josephus Jokimas - 33an
+l50	row	11.- Vincentius Dante - 40an
+l51	row	mater Elisabeth - 50an
+l52	row	frater Alexander - 17an
+l53	row	soror Helena - 30an
+l54	row	filia Anna - 7an
+l55	row	famulus Boleslaus Vitkovski - 25an
+l56	row	hab. Eleonora Balakas - 70an
+l57	row	famula Juliana Nagis - 18an
+l58	row	— Antanas Kundrots - 11an
+l59	row	12.- Thadeus Czeputis - 40an
+l60	row	ux. Marciana - 30an
+l61	row	filius Bronislaus - 3an
+l62	row	— Alexandra - 2an
+l63	row	famulus Ludovicas Norvajszas - 26an
+l64	row	— Josephus Szolkovski - 18an
+l65	row	— Casimirus Daunis - 12an
+l66	row	— Helena Baravicas - 20an

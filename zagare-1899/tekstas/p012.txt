@@ -1,0 +1,65 @@
+# skenas = 0012
+# busena = ok
+# eScriptorium = dok. 2, 
+l1	row	patres Joannes Butautis - 70an
+l2	row	ux. Ursula - 50an
+l3	row	9. - Rocus Bugis - 40an
+l4	row	ux. Helena - 30an
+l5	row	filius - Josephus - 15 an
+l6	row	— Vincentius - 13 an
+l7	row	— Barbara - 12an
+l8	row	— Josaphata - 8an
+l9	row	Tauczunu diesitinnikaj
+l10	row	1) - Casimirus Sliażas - 53an
+l11	row	ux Juliana - 50an
+l12	row	filia - Constantina - 10an
+l13	row	2.- Marcianus Doviltis - 40an
+l14	row	ux. Elizabeth - 50an
+l15	row	filius Josephus - 19an
+l16	row	— Monica - 23an
+l17	row	— Anna - 15an
+l18	row	3.- Antonius Bujszas - 45an
+l19	row	ux. Marianna - 35 an
+l20	row	filius - Antonius - 1 an
+l21	row	— Alexandrina - 6 an
+l22	row	— Apolonia - 2 an
+l23	row	pater Thadeus - 85an
+l24	row	4.- vid. Juliana Ruziene - 45an
+l25	row	filius Josephus - 18an
+l26	row	— Apolonia - 17an
+l27	row	5. - Mathias Vipartas - 36an
+l28	row	ux. Elizabeth - 27an
+l29	row	filius Petrus - 2an
+l30	row	— Clemens - 1an
+l31	row	— Anna - 3an
+l32	row	mater Helena - 70an
+l33	page-number	10
+l34	row	Lankajczej
+l35	row	1) Casimirus Szimajtis - 45an
+l36	row	ux Marianna - 45an
+l37	row	filius - Casimirus - 12an
+l38	row	— Antonius - 8an
+l39	row	2) Alexander Levejko - 35an
+l40	row	ux. Helena - 25an
+l41	row	filia Zuzanna - 1 an
+l42	row	hab. - Helena Drigotas - 47an
+l43	row	filius Marcianus - 13an
+l44	row	— Joannes - 17an
+l45	row	— Georgius - 14
+l46	row	— Elizabeth - 12
+l47	row	— Barbara - 10an
+l48	row	3.) Antonius Leveiko - 43an
+l49	row	ux. Barbara - 30an
+l50	row	filius Antonius - 6an
+l51	row	— Barbara - 4an
+l52	row	4,) Marcianus Bertulis - 70an
+l53	row	ux Rozalia - 60an
+l54	row	filius Casimirus - 22an
+l55	row	5. Josephus Virbicki - 50an
+l56	row	ux. Anna - 33an
+l57	row	filius Casimirus - 12.
+l58	row	— Alexander - 4
+l59	row	— Helena - 13an
+l60	row	— Anna - 7.
+l61	row	— Lucia - 6an
+l62	row	— Juliana - 1.

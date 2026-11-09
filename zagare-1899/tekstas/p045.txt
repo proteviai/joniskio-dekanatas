@@ -1,0 +1,69 @@
+# skenas = 0045
+# busena = ok
+# eScriptorium = dok. 3, 0045 baigta [segGT test]
+l1	row	herus
+l2	row	4.-) Vincentius Navickas - 30an
+l3	row	ux Elisabeth - 25an
+l4	row	filius Vincentius - 2an
+l5	row	frater Petrus - 18an
+l6	row	5.) Josephus Novickas - 65an
+l7	row	ux. Anna - 40an
+l8	row	filia Juliana - 8an
+l9	row	vid.
+l10	row	6.-) Josephus Indrulis - 80an
+l11	row	Casimirus Dżiugis - 32an
+l12	row	ux. Anna - 30an
+l13	row	filia Zuzanna - 4an
+l14	row	Marianna - 2an
+l15	row	7.-) Casimirus Jaksztovicz - 30an
+l16	row	ux. Martha - 30an
+l17	row	filius - Antonius - 7an
+l18	row	Josephus - 3an
+l19	row	8.) Antonius Vipartas - 32an
+l20	row	ux. Martha - 27an
+l21	row	filius Antonius - 9an
+l22	row	Joannes - 3an
+l23	row	Anastasia - 8an
+l24	row	Cecilia - 7an
+l25	row	9.) Casimirus Dementis 50an
+l26	row	ux. Helena - 35an
+l27	row	filia - Zuzanna - 6an
+l28	row	Anna - 10an
+l29	row	Eleonora - 4an
+l30	row	10.-) Josephus Daugello - 55an
+l31	row	ux. Barbara - 50an
+l32	page-number	43
+l33	row	11. herus Casimirus Vipartas - 38an
+l34	row	ux. Anna - 36an
+l35	row	filius Zigmuntus - 5an
+l36	row	Josephus - 1an
+l37	row	Domicella - 12an
+l38	row	Justina - 1an
+l39	row	hab. Helena Berczicze - 70an
+l40	row	fam. Alexander Adomajtis - 23an
+l41	row	Josephus Grigalius - 12an
+l42	row	12.-) Herus. Joannes Balsevicz - 45an
+l43	row	ux. Anna - 40an
+l44	row	filius - Augustinus - 14an
+l45	row	Joannes - 8an
+l46	row	Albinus - 3an
+l47	row	Rozalia - 11an
+l48	row	Constantia - 10an
+l49	row	Anna - 1an
+l50	row	famulus Franciscus Novickas - 35an
+l51	row	herus
+l52	row	13.- Josephus Pranciulis - 45an
+l53	row	ux Marianna - 30an
+l54	row	filius Josephus - 16an
+l55	row	Liudovicus - 12an
+l56	row	Antonina - 10an
+l57	row	famula Amelia Vajtiekajticze 20an
+l58	row	14.-) herus Vincentius Norvajszas - 30an
+l59	row	ux Anna - 33an
+l60	row	filius Antonius - 3an
+l61	row	Anna - 5an
+l62	row	Stanislaus - 1an
+l63	row	Isabella - 10an
+l64	row	hab. a) Josephus Grigalius - 43an
+l65	row	ux. Elisabeth - 30an
+l66	row	filius Josephus - 12an

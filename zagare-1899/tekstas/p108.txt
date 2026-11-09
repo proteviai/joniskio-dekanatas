@@ -1,0 +1,66 @@
+# skenas = 0108
+# busena = mach
+# eScriptorium = dok. 3, 0108 klausimai [segReady seg8a]
+l1	row	b) Vincentius Sadeckis 24an
+l2	row	ux Catherina 24an
+l3	note-above	at
+l4	row	a) Marcianus Siedzius 58an
+l5	row	ux Lisa? Cuteraika 46an
+l6	note-above	cab
+l7	row	filius Vincentius 23an
+l8	row	Annacat? 18an
+l9	note-above	cat
+l10	row	privgna Marianna 16an
+l11	row	23) Josephus Ziauris 58an
+l12	row	ux Monica 40an
+l13	row	filius Benedictus 15an
+l14	row	Monica 12an
+l15	row	Juliana 9an
+l16	row	mater Agnes 90an
+l17	row	a Vincentius Dannis 34an
+l18	row	ux Adolphina 23an
+l19	row	b Leo Limans 57an
+l20	row	ux Eleonora 47an
+l21	row	filius Vincentius 2an
+l22	row	Joannes Mikalauckas 29an
+l23	row	c) Veronica Lubavicz 20an
+l24	row	mater Petronella 80an
+l25	row	vir Franciscus 54an
+l26	row	d Thomas Gasparajtis 61an
+l27	row	ux Juliana 40an
+l28	row	filius Casimirus 16an
+l29	row	Josephus 12an
+l30	row	Juliana 18an
+l31	row	c) Josephus Gasparaitis 17an
+l32	row	ux Anna 40an
+l33	row	filia Magdalena 18an
+l34	row	Marianna 8an
+l35	row	Barbara 25an
+l36	row	24) Josephus Boginski 68an
+l37	row	ux Helena 58an
+l38	row	filius Antonius 26an
+l39	row	a Joannes Bilius 70an
+l40	row	ux Magdalena 70an
+l41	row	b Franciscus Balakas 80an
+l42	row	ux Helena 90an
+l43	row	g) Josephus Birutis 14an
+l44	row	25 Josephus Prejkszas 48an
+l45	row	ux Barbara 43an
+l46	row	filius Josephus 20an
+l47	row	Anna 12an
+l48	row	mater Theresa Prejkszan 83an
+l49	row	a) Casimirus Tovtvajsz 60an
+l50	row	ux Eleonora 70an
+l51	row	c) Mathias Czelkis 50an
+l52	row	ux Josephata 50an
+l53	row	filia Anna 17an
+l54	row	Zuzanna 12an
+l55	row	a Anna Szukicze 50an
+l56	row	26 Alexander Tovtvajsz 70an
+l57	row	ux Marianna 60an
+l58	row	filius Josephus 24an
+l59	row	a) Justina Tovtvajszicze 17an
+l60	row	Malvina 18an
+l61	row	pater Antonius 45an
+l62	row	ux Anna 36an
+l63	row	a) Josephus Demensto 12an

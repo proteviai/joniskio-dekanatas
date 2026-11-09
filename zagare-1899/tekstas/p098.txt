@@ -1,0 +1,60 @@
+# skenas = 0098
+# busena = mach
+# eScriptorium = dok. 3, 0098 klausimai [segReady seg8a]
+l1	row	67 Her Joannes Skripko 65an
+l2	row	ux Juliana 50an
+l3	row	filius Casimirus 26an
+l4	row	Joannes 24an
+l5	row	Antonius 24an
+l6	row	Juliana 18an
+l7	row	famul Alexader Macharecks 14an
+l8	row	Magdalena Drigoticze 25an
+l9	row	Apalonia Szalkauszicze 18an
+l10	row	68 Dec Ludovicus Lajkunas 35an
+l11	row	ux Lucia 30an
+l12	row	filius Alexander 4an
+l13	row	fa Valeriana 11an
+l14	row	Stanislau 9an
+l15	row	Sophia 7an
+l16	row	fa Stanislaus Vitauskis 29an
+l17	row	Antonius Miszkinas 27an
+l18	row	Veronica Miszkunicze 30an
+l19	row	Martha Gruzdicze 60an
+l20	row	Helena Pranciulicze 28an
+l21	row	pater Alexander Ornezis 7an
+l22	row	Mantorisakej?
+l23	row	1 Josephus Urbonas 38an
+l24	row	ux Marianna 37an
+l25	row	filius Franciscus 15an
+l26	row	Vincentius 14an
+l27	row	Helena 11an
+l28	row	hab Rochus Rimdzius 60an
+l29	row	b Casimirus Balcziunas 30an
+l30	row	ux Anna 25an
+l31	row	filia Zuzanna 1an
+l32	row	mater Elizabeth Navagrockienie 70an
+l33	row	2 Constantinus Zigulis 50an
+l34	row	ux Marianna 30an
+l35	row	filius Vladislaus 8an
+l36	row	Francisca 6an
+l37	row	Cristina 4an
+l38	row	3 Antonius Kriscziunas 28an
+l39	row	mater Justina vid 40an
+l40	row	filius Stanislaus 24an
+l41	row	fa Magdalena 28an
+l42	row	filia Victoria 5an
+l43	row	Juliana 18an
+l44	row	4 Alexander Czechanovski 41an
+l45	row	ux Anna 33an
+l46	row	filia Justina 5an
+l47	row	Anna 4an
+l48	row	Josephata 2an
+l49	row	pater Ignatius Tomkievicz 8an
+l50	row	5 Petrus Orlovski 57an
+l51	row	ux Anna 40an
+l52	row	filius Joannes 25an
+l53	row	Josephus 17an
+l54	row	Dominicus 6an
+l55	row	Petrus 2an
+l56	row	Casimirus 3an
+l57	row	Josepha

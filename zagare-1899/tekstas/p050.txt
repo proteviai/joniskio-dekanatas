@@ -1,0 +1,71 @@
+# skenas = 0050
+# busena = ok
+# eScriptorium = dok. 3, 0050 baigta [segReady]
+l1	row	17. herł. Joannes Povilajtis - 36an
+l2	row	ux. Barbara - 22an
+l3	row	filia - Zuzanna - 1an
+l4	row	18.- Magdalena Adomajtien - 40an
+l5	row	filius Alexander - 26an
+l6	row	Joannes - 24an
+l7	row	Franciscus - 15an
+l8	row	Helena - 13an
+l9	row	19. Herus Josephus Kigas - 50an
+l10	row	ux. Eleonora - 40an
+l11	row	filius Petrus - 8an
+l12	row	Valerianna - 4an
+l13	row	pat. Josephus - 70an
+l14	row	Soror. - Ursula Baravikicze - 50an
+l15	row	famulus Stanislaus Bukentis 30an
+l16	row	Juliana Szliażicze - 14an
+l17	row	20.) Alexander Kvederas - 32an
+l18	row	ux. Juliana - 25an
+l19	row	pater. Casimirus - 80an
+l20	row	filia Apalonia - 20an
+l21	row	famula Juliana Balcziunicze - 13an
+l22	row	21.) Casimirus Kvederas - 40an
+l23	row	ux. Carolina - 30an
+l24	row	filius.- Adolphus - 3an
+l25	row	Vladislaus - 2an
+l26	row	Juliana - 5an
+l27	row	22.-) Gaspars Dabriszka 38an
+l28	row	ux. Barbara - 27an
+l29	row	filius - Josephus - 6an
+l30	row	Vincentius 3an
+l31	row	Barbara - 5an
+l32	row	Juliana - 1an
+l33	row	mater Anna Kodelienie - 80an
+l34	page-number	48
+l35	row	23.- Josephus Sokolovski - 40an
+l36	row	ux. Anna - 30an
+l37	row	24.- Joannes Kigas - 50an
+l38	row	ux. Juliana - 50an
+l39	row	filius Vincentius - 23an
+l40	row	Marcianus - 20an
+l41	row	Joannes - 14an
+l42	row	Jacobus - 12an
+l43	row	Franciscus - 10an
+l44	row	25.- Josephus Kreuczukas 61an
+l45	row	filius Julianus - 24an
+l46	row	Simon - 15an
+l47	row	Apalonia - 12an
+l48	row	26.- Josephus Povilajtis - 35an
+l49	row	ux. Eleonora - 34an
+l50	row	filius Josephus - 9an
+l51	row	Hieronimus - 4an
+l52	row	Victoria - 2an
+l53	row	27.- Josephus Żalis - 35an
+l54	row	ux. Catherina - 30an
+l55	row	Soror. Agnes Diokienie - 80an
+l56	row	famula Zuzanna Kriscziunicze - 10an
+l57	note-above	her
+l58	row	28.- Alexander Ivanovski - 30an
+l59	row	ux. Helena - 30an
+l60	row	filius Joannes - 1an
+l61	row	Juliana - 3an
+l62	row	famulus Casimirus Ramaszevski 61an
+l63	row	29.- Benedictus Truszkovski - 65an
+l64	row	ux. Barbara - 53an
+l65	row	filius Benedictus - 12an
+l66	row	Anna - 17an
+l67	row	Justina - 7-
+l68	row	a) Helena Pociuvienie - 56an

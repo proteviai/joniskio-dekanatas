@@ -1,0 +1,63 @@
+# skenas = 0015
+# busena = ok
+# eScriptorium = dok. 2, 
+l1	row	3. Herus Alexander Zlabis - 56an
+l2	row	ux. Eleonora - 32an
+l3	row	filius Apolinarii - 8
+l4	row	— Constantinus - 4an
+l5	row	— Dominicus - 2an
+l6	row	— Apolonia - 14an
+l7	row	— Eleonora - 12
+l8	row	— Justina - 10.
+l9	row	mater Barbara Adomajtis - 70an
+l10	row	famulus Adomus Szliażas - 60an
+l11	row	— Brigitta Pranciulis - 23an
+l12	row	vid. Helena Doviltis - 60
+l13	row	4. Herus Joannes Bożius - 63an
+l14	row	ux. Marta - 50an
+l15	row	filius Franciscus - 22an
+l16	row	— Clemens - 17an
+l17	row	— Michael - 12an
+l18	row	— Anna - 19an
+l19	row	— Antonina - 10an
+l20	row	5.- Herus Joannes Pranciulis - 55an
+l21	row	ux. Marianna - 35an
+l22	row	filius Josephus - 9an
+l23	row	— Joannes - 1an
+l24	row	— Zuzanna - 13an
+l25	row	— Rozalia - 10an
+l26	row	— Anna - 6.
+l27	row	— Antonine - 5an
+l28	row	— Franciszka - 2an
+l29	row	famulus Antonius Adomajtis - 22an
+l30	row	— Helena Ralakas - 16an
+l31	row	13
+l32	row	6.- Herus Casper Doigotas - 50an
+l33	row	ux. Helena - 41an
+l34	row	filius Joannes - 2an
+l35	row	mater Elizabeth - 80an
+l36	row	frater Thadeus - 60an
+l37	row	famulus Josephus Bugis - 15an
+l38	row	— Barbara Malinovska - 25an
+l39	row	7. Herus Thadeus Biczius - 51an
+l40	row	filius Antonius - 21an
+l41	row	famulus Joannes Szliapajtis - 40an
+l42	row	— Paulina Diczkalnicze - 18an
+l43	row	— Joanna Andruszicze - 15an
+l44	row	8.- Herus Marcianus Srogius - 80an
+l45	row	ux. Anna - 40an
+l46	row	filius Marcianus - 11an
+l47	row	— Clemens - 10an
+l48	row	— Julianus - 8an
+l49	row	— Josephus - 3an
+l50	row	— Apolonia - 6an
+l51	row	famulus Gaudens Zirgulis - 26an
+l52	row	— Barbara Daunicze - 20an
+l53	row	9.- Herus Casimirus Drigotas - 58an
+l54	row	ux. Barbara - 40an
+l55	row	filius Stanislaus - 9an
+l56	row	— Marcianus - 5an
+l57	row	— Thadeus - 3an
+l58	row	— Helena - 1an
+l59	row	famula Anna Micolajtis - 11an
+l60	row	mater Anna Drigotas - 80an

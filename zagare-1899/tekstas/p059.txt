@@ -1,0 +1,73 @@
+# skenas = 0059
+# busena = ok
+# eScriptorium = dok. 3, 0059 baigta [segReady]
+l1	row	famula Helena Biczicze - 30an
+l2	row	mater Anna - 40an
+l3	row	19.- Herus Casimirus Nemunis - 40an
+l4	row	ux. Helena - 40an
+l5	row	filius Dominicus - 19an
+l6	row	Josephus - 11an
+l7	row	Casimirus - 1an
+l8	row	Apalonia - 20an
+l9	row	Helena - 17an
+l10	row	Monica - 13an
+l11	row	Eleonora - 10an
+l12	row	Zuzanna - 6an
+l13	row	herus
+l14	row	20.
+l15	row	Helena Jakubajtiene 40an
+l16	row	filius - Antonius - 23an
+l17	row	Josephus - 21an
+l18	row	famulus Matheus Mensorius - 25an
+l19	row	ux. Helena - 20an
+l20	row	21.- Herus Joannes Stasajtis - 37an
+l21	row	ux. Barbara - 28an
+l22	row	filius Casimirus - 4an
+l23	row	~~Stanislaus~~ - 3an
+l24	row	Antonius - 6an
+l25	row	Francisca - 1an
+l26	row	famula Lucia Jaricze - 20an
+l27	row	a) Teresa Davolienie - 70an
+l28	row	22.- Herus Josephus Doviltis - 45an
+l29	row	ux. Theresa - 30an
+l30	row	filius Josephus - 2an
+l31	row	mater Anna - 60an
+l32	row	famula Victoria Baleckicze - 27an
+l33	note-above	herus
+l34	row	23.- Michael Jaras - 30an
+l35	row	ux. Helena - 30an
+l36	row	filius - Zigmuntus - 5an
+l37	row	Victoria - 9an
+l38	row	Apalonia - 7an
+l39	row	mater Barbara - 60an
+l40	row	Alexandra - 3-
+l41	row	Josephus - 23an
+l42	row	filius Antonius  13an
+l43	row	Casimirus - 17an
+l44	note-above	herus
+l45	row	24.- Josephus Lukszo - 38an
+l46	row	ux. Barbara - 30an
+l47	row	filius Josephus - 9an
+l48	row	Helena - 12an
+l49	row	25.- Marcianus Keturakis - 70an
+l50	row	Herus
+l51	row	ux. Anna - 70an
+l52	row	her. Dominicus Micutis - 40an
+l53	row	ux. Apalonia - 40an
+l54	row	filius - Dominicus - 4an
+l55	row	Josephus - 12an
+l56	row	Apalonia - 7an
+l57	row	Anna - 2an
+l58	row	famulus Josephus Kviadaras - 27an
+l59	row	a) Thadeus Savickas - 60an
+l60	row	Zuzanna Norvajszicze 27an
+l61	row	ux. Anna - 50an
+l62	row	filia Anna - 11an
+l63	row	26.- herus Marcianus Skripko - 29an
+l64	row	soror Brigitta - 25an
+l65	row	famula Agata Norvajsz - 22an
+l66	row	ox Agata Skripkuvienie - 70an
+l67	row	27.- Antonius Talsevicz 45an
+l68	row	ux. Monica - 40an
+l69	row	filia Francisca - 14an
+l70	row	Juliana - 8an

@@ -1,0 +1,85 @@
+# skenas = 0072
+# busena = ok
+# eScriptorium = dok. 3, 0072 baigta [segReady auto1]
+l1	row	4 Franciscus Wajswiłło 61
+l2	row	ux Anna 60
+l3	row	filius Joseph 23
+l4	row	II Clemens 28
+l5	row	in Curonia
+l6	row	III Alexander 20
+l7	row	in Curonia
+l8	row	filiae Anna 18
+l9	row	II Apolonia 9
+l10	row	filius Stanislaus 8
+l11	row	5 Sophia Sutkus vd 44
+l12	row	filia Sophia 11
+l13	row	Antonius Korzeniewski c 54
+l14	row	6 Semhr Casimirus Szutkus 37
+l15	row	ux Eleonora 29
+l16	row	filius Petrus 4
+l17	row	II Felicianus 1
+l18	row	filia Casimira 6
+l19	row	Franciscus Ramonas 11
+l20	row	Barbara Szałkowska vd 90
+l21	row	7 Herus Joseph Szutkus 37
+l22	row	ux Eleonora 30
+l23	row	filia Ludovica 3
+l24	row	Josepha Norejko 23
+l25	row	8 Alexander Balcziunas 46
+l26	row	ux Anna 36
+l27	row	filius Clemens 12
+l28	row	II Antonius 7
+l29	row	III Ladislaus 3
+l30	row	IV Joannes 1
+l31	row	9 Joseph Balcziunas 41
+l32	row	ux Ursula 36
+l33	row	filius Antonius 4
+l34	row	filia Susanna 6
+l35	row	II Marciana 3
+l36	row	III Eleonora 1
+l37	row	10 Herus Franciscus Leszyn-
+l38	wrapped	ski 50
+l39	row	ux Eleonora 50
+l40	page-number	70
+l41	row	filius Joseph 20
+l42	row	II Alexandr 8
+l43	row	filiae Apolonia 14
+l44	row	Joseph Motuzas 17
+l45	row	Amelia Norejko 20
+l46	row	Helena Grycius 21
+l47	row	Anna Sawicka vd 70
+l48	row	filius Joseph ~~c~~ 45
+l49	note-below	conj.
+l50	row	11 Herus arend. Joseph Jareminas 30
+l51	row	ux Antonina 25
+l52	row	filia Juljana 6
+l53	row	Franciscus Zubowicz 59
+l54	note-below	conj
+l55	row	Casimirus Waupszas 15
+l56	row	Carolina Daniłła 18
+l57	row	12 Herus Casimirus Jocubajtis
+l58	wrapped	50
+l59	row	ux Ursula 30
+l60	row	filius Casimirus 12
+l61	row	III Stanislaus 4
+l62	row	II Joseph 7
+l63	row	Clemensus Jasutis 10
+l64	row	IV filia Barbara 16
+l65	row	13 Herus Jacobus Krawczuns
+l66	wrapped	38
+l67	row	ux Eleonora 29
+l68	row	filius Ladislaus 11
+l69	row	II Joseph 4
+l70	row	filia Stanisłava 2
+l71	row	Joseph Berżynis 28
+l72	row	Magdalena Pampars 16
+l73	row	14 Herus Dec Kiaturakis
+l74	wrapped	47
+l75	row	ux Helena 30
+l76	row	filius Joannes 6
+l77	row	II Alexander 4
+l78	row	filiae Apolonia 9
+l79	row	II Mariana 3
+l80	row	III Francisca 1
+l81	row	Thaddeus Kiaturakis 70
+l82	row	vd

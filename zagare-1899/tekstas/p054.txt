@@ -1,0 +1,76 @@
+# skenas = 0054
+# busena = ok
+# eScriptorium = dok. 3, 0054 baigta [segGT auto1]
+l1	row	ux Anna 69
+l2	row	filia Apolonia vgo 34
+l3	row	II Monica  23
+l4	row	Joseph Norwojsz 20
+l5	row	Juljanna Lenyńska 24
+l6	row	Anna Jańkowska 15
+l7	row	14 Herus Joseph Danta 61
+l8	row	ux Elisabeth 42
+l9	row	filius Constantinus 23
+l10	row	II Joseph 17
+l11	row	III Casimirus 7
+l12	row	filiae Cleopha 19
+l13	row	II Agnes 14
+l14	row	Helena Żemepatis vd 47
+l15	row	Franciscus Laucius c 25
+l16	row	Vincentius Zlabis 27
+l17	row	15 Herus Dominicus Szlazas c 31
+l18	row	Mater Helena 50
+l19	row	filiae Barbara 25
+l20	row	II Magdalena 22
+l21	row	III Susanna 19
+l22	row	Joseph Gustas 20
+l23	row	Vincentius Kaziulis 13
+l24	row	16 Herus Joannes Parażynski
+l25	wrapped	73
+l26	row	ux Anna 63
+l27	row	filiae Helena 28
+l28	row	II Anna 22
+l29	row	Dominicus Balcziunas 23
+l30	row	Cristina Kiaturakis 14
+l31	row	17
+l32	row	II Vincentius 19
+l33	row	filiae Rosalia 21
+l34	row	II Helena 17
+l35	row	III Birgitta 11
+l36	row	IV Barbara 9
+l37	row	V Juljana 7
+l38	page-number	52
+l39	row	VI Victoria 6
+l40	row	18 Herus Joannes Macis 32
+l41	row	ux Anna 30
+l42	row	filius Joannes 5
+l43	row	II Alexander 1
+l44	row	filia Anna 3
+l45	row	Thecla Balcziunas 22
+l46	row	Marcianus Kigs 17
+l47	row	Antonius Szymajtis 12
+l48	row	Barbara Czarkowska 17
+l49	row	19 Herus Joseph Norwajsz 32
+l50	row	ux Rosalia 34
+l51	row	filius Joseph 3
+l52	row	filiae Apolonia 10
+l53	row	II Helena 4
+l54	row	(Joan) Georgius Pawłowski 28
+l55	row	Constantinus Povilajtis 14
+l56	row	Anna Jonutis 27
+l57	row	20 Herus Franc. Norwajsz c 36
+l58	row	Mater Anna vid 80
+l59	row	Casimirus Belecki 20
+l60	row	Helena Pamparas 18
+l61	row	Antonina Jozopajtis 14
+l62	row	21 Mola Simon Balcziuns c. 36
+l63	row	Mater Jadvigis vd 64
+l64	row	22 Herus Dec. Franciscus
+l65	wrapped	Kajkaris 48
+l66	row	ux Magdalena 48
+l67	row	filiae Juljanus 22
+l68	row	II Susanna 19
+l69	row	III Magdalena 16
+l70	row	IV Barbara 13
+l71	row	V Francisca 7
+l72	row	Clemens Żukas 22
+l73	row	Joannes Daujots 60

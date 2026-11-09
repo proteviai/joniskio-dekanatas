@@ -1,0 +1,77 @@
+# skenas = 0025
+# busena = ok
+# eScriptorium = dok. 2, 
+l1	row	Helena Jakimas vgo 25.
+l2	row	Joseph Simonowicz 20.
+l3	row	Custos Silvae:
+l4	row	Vincentius Vajczulis 56
+l5	row	ux. Anna 46.
+l6	row	filius Joseph 26
+l7	row	II Apolinarius 12.
+l8	row	III. Felix 10.
+l9	row	Kiburi:
+l10	row	1. Marcianus Wejkałs 42
+l11	row	ux. Victoria 44.
+l12	row	filius Franciscus - 5.
+l13	row	II. Stanislaus - 3.
+l14	row	filiae Veronica 12.
+l15	row	Rosalja Grieblewska vgo 60.
+l16	row	Anna Nauduzas 11.
+l17	row	2 Fabri ferr. Joseph Siwicki 60
+l18	row	ux. Anna 45
+l19	row	filius Petrus 22.
+l20	row	3. Marcianus Tomaszewski 49.
+l21	row	ux. Helena 60.
+l22	row	filius Alexander - 16.
+l23	row	Barbara Wajtiekunas vgo 27.
+l24	row	4 Alexander Wojtiekun 41.
+l25	row	ux. Helena 36.
+l26	row	filius Alexander 2.
+l27	row	5. Herus Casimirus Wojtiekunas 41.
+l28	row	ux. Joanna 36.
+l29	row	filius Joseph 3
+l30	row	II. Franciscus 2.
+l31	row	filia Anna 4.
+l32	row	Stanislaus Butkus - 33.
+l33	row	Ludovica ~~B~~ Ambrazas 20.
+l34	page-number	23
+l35	row	6 Joannes Wajtiekunas 42.
+l36	row	ux. Apolonia 36
+l37	row	Semi
+l38	row	her.
+l39	row	filius Joannes 8.
+l40	row	II filia Helena 5
+l41	row	III. Juljanna 2.
+l42	row	7 Herus Helena Jurewicz 40.
+l43	row	vd.
+l44	row	filii: Joseph 18.
+l45	row	II. Casimirus 16.
+l46	row	III. Alexander 12.
+l47	row	filiae Helena 14
+l48	row	II. Anna 11.
+l49	row	III. Barbara 8.
+l50	row	Anna Praedajtis vgo 30.
+l51	row	8 Herus Thaddeus Galkus 47.
+l52	row	ux. Rosalia 46.
+l53	row	Sem.
+l54	row	filius Casimirus 7.
+l55	row	filiae Susanna 14
+l56	row	II. Barbara 16.
+l57	row	9 Sem Her. Joseph Bobsiewicz 41.
+l58	row	ux. Helena 30.
+l59	row	filius Alexander 7.
+l60	row	filia Helena 5.
+l61	row	II. Barbara 4.
+l62	row	III. Angela 1.
+l63	row	Anna Żygolene vd. 70.
+l64	row	10 Marcianus Kweders 31.
+l65	row	ux. Helena 27.
+l66	row	filius Thaddeus 4.
+l67	row	II. filiae Helena 6.
+l68	row	III. Marcianna 2.
+l69	row	11. Herus Thadeus Kweders 33.
+l70	row	ux. Marcianna 30.
+l71	row	filius Joannes 3.
+l72	row	filiae Anna 9.
+l73	row	II. Francisca 5
+l74	row	III. Barbara 11.

@@ -1,0 +1,60 @@
+# skenas = 0043
+# busena = ok
+# eScriptorium = dok. 3, 0043 baigta [segReady]
+l1	row	Reklajczei
+l2	row	1)- Casimirus Pollunas - 50an
+l3	row	ux. Ursula - 40an
+l4	row	filius Antonius - 7an
+l5	row	Anna - 20an
+l6	row	Barbara - 24an
+l7	row	2.)- Joannes Balczunas - 33an
+l8	row	ux. Anna - 30an
+l9	row	filius Joannes - 5an
+l10	row	Anna - 3an
+l11	row	mater Barbara Gurskienie - 55an
+l12	row	famulus Augustinus Maliszevski 10an
+l13	note-above	herus
+l14	row	3.- Joannes Adejkis - 37an
+l15	row	ux. Anastasia - 27an
+l16	row	frater Josephus - 26an
+l17	row	mater. Helena. - 70an
+l18	row	famulus. Michael Norvajsz - 11an
+l19	row	Anastasia Navickicze - 11an
+l20	row	4.- Thadeus Szakinski - 68an
+l21	row	ux. Marianna - 60an
+l22	row	filius Antonius - 26an
+l23	row	Josephus - 22an
+l24	row	5.- Franciscus Szakinski - 33an
+l25	row	ux. Apalonia - 30an
+l26	row	famulus Thadeus Dukovski - 13an
+l27	row	Anna Vitkicze - 12.
+l28	row	6.- Helena Szakinskienie - 70an
+l29	page-number	41
+l30	row	7.) Helena Dunautskienie - 60an
+l31	row	8.)- Joannes Rauckins - 33an
+l32	row	ux Juliana - 30an
+l33	row	pater Josephus - 70an
+l34	row	mater. Anna - - 70an
+l35	row	mater. Magdalena Janutienie - 50an
+l36	row	filia Zuzanna - 9an
+l37	row	famulus Stanislaus Nostis - 12an
+l38	row	9.- Paulus Paterabas - 24an
+l39	row	mater Eleonora - 70an
+l40	row	10.- Casimirus Kalendra - 30an
+l41	row	ux. Monica - 25an
+l42	row	filia Amelia - 4an
+l43	row	Valeriana - 3an
+l44	row	11.- Herus Antonius Gurski - 35an
+l45	row	ux. Monica - 34an
+l46	row	filia Juliana - 2an
+l47	row	Antonius - 1an
+l48	row	patres Josephus - 70an
+l49	row	famula - Juliana Ribskicze - 25an
+l50	row	Marciana Nastaite - 17an
+l51	row	12. Dec. Josephus Peterabas - 40an
+l52	row	ux Eleonora - 38an
+l53	row	filius Josephus - 14an
+l54	row	Joannes - 12an
+l55	row	Eleonora - 10an
+l56	row	Francisca - 4an
+l57	row	hab. Marianna Kundroticze - 50an

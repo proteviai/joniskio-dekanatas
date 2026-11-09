@@ -1,0 +1,70 @@
+# skenas = 0122
+# busena = mach
+# eScriptorium = dok. 3, 0122 atsakyta [segReady seg8a]
+l1	row	4 Germanus Rozenbach 53an
+l2	row	ux Angela 45an
+l3	row	a Franciscus Barkovskis 40an
+l4	row	ux Catherina 36an
+l5	row	filius Josephus 16an
+l6	row	Joannes 13an
+l7	row	Vladislaus 9an
+l8	row	Alexander 6an
+l9	row	Constantinus 2an
+l10	row	5 Josephus Dante 60an
+l11	row	ux Helena 30an
+l12	row	filius Josephus 5an
+l13	row	Alexandra 3an
+l14	row	a Francisca Petruticze 40an
+l15	row	6 Benedictus Tovtvajsz 62an
+l16	row	famula Magdalena Gunticze 50an
+l17	row	7 Vincentius Czerkasas 45an
+l18	row	ux Eleonora 50an
+l19	row	filius Adamus 4an
+l20	row	Anna 13an
+l21	row	Heva 4an
+l22	row	a Philiphus Franckievicze 70an
+l23	row	7) Cyprianus Pupejko 40an
+l24	row	ux Ludovica 27an
+l25	row	filius Vitoldus 7an
+l26	row	Vladislaus 3an
+l27	row	Henrica 11an
+l28	row	Longina 9an
+l29	row	Bronislava 8an
+l30	row	famula Victoria Żuperko 26an
+l31	row	8 Marianna Marcinkienie 50an
+l32	row	filius Josephus 10an
+l33	row	Julianus 6an
+l34	row	Zigmuntus 5an
+l35	row	Josepha 16an
+l36	row	Monica 13an
+l37	row	Susanna Riugszildienie 8an
+l38	row	filius Leo 1an
+l39	row	a Josephus Daugmandis 33an
+l40	row	ux Anna 27an
+l41	row	filia Josepha 3an
+l42	row	Felicia 2an
+l43	row	9 Dominicus Szukszto 30an
+l44	row	ux Francisca 28an
+l45	row	10 Leonardus Leparski 40an
+l46	row	ux Constantia 35an
+l47	row	filius Michael 8an
+l48	row	Leontina 10an
+l49	row	Joannes 5an
+l50	row	famula Apolonia Motuzicze 21an
+l51	row	Paszvieti
+l52	row	1 Antonius Butkus 60an
+l53	row	ux Euphrosina 40an
+l54	row	filius Joannes 12an
+l55	row	Josephus 15an
+l56	row	Ludovica 17an
+l57	row	Petronella 19an
+l58	note-above	młynarz
+l59	row	Anna 1an
+l60	row	frater Joannes Golozaukas 40an
+l61	row	a Franciscus Marcinkus 28an
+l62	row	ux Marianna 19an
+l63	row	b Franciscus Navicki 36an
+l64	row	ux Anna 30an
+l65	row	filius Stanislaus 6an
+l66	row	Dominicus 3an
+l67	row	Marianna 1an

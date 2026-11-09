@@ -1,0 +1,75 @@
+# skenas = 0057
+# busena = ok
+# eScriptorium = dok. 3, 0057 baigta [segReady auto1]
+l1	row	II Antonius 26
+l2	row	filiae Apolonia 25
+l3	row	Juljana Gasperajtis vgo 19
+l4	row	Helena Adomajtis 60
+l5	row	Ursula Adomajtis vid 90
+l6	row	Georgius Motkajtis 10
+l7	row	15 Herus Marcianus Povilajtis 61
+l8	row	ux Monica 50
+l9	row	filius Alexandr 26
+l10	row	filiae Juljanna 24
+l11	row	II Cristina 22
+l12	row	Casimirus Marcinkus 10
+l13	row	Magdalena Povilajtis vd. 96
+l14	row	15 Herus Stephanus Kiaturakis 26.
+l15	note-below	c
+l16	row	Mater Magdalena 56
+l17	row	filius Thaddeus 19.
+l18	row	II Joseph 16
+l19	row	filia Marciana 24.
+l20	row	II Magdalena 20
+l21	row	III Juljana 13
+l22	row	Anna Kiaturakis 66
+l23	row	Thaddeus Rokutis c. 80.
+l24	row	Casimirus Kiaturakis 15
+l25	row	16 Herus Stanislaus Slączewski 53
+l26	row	ux Anna 58
+l27	row	filius Georgius 19.
+l28	row	II Casimirus 14
+l29	row	Joseph Jurgajtis 30
+l30	row	Soror Marianna 26
+l31	row	Rosalia Żybartas 26
+l32	row	Barbara Kiaturakicze 30
+l33	row	Helena Zybartiene vd. 70
+l34	row	Francisca Luberska 5.
+l35	row	Rukujżei
+l36	page-number	55
+l37	row	1 Josephus Vajtiekajtis 60an
+l38	row	ux Anna 50an
+l39	row	a) Anna Morkielienie - 50an
+l40	row	filia Heva 20an
+l41	row	b Rozalia Matkajtienie 60an
+l42	row	2 Casimirus Kajkaris 60an
+l43	row	ux Eleonora 50an
+l44	row	filius Antonius 28an
+l45	row	3 Herus Alexander Kajkaris 27an
+l46	row	mater Eleonora - 60an
+l47	row	filia Barbara - 19an
+l48	row	famulus Alexander Vajtiekajtis - 20an
+l49	row	4 Benedictus Luinis 80an
+l50	row	ux Helena 60an
+l51	row	filius Benedictus in Curonia - 23an
+l52	row	5.) Alexander Savickas - 46an
+l53	row	ux Magdalena 38an
+l54	row	6 Barbara Kajkarienie 50an
+l55	row	filius Alexander 13an
+l56	row	7 Franciscus Jancajtis 40an
+l57	row	ux Eleonora 35an
+l58	row	filius Josephus 8an
+l59	row	a) Anna Jankajticze 70an
+l60	row	b) Magdalena Bujvidicze 80an
+l61	row	c) Rozalia Bujvidicze 80an
+l62	note-above	Herus
+l63	row	8 Alexander Romaszevski 50an
+l64	row	ux Helena 30an
+l65	row	filius Dominicus - 16an
+l66	row	Alexander 7an
+l67	row	Albinus 4an
+l68	row	Elizabeth - 13an
+l69	row	Apolonia - 7
+l70	row	Zuzanna 3
+l71	row	Lucia 1an
+l72	row	soror Barbara Morkelicze 25an

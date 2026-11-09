@@ -1,0 +1,73 @@
+# skenas = 0016
+# busena = ok
+# eScriptorium = dok. 2, 
+l1	row	10. He. Casimirus Srogius - 40an
+l2	row	ux. Apolonia - 35an
+l3	row	filius - Casimirus - 1an
+l4	row	Amelia
+l5	row	~~Apolonia~~ 5an
+l6	row	famulus - Alexander Bożius - 20an
+l7	row	— Barbara Sziudko - 19an
+l8	row	— Juliana Sziudko - 14an
+l9	row	— Amelia Rocurento - 40
+l10	row	mater. Ursula - 80an
+l11	row	Skaisgiris
+l12	row	1). Alexander Alsis - 50an
+l13	row	ux. Marianna - 40an
+l14	row	filius- Casimirus - 20
+l15	row	— Franciscus - 15
+l16	row	— Alexander - 12
+l17	row	— Stanislaus - 3 an
+l18	row	2.- Alexander Vajcziulis - 24an
+l19	row	mater Elizabeth - 40an
+l20	row	pater Josephus Macziulis - 80an
+l21	row	hab. Anna Urbonicze - 50an
+l22	row	— Helena Virginienie - 50an
+l23	row	— Marta - 13an
+l24	row	3.- Vincentius Povilajtis - 60an
+l25	row	ux. Barbara - 35an
+l26	row	filius- Joannes - 15an
+l27	row	— Antonius - 13an
+l28	row	— Vincentius - 11an
+l29	row	— Anna - 9an
+l30	row	— Helena - 4an
+l31	row	4.- Barbara Dovilticze - 30an
+l32	row	mater Helena - 60an
+l33	row	5.- herus Josephus Vajtiekajtis - 42an
+l34	row	ux. Anna - 35an
+l35	row	filius - Josephus - 14 an
+l36	page-number	14
+l37	row	fil. Alexander - 9an
+l38	row	— Casimirus - 6an
+l39	row	— Antonius - 4an
+l40	row	— Anna - 12an
+l41	row	famulus Franciscus Vaitiecunas - 40an
+l42	row	— Monica Povilajtis - 18an
+l43	row	hab.- Barbara Drigoticze - 70an
+l44	row	6.- Josephus Valanczius - 50an
+l45	row	ux. Anna - 40an
+l46	row	hab: Ursula Balcziunienie - 90an
+l47	row	Casimirus Venkaras - 80an
+l48	row	ux. Magdalena - 40an
+l49	row	filius Thomas - 28an
+l50	row	7. Herus Josephus Vajtiekunas - 40an
+l51	row	ux. Helena - 30an.
+l52	row	filius Josephus - 2an
+l53	row	— Josepha - 6an
+l54	row	— Stanislava - 4an
+l55	row	— Vladislaus - 1an
+l56	row	fam. Juliana Lubinicze - 20an
+l57	row	hab.- Eleonora Tautvojiszicse - 60-
+l58	row	fab. Marcianus Szliaupas - 12an
+l59	row	8.- Joannes Villiunas - 40an
+l60	row	ux. Marianna - 4an
+l61	row	filius Joannes - 27an
+l62	row	— Josephus - 19an
+l63	row	soror Helena - 30an
+l64	row	filia Anna - 20an
+l65	row	Barbara - 14.
+l66	row	hab. Barbara Vajtiekunicze - 50an
+l67	row	9.- Vincentius Cziczinskas - 38an
+l68	row	ux. Anna - 25an
+l69	row	filius Stanislaus - 1an
+l70	row	— Francisca - 2an

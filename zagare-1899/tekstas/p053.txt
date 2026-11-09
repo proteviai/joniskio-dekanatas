@@ -1,0 +1,81 @@
+# skenas = 0053
+# busena = ok
+# eScriptorium = dok. 3, 0053 baigta [segReady]
+l1	row	Daujoczej:
+l2	row	1. Herus Felix Bernotas 60
+l3	row	ux. Domitilla 50
+l4	row	filius Casimirus 17
+l5	row	II. filiae Anna 20.
+l6	row	III. Barbara 14.
+l7	row	Vincentius Peczkowski 13
+l8	row	2 Herus Casimirus Jozowski 40.
+l9	row	ux. Barbara 31.
+l10	row	filius Casimirus 2.
+l11	row	filiae Emilia 8.
+l12	row	II. Helena 8.
+l13	row	III. Anna 6.
+l14	row	IV. Joanna  4.
+l15	row	Elisabeth Kenstowicz vd. 45.
+l16	row	Antonius Najnis 13
+l17	row	Bandori:
+l18	row	1. Joannes Wintartas 47.
+l19	row	ux. Barbara 36.
+l20	row	2. Joseph Pawlowski 77.
+l21	row	ux. Helena 60.
+l22	row	3 Casimirus Marcinkus 45.
+l23	row	ux. Helena 35.
+l24	row	filius Antonius 12.
+l25	row	II. Casimirus 10.
+l26	row	III. Petrus 8
+l27	row	IV. Dominicus 3.
+l28	row	V. Stanislaus 1.
+l29	row	filiae Anna 14.
+l30	row	II. Juljanna 4.
+l31	row	4. Michael Maczulis 28.
+l32	row	ux. Susanna 22.
+l33	row	Helena Leszynska vd. 49.
+l34	row	filius Joannes 15.
+l35	row	5. Joannes Kawolis 60.
+l36	row	ux. Rosalia 51.
+l37	row	filius Joannes 24.
+l38	row	filiae Elisabeth 19.
+l39	row	II. Susanna 18.
+l40	page-number	51
+l41	row	III. Marianna 15.
+l42	row	6. Vincentius Petrowski 50.
+l43	row	ux. Juljana 46
+l44	row	filiae Benedicta 9.
+l45	row	II. Elisabeth 8
+l46	row	III. Joanna 6.
+l47	row	IV. Susanna 1.
+l48	row	7. Joseph Maslowski 64.
+l49	row	ux. Rosalja 30.
+l50	row	8. Joannes Kajkaris 42.
+l51	note-below	Semher
+l52	row	ux. Helena 39.
+l53	row	filius Alexander 10.
+l54	row	II. Joseph 8.
+l55	row	III. Juljanus ~~8~~6
+l56	row	IV. Franciscus 4.
+l57	row	V. Constantinus 1.
+l58	row	filiae Bronislaa 2.
+l59	row	~~J~~Ludovica Baltruszajtis 16.
+l60	row	9. Matheus Danta 51.
+l61	margin-note	Semher
+l62	row	ux. Anna 46.
+l63	row	filius Marcianus 7.
+l64	row	filia Marianna 9.
+l65	row	10 Joannes Żukas vd. 60.
+l66	scribe-mistake	Barbara Pampars vgo 60.
+l67	row	11 Catharina Macius vd. 67.
+l68	row	Joannes Mikulski 60.
+l69	row	ux. Elizabeth 54.
+l70	row	12. Ursula Adomajtis vd 60.
+l71	row	Joseph Urbonas vd 54.
+l72	row	filia Susanna 17.
+l73	row	Joseph Urbonas c. 28.
+l74	row	13. Herus Joseph Kajkaris 45.
+l75	row	ux. Anna 31.
+l76	row	filius Alexander 4.
+l77	row	II. Joseph 1.
+l78	row	Pater Dominicus Kajkaris 76.

@@ -1,0 +1,62 @@
+# skenas = 0095
+# busena = mach
+# eScriptorium = dok. 3, 0095 klausimai [segReady seg8a]
+l1	row	b) Matheus Klepeckas 30an
+l2	row	ux Anna 30an
+l3	row	filia Joanna 7an
+l4	row	Helena 2an
+l5	row	84 Josephus Barba 46an
+l6	row	ux Cristina 35an
+l7	row	filius Petrus 3an
+l8	row	Casimira 10an
+l9	row	Juliana 9an
+l10	row	Zuzanna 6an
+l11	row	Sem Casimirus Vernis 38an
+l12	row	ux Helena 32an
+l13	row	filius Casimirus 6an
+l14	row	Antonius 1an
+l15	row	Zuzanna 4an
+l16	row	famulus Antonius Diokas 11an
+l17	row	Eleonora Virbiczicze 46an
+l18	row	48 Sem Josephus Vernis 36an
+l19	row	ux Zuzanna 32an
+l20	row	filius Josephus 14an
+l21	row	Stanislaus 10an
+l22	row	Vladislaus 6an
+l23	row	Casimirus 2an
+l24	row	Alexandra 8an
+l25	row	famula Helena Kalendricze 26an
+l26	row	47 herus Joannes Balczunas 32an
+l27	row	ux Helena 28an
+l28	row	filius Vladislaus 6an
+l29	row	Antonius 4an
+l30	row	Leo 1an
+l31	row	famulus Antonius Bagdonas 22an
+l32	row	Constantinus Roidus 19an
+l33	row	Anna Virginicze 19an
+l34	row	Helena Kwedericze 16an
+l35	row	ux Fran
+l36	row	18 ha Joannes Norvajszas 88an
+l37	row	famulus Antonina Kumpicze 18an
+l38	row	49 Her Joannes Jacutajtis 33an
+l39	row	ux Anna 27an
+l40	row	filia Joanna 6an
+l41	row	Alexandra 4an
+l42	row	Stanislaua 2an
+l43	row	famula Rosalia Savickicze 24an
+l44	row	sor Zuzanna Puterebicze 16an
+l45	row	40 Josephus Puterabas 68an
+l46	row	ux Helena 56an
+l47	row	Sem Casimirus Szalkovski 32an
+l48	row	ux Francisca 28an
+l49	row	filius Thelesphor 1an
+l50	row	famulus Petrus Puteriabas 20an
+l51	row	Antonius Szimkus 10an
+l52	row	Barbara Bertulicze 20an
+l53	row	mater Eleonora 60an
+l54	row	41 Georgius Zejkus 45an
+l55	row	ux Juliana 40an
+l56	row	filiae Antonius 22an
+l57	row	Korgius? 13an
+l58	row	Apalonia 11an
+l59	row	Juliana 10an

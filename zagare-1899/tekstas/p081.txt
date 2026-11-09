@@ -1,0 +1,69 @@
+# skenas = 0081
+# busena = mach
+# eScriptorium = dok. 3, 0081 klausimai [segReady auto1]
+l1	row	23 Marcianus Ogiallo 50an
+l2	row	ux Monica 50an
+l3	row	filius Antonius 14an
+l4	row	Marcianus 22an
+l5	row	Josephus 40an
+l6	row	ux Anna 25an
+l7	row	filius Alexander 10an
+l8	row	Stanislaus 3an
+l9	row	Cristina 7an
+l10	row	mater Elisabeth 60an
+l11	row	Josaphata 1an
+l12	row	a) Matheus Lebecki 60an
+l13	row	ux Marianna 45an
+l14	row	filius Josephus 4an
+l15	row	24 Alexander Kapcevicz 55an
+l16	row	ux Magdalena 35an
+l17	row	filius Vincentius 15an
+l18	row	Casimirus 8an
+l19	row	Apalonia 11an
+l20	row	Zuzanna 4an
+l21	row	25 Anna Ogialianie 35an
+l22	row	Antonius Jasapovicz 40an
+l23	row	ux Eleonora 48an
+l24	note-above	fama a5
+l25	row	filius Antonas? 7an
+l26	row	Casimirus 5an
+l27	row	Julianna 10an
+l28	row	b Anna Valiszauakienue 550an?
+l29	row	filius Josephus 28an
+l30	row	c Casimirus Agialla 40an
+l31	row	ux Victoria 30an
+l32	row	filius Alexander 10an
+l33	row	Antonius 2an
+l34	row	Anna 12an
+l35	page-number	79
+l36	row	26 Marcianus Naudużas 58an
+l37	row	ux Barbara 50an
+l38	row	Benedictus Jasutis 28an
+l39	row	ux Helena 25an
+l40	row	27 Thadeus Bubautis 70an
+l41	row	ux Elisabeth 60-
+l42	row	filius Alexander 30an
+l43	row	a Marcianus Barkotas 55an
+l44	row	ux Barbara 45an
+l45	row	filius Alexander 16an
+l46	row	13an
+l47	row	Constantinus 13an
+l48	row	b) Carolus Szimkus 23an
+l49	row	Thadeus 10an
+l50	row	ux Anna 20an
+l51	row	filia Zuzanna 1an
+l52	row	c) Magdalena Melenie 54an
+l53	row	d) Casimirus Bubautis 38an
+l54	row	28 Vincentius Srogius 55an
+l55	row	ux Helena 48an
+l56	row	filius Clemens 14an
+l57	row	d Franciscus Kardinski 64an
+l58	row	ux Barbara 60an
+l59	row	29 Michael Vesuls 27-
+l60	row	ux Anna 22an
+l61	row	filius Michael 3an
+l62	row	Barbara Adomajtienie 48an
+l63	row	Antonius 2an
+l64	row	flu Zadiennes nes ui 1an
+l65	row	d) Rochus Mikalajtis 40an
+l66	row	b) Helena Vitkauckicze 32an

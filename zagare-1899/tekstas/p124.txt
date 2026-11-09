@@ -1,0 +1,29 @@
+# skenas = 0124
+# busena = mach
+# eScriptorium = dok. 3, 0124 klausimai [segReady seg8a]
+l1	row	12.) Thadeus Janovicz 35an
+l2	row	ux Marianna 30an
+l3	row	filius Franciscus 13an
+l4	row	Casimirus 8an
+l5	row	Stanislaus 1an
+l6	row	Amelia 12an
+l7	row	13 Valens Vajsznor 50an
+l8	row	ux Anna 40an
+l9	row	filia Casimira 16an
+l10	row	Hedviga 9an
+l11	row	a Joannes Tomkievicz 28an
+l12	row	14 Antonius Trinka 40an
+l13	row	ux Justina 30an
+l14	row	filius Vitalius 8an
+l15	row	Stanislaus 6an
+l16	row	Blazius 2an
+l17	row	Hedviga 4an
+l18	row	famula Angela Norkicze 17an
+l19	row	pater Anna Kavalienie 60an
+l20	row	b Juliana Gabert 23an
+l21	row	15 Herus Marcianus Kiliszewski 35
+l22	row	ux Anna de Załoga 27
+l23	row	Chcczia miee Bukhalter
+l24	row	przy banku: Stanisław
+l25	row	Korwodowski Peche Kuszava
+l26	page-number	122

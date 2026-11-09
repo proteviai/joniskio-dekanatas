@@ -1,0 +1,61 @@
+# skenas = 0097
+# busena = mach
+# eScriptorium = dok. 3, 0097 klausimai [segReady seg8a]
+l1	row	a) Casimirus Jankievicz 52an
+l2	row	mater Anastasia 75an
+l3	row	soror Magdalena 35an
+l4	row	Monica 20an
+l5	row	fam Josephus Biczius 19an
+l6	row	57 Michael Zaloga 50an
+l7	row	ux Helena 40an
+l8	row	filius Thadeus 6an
+l9	row	Zuzanna 16an
+l10	row	58 Sem Josephus Aovaiszas 40an
+l11	row	ux Anna 40an
+l12	row	filis Alexander 6an
+l13	row	Anna 11an
+l14	row	Heleas? 8an
+l15	row	59 Marianna Savickienie 70an
+l16	row	famula Marianna Savickiene 40an
+l17	row	Barbara Karlauckienie 58an
+l18	row	60a herT hadeus Pabilajtis 670an?
+l19	row	ux Zuzanna 30an
+l20	row	filius Constantinus 6an
+l21	row	famulus Josephus Miszulis 33an
+l22	row	Ursula Briedicze 20an
+l23	row	61 Michael Mitrikas 54an
+l24	row	ux Marianna 60an
+l25	row	62 her Josephus Jasutis 35an
+l26	row	ux Anna 28an
+l27	row	filius Josephus 8an
+l28	row	Joannes 2an
+l29	row	pater Josephus 60an
+l30	row	ux Maaulana? 2an
+l31	row	famulus Vladislaus Zaloga 15an
+l32	row	Elisabeth Karalicze 20an
+l33	row	63 Franciscus Szalkovski 30an
+l34	row	ux Barbara 30an
+l35	row	filius Thomas 7an
+l36	row	Franciscus 4an
+l37	row	Alexander 1an
+l38	row	64 Josephus Pollunas 40an
+l39	row	ux Angela 29an
+l40	row	filius Josephus 7an
+l41	row	Dominicus 3an
+l42	row	Stanislaus 6an
+l43	row	Juliana 8an
+l44	row	Angela 4an
+l45	row	65 pero Thadeus Pallunas 45an
+l46	row	ux Juliana 35an
+l47	row	filius Antonius 4an
+l48	row	Joannes 9an
+l49	row	Clemens 6an
+l50	row	famule Juliana Jasuticze 230an?
+l51	row	66 Her Casimirus Sargiunas ?an
+l52	row	ux Barbara 30an
+l53	row	filius Alexander 6an
+l54	row	Juliana 17an
+l55	row	Barbara 10an
+l56	row	fam Casimirus Melis 22an
+l57	row	Anna Bernoticze 30an
+l58	row	a) Anna Rudicze 20an

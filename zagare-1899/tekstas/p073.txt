@@ -1,0 +1,82 @@
+# skenas = 0073
+# busena = mach
+# eScriptorium = dok. 3, 0073 klausimai [segReady auto1]
+l1	row	Joseph Wajtiekajtis conj 30
+l2	row	Barbara Burba 18
+l3	row	Juljanna Naudużas 15
+l4	row	Gaudykej:
+l5	row	1 Joseph Misius c 30
+l6	struck	ux Angela
+l7	row	Pater Georgius Misius 80
+l8	row	ux Angela 54
+l9	row	filius Vincentius 18
+l10	row	2
+l11	row	Antonius Pampars 30
+l12	row	ux Susanna 20
+l13	row	filia Susanna 3
+l14	row	II Juljana 1
+l15	row	Matheus Gałkus 57
+l16	row	ux Elisabeth 50
+l17	row	3 Ursula Luberska vd 48
+l18	row	4 Franciscus Kaczynski 65
+l19	row	ux Magdalena 64
+l20	row	5 Herus Joannes Lubevski 63
+l21	row	ux Barbara 41
+l22	row	filius Vincentius c 30
+l23	row	filiae Barbara 22
+l24	row	filia Ludovica 4
+l25	row	II Helena 19
+l26	row	Ludovica Lubevska 4
+l27	row	Antonius Lubevski 13
+l28	row	6 c Michael Lubeski c 34
+l29	row	mater Elisabeth vd 60
+l30	row	Amelia Adejkis 16
+l31	row	7 Herus Franciscus Lubevski
+l32	wrapped	43
+l33	row	ux Rosalia 32
+l34	row	filius Ladislaus 6
+l35	row	II Marcianus 2
+l36	row	filiae Isabella 10
+l37	row	71
+l38	row	II Apolonia 8
+l39	row	III Susanna 4
+l40	row	Alexander Pampars 20
+l41	row	Mariana Parażewska 27
+l42	note-above	Semi
+l43	row	8 Herus Casimirus Marcin-
+l44	wrapped	kus 56
+l45	row	ux Barbara 60
+l46	row	(fil) Juljana Kiaturakicz 17
+l47	row	9 Herus Benedictus Dabriszka
+l48	note-below	vicis
+l49	wrapped	43
+l50	row	ux Angela 34
+l51	row	filius Apolinarius 11
+l52	row	II Stanislaus 7
+l53	row	III Antonius 2
+l54	row	b Joannes Gasperajtis vd 67
+l55	row	filia Elisabeth 10
+l56	row	10 Herus: Joannes Pampars 41
+l57	row	ux Francisca 29
+l58	row	filius Benedictus 10
+l59	row	II Albinus 5
+l60	row	III Paulus 4
+l61	row	filia Anna 2
+l62	row	Joanna Kondrotas 10
+l63	row	b Joseph Pampars 51
+l64	row	ux Magdalena 37
+l65	row	filius Vincentius 7
+l66	row	filia Juljana 10
+l67	row	11 Joannes Pampars 80
+l68	row	ux Barbara 61
+l69	row	filius Casimirus c. 23
+l70	row	12 filia Magdalena 40
+l71	row	Herus Joseph Stonajtis 54
+l72	row	ux Magdalena 37
+l73	row	filius Joseph 13
+l74	row	II Casimirus 7
+l75	row	filiae Barbara 14
+l76	row	Joannes Wazbutas 38
+l77	row	Lucia Szlażas vgo 20
+l78	row	Magdalena Gasparajtis
+l79	wrapped	vd 50

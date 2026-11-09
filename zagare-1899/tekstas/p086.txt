@@ -1,0 +1,68 @@
+# skenas = 0086
+# busena = mach
+# eScriptorium = dok. 3, 0086 klausimai [segReady auto1]
+l1	row	13 Joannes Bertulis 50an
+l2	row	ux Barbara 45an
+l3	row	filius Benedictus 4an
+l4	row	Marciana 13an
+l5	row	Rozalia 10an
+l6	row	Juliana 7an
+l7	row	a Anna Gasparajticze 20an
+l8	row	14 Dominicus Ginczas 40an
+l9	row	ux Helena 30an
+l10	row	filius Vincentius 8an
+l11	row	Helena 6an
+l12	row	Marianna 3an
+l13	row	15 Casimirus Berzinis 40an
+l14	row	ux Barbara 30an
+l15	row	filia Antonina 9an
+l16	row	Helena 4an
+l17	row	16 Josephus Rudis 57an
+l18	row	ux Helena 46an
+l19	row	filia Zuzanna 12an
+l20	row	Apalonia 10an
+l21	row	mater Magdalena 80an
+l22	row	a Eleonora Balcziunienie 40an
+l23	row	filius Antonius 7an
+l24	row	17 herus Vincentius Ogialla 39an
+l25	row	ux Marianna 35an
+l26	row	filius Casimirus Kajkaris 19an
+l27	row	Joannes 13an
+l28	row	Benedictus Ogialla 1an
+l29	row	Marianna Kajkaricze 20an
+l30	row	Monica 14an
+l31	row	Agnes 13an
+l32	row	Zuzanna 3an
+l33	row	filia Anna Ogialicze 20an
+l34	row	18 Rochus Bertulis 85an
+l35	row	ux Marianna 76an
+l36	row	filia Anna 37an
+l37	row	19 herus Rochus Bertulis 48an
+l38	row	ux Rozalia 50an
+l39	row	filius Casimirus 17an
+l40	row	Antonius 14an
+l41	row	Alexander 10an
+l42	row	Dominicus 7an
+l43	row	Marianna 12an
+l44	row	20 herus Ignatius Szukszta 40an
+l45	row	ux Eleonora 48an
+l46	row	filius Ignatius 11an
+l47	row	famulus Josephus Kardinskas 20an
+l48	row	Anna Mickicze 40an
+l49	row	21 Herus Casimirus Biczius 25an
+l50	row	ux Barbara 28an
+l51	row	filiae Casimira 1an
+l52	row	famulus Joannes Parażinski 20an
+l53	row	Benedictus Adomajtis 10an
+l54	row	Juliana Stabrauckicze 10an
+l55	row	Barbara Kriaucziunicze 25an
+l56	note-above	herm
+l57	row	22 Alexander Bicziusz 45an
+l58	row	ux Barbara 35an
+l59	row	filius Thadeus 12an
+l60	row	Alexander 11an
+l61	row	Georgius 9an
+l62	row	Casimirus 7an
+l63	row	Josephus 5an
+l64	row	Stanislaus 4an
+l65	row	Juliana 2an

@@ -1,0 +1,65 @@
+# skenas = 0100
+# busena = mach
+# eScriptorium = dok. 3, 0100 klausimai [segReady seg8a]
+l1	row	mater Martha Kurszinckienie 60an
+l2	row	a Anna Butnarajtie 40an
+l3	row	filia Paulina 8an
+l4	row	e) Magdalena Merkielicze 60an
+l5	row	f Josephus Norkunas 28an
+l6	row	9 Josephus Kacelovicz 60an
+l7	row	Soisiegas?
+l8	row	ux Catherina 30an
+l9	row	7 Felicianus Szliazevicz 38an
+l10	row	ux Helena 31.
+l11	row	filius Franciscus 6an
+l12	row	Franciscus Ivonkis 17an
+l13	row	8 Emilia Taienienie 53an
+l14	row	a Casimirus Udrakis 45an
+l15	row	ux Barbara 3an
+l16	row	filius Dominicus 12an
+l17	row	Euphrosina 2an
+l18	row	mater Marianna Kurszinckienie 70an
+l19	row	b Joannes Berżinis 53an
+l20	row	ux Marianna 43an
+l21	row	filius Joannes 10an
+l22	row	Josephus 7an
+l23	row	2 Alrobus? Selecki 78an
+l24	row	ux Anna 60an
+l25	row	filius Jacobus 16an
+l26	row	Anna 13an
+l27	row	Julbnius? Zukovski 60an
+l28	row	d) her Martha 5an
+l29	row	filius Franciscus 18an
+l30	row	e) Marianna Vizturnienie 40an
+l31	row	filius Joannes 17an
+l32	row	Alexaner? 12an
+l33	row	filius Franciscus 10an
+l34	row	Julianus 8an
+l35	row	Zuzanna 15an
+l36	row	Juliana 4an
+l37	row	pater Ramunda? Kuslejko 8an
+l38	row	1) Agnes Petrilienie 40an
+l39	row	filius Alexander 14an
+l40	row	Francisca 17an
+l41	row	Liudvina 13an
+l42	row	a Adomus Kajus 29an
+l43	row	ux Helena 22an
+l44	row	filius Adolphus 2an
+l45	row	mater Petronella 80an
+l46	row	4) Martinus Stankus 70an
+l47	row	ux Barbara 70an
+l48	row	1) Anna Undziewies 70an
+l49	row	1) Alexander Petrilla 43an
+l50	row	ux Theophila? 38an
+l51	row	filia Helena 4an
+l52	row	a Augustinus Mituzas 48an
+l53	row	ux Eleonora 44an
+l54	row	filius Alexander 18an
+l55	row	Augustinus 3an
+l56	row	Elisabeth 5an
+l57	row	Monica 17an
+l58	row	c Joanna Szliavicze 90an
+l59	row	1 Josephus Petrilla 40an
+l60	row	ux Magricta? 36an
+l61	row	filia Cristina 8an
+l62	row	Augustina 2an

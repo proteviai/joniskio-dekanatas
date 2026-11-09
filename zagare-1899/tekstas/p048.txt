@@ -1,0 +1,71 @@
+# skenas = 0048
+# busena = ok
+# eScriptorium = dok. 3, 0048 baigta [segGT test]
+l1	row	33. Michael Bertulis - 30an
+l2	row	ux. Eleonora - 28an
+l3	row	34.) Franciscus Stankus - 33an
+l4	row	ux. Anna - 30an
+l5	row	filius- Benedictus - 5an
+l6	row	Liudvina - 3an
+l7	row	mater Helena - 55an
+l8	row	Joannes - 1an
+l9	row	35.- Herus Stanisłaus Żalis - 45an
+l10	row	ux. Anna - 26an
+l11	row	filius - Antonius - 5an
+l12	row	Apalonia - 3an
+l13	row	mater Natalia - 80an
+l14	row	famula Amelia Braczicze - 20an
+l15	row	Joannes Braczas - 12an
+l16	row	36.- Franciscus Orlovski - 31an
+l17	row	ux. Antonina - 29an
+l18	row	filius Josephus - 6an
+l19	row	Julianus - 4an
+l20	row	Joannes - 2an
+l21	row	mater Agnes Norkievicz - 49an
+l22	row	37)-herus. Casimirus Kigas - 60an
+l23	row	mater. Elisabeth - 90an
+l24	row	Avunculus Joannes Kigas - 80an
+l25	row	famulus Josephus Szukis - 25an
+l26	row	Vincentius Parażinski - 27an
+l27	row	Joannes Szidlovski - 14an
+l28	row	Juliana Szukienie - 40an
+l29	row	38.) Josephus Puterabas - 45an
+l30	row	ux. Anna - 34an
+l31	row	filius Josephus - 7an
+l32	page-number	46
+l33	row	filius Antonius - 6an
+l34	row	Joannes - 2an
+l35	row	Zuzanna - 9an
+l36	row	Anna - 4an
+l37	row	famula Anna Puteriebicze - 18an
+l38	row	soror
+l39	row	Julianna - 17an
+l40	row	Joannes Bagdonas - 42an
+l41	row	Josephus Janiszkis - 14an
+l42	row	a) Barbara Putieriebienie 50an
+l43	row	Elisabeth Kaczkicze - 40an
+l44	row	Josephus Kacskis - 10an
+l45	row	Damelei:
+l46	row	1). Franciscus Kigas - 40an
+l47	row	ux. Anna - 28an
+l48	row	filius Leo - 2an
+l49	row	Cristina - 8an
+l50	row	Zuzanna - 5an
+l51	row	Casimira - 1an
+l52	row	2.) Anna Rimejkienie - 60an
+l53	row	Barbara Sliażienie - 60an
+l54	row	filius Vincentius - 25an
+l55	row	3.- Josephus Bagdonas - 40an
+l56	row	ux. Helena - 25an
+l57	row	filia Adolphina - 2an
+l58	row	frater Alexander - 30an
+l59	row	Benedictus - 26an
+l60	row	mater Anastasia - 70an
+l61	row	4.-) Alexander Virbicki - 40an
+l62	row	ux Anna - 40an
+l63	row	filius Josephus - 6an
+l64	row	Vincentius - 11an
+l65	row	5.-) Josephus Virbicki - 30an
+l66	row	ux. Barbara - 27an
+l67	row	filia Elisabeth - 6an
+l68	row	Francisca - 2an

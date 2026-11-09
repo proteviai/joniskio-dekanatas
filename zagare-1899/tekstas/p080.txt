@@ -1,0 +1,64 @@
+# skenas = 0080
+# busena = mach
+# eScriptorium = dok. 3, 0080 atsakyta [segGT auto1]
+l1	row	filia Elisabeth 8an
+l2	row	15 Herus Vincentius Norvajsz 68an
+l3	row	ux Helena 67an
+l4	row	filius Vincentius 28an
+l5	row	Barbara 21an
+l6	row	famulus Antonius Adomajtis 18an
+l7	row	Josephus Keturakis 12an
+l8	row	Monica Janulicze 21an
+l9	row	16 Dec Alexander Agrella 40an
+l10	row	ux Helena 40an
+l11	row	filius Antonius Kodis 31an
+l12	row	Marcianus Aukialis 16an
+l13	row	Barbara Dovejkicze 18an
+l14	row	Amelia Labuticze 30an
+l15	row	mater Magdalena 70an
+l16	row	17 Herus Casimirus Andricajtis 40an
+l17	row	ux Amelia 35an
+l18	row	filius Antonius 14an
+l19	row	Vladislaus 13an
+l20	row	Joannes 10an
+l21	row	mater Barbara 65an
+l22	row	18 Herus Clemens Putrius 23an
+l23	row	pater Franciscus 65an
+l24	row	mat ux. Helena 82an
+l25	row	filius Casimirus 21an
+l26	row	Paulus 18an
+l27	row	Vincentius 13an
+l28	row	Anna 24an
+l29	row	Marianna 14an
+l30	row	Matheus Virbicki 70an
+l31	row	78
+l32	row	19 Josephus Pauga 29an
+l33	row	ux Anna 28an
+l34	row	filius Alexander 7an
+l35	row	Antonius 4an
+l36	row	Helena 5an
+l37	row	Juliana 2an
+l38	row	a Joannes Kaczkis 50an
+l39	row	ux Helena 50an
+l40	row	filia Monica 16an
+l41	row	Marianna 13an
+l42	row	20 Casimirus Gasperajtis 35an
+l43	row	ux Monica 30an
+l44	row	filia Cristina 8an
+l45	row	Anna 6an
+l46	row	Francisca 2an
+l47	row	mater Ursula 50an
+l48	row	21 Alexander Mickus 80an
+l49	row	ux Heva 40an
+l50	row	filia Amelia 16an
+l51	row	a Joannes Tomaszevski 50an
+l52	row	ux Anna 40an
+l53	row	filius Joannes 6an
+l54	row	Alexander 3an
+l55	row	22 Alexander Laucius 30an
+l56	row	ux Martha 30an
+l57	row	filius Alexander 3an
+l58	row	Zuzanna 6an
+l59	row	patres Ludovicus Laucius 65an
+l60	row	ux Anna 60an
+l61	row	23.-

@@ -1,0 +1,55 @@
+# skenas = 0060
+# busena = mach
+# eScriptorium = dok. 3, 0060 paruošta [segGT auto1]
+l1	row	28 herus Joannes Szliażas 30an
+l2	row	ux Juliana 30an
+l3	row	filia Apalonia 12an
+l4	row	Juliana 3an
+l5	row	Zuzanna 1an
+l6	row	mater Anna 80an
+l7	row	29 herus Felicianus Grinius 56an
+l8	row	ux Anna 40an
+l9	row	filius Stanislaus 15an
+l10	row	Antonius 12an
+l11	row	Anna 17an
+l12	row	30 Jacobus Norvajsz 70an
+l13	row	ux. Monica - 30an
+l14	row	filius Jacobus 10an
+l15	row	31 Juliana Narkalienie 35an
+l16	row	filia Juliana - 11an
+l17	row	a) Dominicus Stops - 32an
+l18	row	ux Barbara 26an
+l19	row	filia Monica 4an
+l20	row	Anna 2an
+l21	row	32 Anna Gasparajticze 50an
+l22	row	filius Joannes 25an
+l23	row	33 Josephus Jasutis 46an
+l24	row	ux Anna 40an
+l25	row	filius Josephus 12an
+l26	row	Juliana 10an
+l27	row	a) Magdalena Jasuticze 35an
+l28	row	b) Juliana Gasparajticze 30an
+l29	page-number	58
+l30	row	33 Josephus Radvillo 48an
+l31	row	ux Anna 35an
+l32	row	filius Josephus 12an
+l33	row	Thadeus 6an
+l34	row	Anna 10an
+l35	row	Cecilia 3an
+l36	row	mater Barbara 70an
+l37	row	34 Thadeus Jancajtis 59an
+l38	row	ux Anna 45an
+l39	row	35 Thadeus Reckis 32an
+l40	row	36.- herus Jacobus Greiczius - 68an
+l41	row	filius Thadeus 34an
+l42	row	Casimirus 26an
+l43	row	Antonius 26an
+l44	row	Barbara 27an
+l45	row	Juliana 20an
+l46	row	37 Dec. Dominicus Szliażas 70an
+l47	row	ux Barbara 60an
+l48	row	filius Dominicus - 35an
+l49	row	Josephus 33an
+l50	row	fam. Apalonia Jurevicz 14an
+l51	row	Eleonora - 13an
+l52	row	Eleonora Adomajticze - 30an

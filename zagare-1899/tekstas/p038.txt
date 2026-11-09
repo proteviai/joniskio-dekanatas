@@ -1,0 +1,71 @@
+# skenas = 0038
+# busena = ok
+# eScriptorium = dok. 3, 0038 baigta [segReady]
+l1	row	Semh
+l2	row	21.- Michael Orlovski - 48an
+l3	row	ux. Anna - 40an
+l4	row	filius Franciscus - 18an
+l5	row	Petrus - 13an
+l6	row	Ignatius - 6an
+l7	row	Benedictus - 2an
+l8	row	Anna - 15an
+l9	row	Barbara - 14an
+l10	row	22. Herus. Casimirus Adomajtis - 60an
+l11	row	ux. Agatha - 55an
+l12	row	filius Joannes - 27an
+l13	row	Franciscus - 25an
+l14	row	Petrus - 24an
+l15	row	Vincentius - 21an
+l16	row	Julianus - 19an
+l17	row	Barbara - 18an
+l18	row	Apolonia - 14an
+l19	row	famula Monika Vajtiekunicze - 30an
+l20	row	a) mater Agatha Jaruszenie - 70an
+l21	row	23.- Herus Joannes Matkajtis - 42an
+l22	row	ux. Anna - 40an
+l23	row	filius Joannes - 18an
+l24	row	Alexander - 15an
+l25	row	Josephus - 6an
+l26	row	Apolonia - 20an
+l27	row	Helena - 14an
+l28	row	Juliana - 12an
+l29	note-above	Semih
+l30	row	24.- Dominicus Pranckus - 28an
+l31	row	ux. Francisca - 25an
+l32	row	filius Casimirus - 3an
+l33	row	patres Dominicus - 60an
+l34	row	ux. Magdalena - 60an
+l35	page-number	36
+l36	row	25. Joannes Rudovski -  50an
+l37	row	ux. Marianna - 40an
+l38	row	filius Josephus - 20an
+l39	row	Paulus - 12an
+l40	row	Alexander - 9an
+l41	row	Stanislaus - 5an
+l42	row	Zuzanna - 16an
+l43	row	Apolonia - 6an
+l44	row	Vincentius - 1an
+l45	row	mater Petronella - 70an
+l46	note-above	herus
+l47	row	26.- Alexander Ribskis - 33an
+l48	row	ux. Juliana - 26an
+l49	row	frater. Joannes - 27an
+l50	row	famula Monika Briedis - 20an
+l51	row	Eleonora Dementicze - 19an
+l52	row	27.- Antonius Ribski - 48an
+l53	row	ux. Helena - 30an
+l54	row	28.- ½ herus Augustinus Strakszas - 60an
+l55	row	ux. Anna - 54an
+l56	row	filius Joannes - 24an
+l57	row	Dominicus - 22an
+l58	row	Antonius - 17an
+l59	row	Petrus - 14an
+l60	row	Anna - 22an
+l61	row	Martha - 18an
+l62	row	Marianna - 23an
+l63	row	29.- Vincentius Strakszas - 57an
+l64	row	ux. Agnes 37an
+l65	row	filius Vincentius - 15an
+l66	row	Josephus - 12an
+l67	row	Antonius - 10an
+l68	row	Alexander - 8an

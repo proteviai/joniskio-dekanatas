@@ -1,0 +1,65 @@
+# skenas = 0104
+# busena = mach
+# eScriptorium = dok. 3, 0104 klausimai [segReady seg8a]
+l1	row	24 Vincentius Tortrojsz 30an
+l2	row	ux Martha 30an
+l3	row	filia Sophia 1an
+l4	row	a Josephus Kudelis 32an
+l5	row	ux Antonina 33an
+l6	row	filius Franciscus 2an
+l7	row	Antmine? 4an
+l8	row	b) Apalonia Torstojnienie 42an
+l9	row	filius Alexander 8an
+l10	row	Cleophasa 7an
+l11	row	c Stanislaus Tortrojsz 27an
+l12	row	Soror Zuzanna 22an
+l13	row	d) Helena Janinienie 29an
+l14	row	filius Stanislaus 3an
+l15	row	25 Apolinarius Martiszewski 62an
+l16	row	frater Franciscus 60an
+l17	row	ux Clementina 45an
+l18	row	26.- Anna Żukauckienie 64an
+l19	row	a Antonius Oginskis 39an
+l20	row	ux Anna 28an
+l21	row	filia Helena 1an
+l22	row	c) Anna Szutkicze 50an
+l23	row	d) Barbara ?ienie 50an
+l24	row	27. Joannes Stianski 67an
+l25	row	ux Anna 45an
+l26	row	filius Boneventura 9an
+l27	page-number	102
+l28	row	a) Joannes Raizgis 33an
+l29	row	ux Anna 21an
+l30	row	b) Constantia Jvonkienie 53an
+l31	row	c) Barbara Petrutienie 70an
+l32	row	Pauksscsiu? ul
+l33	row	b) Joannes Petrilla 43an
+l34	row	ux Helena 40an
+l35	row	filius Julianus 14an
+l36	row	Lucia 11an
+l37	row	Euphemia 10an
+l38	row	Juliana 8an
+l39	row	Zuzanna 4an
+l40	row	Casimirus 8an
+l41	row	2 Michael Kigas 45an
+l42	row	ux Anna 40an
+l43	row	filius Stanislaus 17an
+l44	row	Anna 15an
+l45	row	Francisca 13an
+l46	row	Emilia 10an
+l47	row	Liudvina 4an
+l48	row	Zuzanna 3an
+l49	row	Bronislaa 1an
+l50	row	mater Helena Kigienie 75an
+l51	row	3 Antonius Raksztis 45an
+l52	row	ux Anna 40an
+l53	row	filius Antonius 10an
+l54	row	Stanislaus 8an
+l55	row	Silvester 5an
+l56	row	Joannes 3an
+l57	row	Marianna 20an
+l58	row	Amelia 14an
+l59	row	Zuzanna 2an
+l60	row	a Vincentius Strikas 60an
+l61	row	ux Martha 60an
+l62	row	filius Thomas 17an

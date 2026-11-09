@@ -1,0 +1,80 @@
+# skenas = 0115
+# busena = mach
+# eScriptorium = dok. 3, 0115 klausimai [segReady seg8a]
+l1	row	a) Ludovicus Motuzas 40
+l2	row	ux Juljanna 40
+l3	row	filius Alexander 16
+l4	row	II Dominicus 8
+l5	row	filiae Francisca 6
+l6	row	II Juljanna 3
+l7	row	III Anna 20
+l8	row	b Joseph Bandza 34
+l9	row	ux Magdolana? 30
+l10	row	filius Wingentus? 2
+l11	row	filia Anna 4
+l12	row	a Rochus Jonajtis 50
+l13	row	ux Helena 40
+l14	row	filiae Anna 9
+l15	row	II Juljanna 7
+l16	row	III Antonina 7
+l17	row	Anna Baltokas vd 70
+l18	row	b) Michael Mizulis 55.
+l19	row	ux Magdalena 40
+l20	row	filius Ladislaus 1
+l21	row	filiae Angela 12
+l22	row	Thaddeus Sowicki 28
+l23	row	a Joannes Kigas 57
+l24	row	ux Anna 51
+l25	row	filius Joannes 22
+l26	row	filia Heva 14
+l27	row	b) Agnes Bartasius 55
+l28	wrapped	vd
+l29	row	filius Franciscus 23
+l30	row	filia Anna 20
+l31	row	II Eleonora 16
+l32	row	III Susanna 11
+l33	row	b) Casimirus Pavlovski 30
+l34	row	ux Amelia 30
+l35	row	filiae Amelia 5
+l36	row	II Anna 2
+l37	row	a Joseph Kuslejko 49
+l38	row	ux Anna 34
+l39	row	filius Joseph 17
+l40	margin-note	Sthirus?
+l41	margin-note	Hegius?
+l42	row	II Joannes 8
+l43	page-number	113
+l44	row	III Casimirus 3
+l45	row	filia Anna 11
+l46	row	II Isabella 6
+l47	row	Benedictus Stasajtis vd 70
+l48	row	Soror Magdalena vgo 50
+l49	row	2 Guasi? lom Julianus Kudowia 51
+l50	row	ux Anna 49
+l51	row	filius Stanislaus 15
+l52	row	filia Janina? 7
+l53	row	II Jadvigis 6
+l54	row	3 Super? Belneun Franciscus
+l55	row	Machievia? 63
+l56	row	ux Anna 42
+l57	row	filius Alexander 11
+l58	row	filiae Thecla 20
+l59	row	II Francisca 18
+l60	row	III Bronislaa 16
+l61	row	IV Juljanna 7
+l62	row	V Malvina 6
+l63	row	Francisca Sora vdua 80
+l64	row	Casimirus Baltokas 25
+l65	row	Anna Tomkiewicz conj. 60
+l66	row	4 Supra? Cantor Jacobus Piokowskis4
+l67	row	ux Anna 66
+l68	row	filia Monica Kalinowska 22
+l69	row	Monica Bicziużas 23
+l70	row	Aps Rockan
+l71	row	Benedicta Pampar 30
+l72	row	apud Ilanir
+l73	row	Franciscus Kalinowski 20
+l74	row	apud portulanum
+l75	row	1 Anpiga? Jacobus Anyuws 32
+l76	row	ux Antonina Monkiewicz 32
+l77	row	filia Petronilla 1

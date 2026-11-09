@@ -1,0 +1,68 @@
+# skenas = 0090
+# busena = mach
+# eScriptorium = dok. 3, 0090 klausimai [segReady auto1]
+l1	row	filius Antonius 12an
+l2	row	II Alexander 4an
+l3	row	filia Monica 19an
+l4	row	II Anna 17an
+l5	row	d Joseph Warkałs 65an
+l6	row	III Juljanna 14an
+l7	row	ux Magdalena 50an
+l8	row	filius Joannes 17an
+l9	row	II Vincentius 12an
+l10	row	III Antonius 10an
+l11	row	f Joannes Mużininkas
+l12	wrapped	
+l13	row	ux Marianna 40an
+l14	row	filius Alexander 11an
+l15	row	filia Barbara 10an
+l16	row	II Mariana 13an
+l17	row	5 Katilisnis?
+l18	row	1 Alexander Dante 40an
+l19	row	ux Magdalena 38an
+l20	row	filius Vincentius 13an
+l21	row	Josephus 10an
+l22	row	Stanislaus 8an
+l23	row	Paulina 7an
+l24	row	Francisca 2an
+l25	row	patres Vincentius Szewdulis 68an
+l26	row	ux Juliana 60an
+l27	row	2 Petrus Klimas 50an
+l28	row	ux Theresa 40an
+l29	row	filius Joannes 22an
+l30	row	Paulus 14an
+l31	row	Franciscus 7an
+l32	row	Josephus 1an
+l33	row	Heva 17an
+l34	page-number	88
+l35	row	3 Antonius Kozlovicz 31an
+l36	row	ux Theodora 30an
+l37	row	filius Adolphus 4an
+l38	row	Joanna 8an
+l39	row	famulus Franciscus Vojciechovicz 30an
+l40	row	mater Radna Mikuckienie 70an
+l41	row	filius Vincentius 32an
+l42	row	4 Dominicus Szemiots 43an
+l43	row	ux Paulina 35an
+l44	row	filius Alexander 14an
+l45	row	Augustinus 9an
+l46	row	Casimirus 6an
+l47	row	Juliana 3an
+l48	row	famulus Joannes Prasczius 29an
+l49	row	Stungei
+l50	row	1 Antonius Gurskis 42an
+l51	row	ux Barbara 30an
+l52	row	filius Joannes 11an
+l53	row	Vladislaus 2an
+l54	row	Alexandra 7an
+l55	row	Anna 1an
+l56	row	a Michael Missiulis 50an
+l57	row	2 Vladislaus Balcsunas 41an
+l58	row	ux Barbara 48an
+l59	row	filia Marianna 3an
+l60	row	3 Josephus Mikulskas 40an
+l61	row	ux Marianna 40an
+l62	row	filius Antonius 12an
+l63	row	Franciscus 6an
+l64	row	Palmira 9an
+l65	row	Ludvina 4an

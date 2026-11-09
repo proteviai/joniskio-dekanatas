@@ -1,0 +1,65 @@
+# skenas = 0087
+# busena = mach
+# eScriptorium = dok. 3, 0087 klausimai [segGT auto1]
+l1	row	filius Antonius 1an
+l2	row	famula Anna Jonkicze 26an
+l3	row	Marianna Bicziuczicze 45an
+l4	row	23 Herus Petrus Szakinskas 25an
+l5	row	ux Helena 22an
+l6	row	filia Francisca 2an
+l7	row	Apolonia 1an
+l8	row	famulus Casimirus Mikloszius 40an
+l9	row	Helena Vitkauskicze 25an
+l10	row	a Barera? Zaricze 40an
+l11	row	24 Herus Joannes Szeris 57an
+l12	row	ux Anna 53an
+l13	row	filius Ignasius? 30an
+l14	row	Zuzanna 14an
+l15	row	famula Monica Urbonicze 12an
+l16	row	25 Herus Franciscus Szukszta 50an
+l17	row	ux Barbara 40an
+l18	row	filia Francisca 12an
+l19	row	mater Anna 70an
+l20	row	famulus Czeputis? Joannes 33an
+l21	row	ux Anastasia 27an
+l22	row	filius Casimirus 1an
+l23	row	famula Juliana Petkicze 15an
+l24	row	26 Herus Casimirus Mikloszius 40an
+l25	row	ux Barbara 35an
+l26	row	filius Petrus 9an
+l27	row	Vincentius 5an
+l28	row	Josephus 3an
+l29	row	Helena 18an
+l30	row	Juliana 14an
+l31	row	Barbara 12an
+l32	row	Anna 7an
+l33	row	85
+l34	row	27 Thadeus Biczius 31an
+l35	row	ux Magdalena 28an
+l36	row	filius Thadeus 4an
+l37	row	28 Casimirus Parazinskas 44an
+l38	row	ux Magdalena 44an
+l39	row	filius Casimirus 17an
+l40	row	Josephus 9an
+l41	row	Juliana 14an
+l42	row	Apalonia 6an
+l43	row	29 Michael Ginczas 60an
+l44	row	ux Helena 40an
+l45	row	filius Alexander 16an
+l46	row	Juliana 20an
+l47	row	Zuzanna 14an
+l48	row	30 Ignatius Fruzdzius 80an
+l49	row	ux Anna 45an
+l50	row	b) Anna Gasparajticze 25an
+l51	row	31 Casimirus Norvajsz 60an
+l52	row	ux Ursula 60an
+l53	row	filius Casimirus 26an
+l54	row	pater Jacobus Leszinski 90an
+l55	row	32 Thadeus Ginczas 40an
+l56	row	ux Joanna 40an
+l57	row	filius Josephus 7an
+l58	row	Sophia 4an
+l59	row	famulus Alexander Diokas 20an
+l60	row	Clemens Macis 14an
+l61	row	Scholastiaa? Berkuilise 19an
+l62	row	a) Helena Jokubajticze 60an

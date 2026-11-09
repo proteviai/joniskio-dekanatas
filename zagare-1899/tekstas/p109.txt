@@ -1,0 +1,66 @@
+# skenas = 0109
+# busena = mach
+# eScriptorium = dok. 3, 0109 klausimai [segReady seg8a]
+l1	row	27 Dominicus Bujszo 40an
+l2	row	ux Francisca 26an
+l3	row	filius Valentinus? 1an
+l4	row	Bronislaus 2an
+l5	row	a Francisca Linażienie 50an
+l6	row	a Franciscus Macis 70an
+l7	row	ux Heva 50an
+l8	row	filius Alexander 18an
+l9	row	Duaroul?
+l10	row	1 Josephus Dargużas 30an
+l11	row	mater Elisabeth 70an
+l12	row	a Thadeus Szimkus 12an
+l13	row	2 Clemens Melis 48an
+l14	row	ux Petronella 40an
+l15	note-above	Aimaui?
+l16	row	filius Josephus 17an
+l17	row	Anna 6an
+l18	row	a Adalis? Piedzius 70an
+l19	row	ux Rosalia 80an
+l20	row	filia Heva 15an
+l21	row	c Helena Matijoszajticze 50an
+l22	row	soror Barbara 60an
+l23	row	3 Izidorus Raksztis 36an
+l24	row	ux Helena 31an
+l25	row	a Josephus Naudużas 40an
+l26	row	ux Anna 32an
+l27	row	filius Josephus 11an
+l28	row	Zuzanna 6an
+l29	row	b Joannes Ginczas 20an
+l30	row	ux Helena 28an
+l31	row	filia Zuzanna 6an
+l32	row	c Casimirus Butkus 50an
+l33	row	ux Anna 48an
+l34	row	filius Joannes 10an
+l35	row	Juliana 9an
+l36	row	Zuzanna 4an
+l37	row	Antonius 1an
+l38	row	mater Marianna Bernotienie 70an
+l39	row	4 Jamulis Ignatius 60an
+l40	row	ux Josephata 55an
+l41	row	6 Casimirus Szliażas 35an
+l42	row	ux Elisabeth 30an
+l43	row	filia Zuzanna 2an
+l44	row	a Anna Szliażicze 50an
+l45	row	c Marianna Matukicze 41an
+l46	row	b Helena Vajtickejticze 50an
+l47	row	c Anna Stabrauckicze 50an
+l48	row	a Anna Martuszickicze 40an
+l49	row	7 Josephus Mituzas 29an
+l50	row	ux Ursula 24an
+l51	row	filius Julianus 1an
+l52	row	Francisca 4an
+l53	row	a Vincentius Ivanovski 46an
+l54	row	ux Heva 40an
+l55	row	a Stanislaus Varkalas 18an
+l56	row	8 Helena Laudanszienie 40an
+l57	margin-note	Srmmeus?
+l58	row	filius Andrejus 28an
+l59	row	9 Thadeus Adomajtis 61an
+l60	row	ux Magdalena 60an
+l61	row	a Joannes Puczinska 26an
+l62	row	ux Juliana 24an
+l63	row	filius Thadeus 4an

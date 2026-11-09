@@ -1,0 +1,71 @@
+# skenas = 0112
+# busena = mach
+# eScriptorium = dok. 3, 0112 klausimai [segReady seg8a]
+l1	row	23 Josephus Jurgaitis 40an
+l2	row	ux Marianna 35an
+l3	row	filius Joannes 15an
+l4	row	Vladislaus 10an
+l5	row	Josephus 7an
+l6	row	Marcianus 5an
+l7	row	Monica 12an
+l8	row	Helena 2an
+l9	row	24 Marianna Galkovienie 58an
+l10	row	filia Helena 19an
+l11	row	Marianna 17an
+l12	row	a Apalonia Stankicze 18an
+l13	row	25 Josephus Niprikas 50an
+l14	row	ux Marianna 30an
+l15	row	filius Josephus 14an
+l16	row	Ignatius 12an
+l17	row	Constantinus 8an
+l18	row	Petrus 1an
+l19	row	mater Marianna Baranauskienie 50an
+l20	row	Aarbanus? Gialgotas 40an
+l21	row	ux Ursula 41an
+l22	row	filia Anna 13an
+l23	row	b Anna Januszauckicze 29an
+l24	row	Soror Joanna 8an
+l25	row	pater Josephus 50an
+l26	row	26 Georgius Gasparajtis 42an
+l27	row	ux Barbara 47an
+l28	row	a Julianus Cziuladis 27an
+l29	row	ux. Elisabeth luter. 28an
+l30	row	filia Uolia? Cater 2an
+l31	row	c Joannes Davolus 26an
+l32	row	ux Veronica 26an
+l33	row	filia Juliana 1an
+l34	row	c Magdalena Kazlauskienie 80an
+l35	row	27 Antonius Kudulis 40an
+l36	row	ux Anna 30an
+l37	row	filius Josephus 16an
+l38	row	Antonius 6an
+l39	row	Anna 12an
+l40	row	Theophila? 13an
+l41	row	mater Amelia Szileikienie 80an
+l42	row	a Josephus Romaszewski 40an
+l43	row	ux Barbara 40an
+l44	row	filia Malvina 12an
+l45	row	Amelia 6an
+l46	row	c Eleonora Katauckienie 30an
+l47	note-above	Separ? 2an
+l48	row	filius Stanislaus 14an
+l49	row	Alexander 9an
+l50	row	Franciscus 1an
+l51	row	Marianna 8an
+l52	row	Barbara 5an
+l53	row	d Anna Czutienie vd 40an
+l54	row	filia Eleonora 17an
+l55	row	28 Rozalia Szimkajtienie 75an
+l56	row	filius Joannes 50an
+l57	row	29 Eleonora Żalkenie 50an
+l58	row	filius Josephus 18an
+l59	row	Joannes 12an
+l60	row	Dominicus 11an
+l61	row	Marianna 14an
+l62	row	a Georgius Melis 40an
+l63	row	ux Anna 30an
+l64	row	filius Alexander 8an
+l65	row	Casimirus 1an
+l66	row	Amelia 9an
+l67	row	Francisca 4an
+l68	row	Aaharcianus? Gialgoto 14an

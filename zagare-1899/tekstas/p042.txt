@@ -1,0 +1,58 @@
+# skenas = 0042
+# busena = ok
+# eScriptorium = dok. 3, 0042 baigta [segGT]
+l1	row	5. herus Vincentius Szliażas - 60an
+l2	row	ux. Magdalena - 60an
+l3	row	filius - Vincentius - 23an
+l4	row	Casimirus - 36an
+l5	row	famulus Georgius Kozlovski - 21an
+l6	row	Rochus Vipartas - 16an
+l7	row	Marianna Navickicze - 19an
+l8	row	6.- herus Josephus Danta 47an
+l9	row	ux. Helena - 40an
+l10	row	filia - Helena - 17an
+l11	row	famulus Casimirus Norcus - 23an
+l12	row	Rochus Krasavski - 25an
+l13	row	Josephus Niprikas - 15an
+l14	row	Marianna - 18an
+l15	row	7.- herus Ludovicus Adejkis - 35an
+l16	row	ux. Marianna - 30an
+l17	row	filius - Ludovicus - 8an
+l18	row	Clemens - 3an
+l19	row	Joannes - 1an
+l20	row	Marianna - 5an
+l21	row	frater Franciscus - 35an
+l22	row	famulus Joannes Naudużas - 19an
+l23	row	Marianna Staponkicze-16an
+l24	row	Agnes Brażajticze - 16an
+l25	row	mater. Marianna Jurevicz - 70an
+l26	row	Soror. Helena Adejkis - 20an
+l27	row	8.-aren. Marcianus Baltokas - 48an
+l28	row	ux. Juliana - 40an
+l29	row	famulus Franciscus Zdanovicz - 23an
+l30	row	Banifacius Naudużas - 12an
+l31	page-number	40
+l32	row	9.- Marcianus Daraszka - 50an
+l33	row	ux. Barbara - 50an
+l34	row	filia - Eleonora - 17an
+l35	row	10.- Casimirus Szutkus - 50an
+l36	row	ux. Helena - 45an
+l37	row	filius Dominicus - 8an
+l38	row	Anna - 17an
+l39	row	pater. Casimirus - 80an
+l40	row	11. Ignatius Lancius - 31an
+l41	row	mater - Helena - 60an
+l42	row	12- Casimirus Nipriks - 45an
+l43	row	ux. Magdalena - 40an
+l44	row	filius - Franciscus - 11an
+l45	row	Antonius - 9
+l46	row	Barbara - 7an
+l47	row	13.- Thadeus Griblauckis - 36an
+l48	row	ux Juliana - 35an
+l49	row	pater Casimirus - 80an
+l50	row	hab. - Mathias Vajtiekunas - 60an
+l51	row	Custos Silvae.-
+l52	row	1) Leo Mingin - 30an
+l53	row	Soror Adolphina - 20an
+l54	row	pater. Joannes - 80an
+l55	row	famulus - Clemens Adomajtis - 14an

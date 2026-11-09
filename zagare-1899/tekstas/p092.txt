@@ -1,0 +1,64 @@
+# skenas = 0092
+# busena = mach
+# eScriptorium = dok. 3, 0092 klausimai [segReady seg8a]
+l1	row	Zuzanna 22an
+l2	row	famulus Thadeus Bieniszas 13an
+l3	row	Helena Miklonius 18an
+l4	row	Zuzanna Juknicze 19an
+l5	row	15 Herus Casimirus Biczius 55an
+l6	row	ux Anna 50an
+l7	row	filius Josephus 21an
+l8	row	Casimirus 12an
+l9	row	Alexander 11an
+l10	row	Anna 9an
+l11	row	famula Seppaphisza? Kuszlejkicze 24an
+l12	row	16 Herus Josephus Kigas 60an
+l13	row	ux Anna 50an
+l14	row	filius Benedictus 20an
+l15	row	Constantinus 3an
+l16	row	Anna 17an
+l17	row	famulus Adolphus Alejunas 20an
+l18	row	Joannes Pampars 18an
+l19	row	Eleonora Szurszticze 20an
+l20	row	17 Herus Franciscus Neglius 80an
+l21	row	frater Ignatius 40an
+l22	row	ux Anna 30an
+l23	row	filius Alexander 8an
+l24	row	Liudovicus 6an
+l25	row	Marianna 3an
+l26	row	famulus Casimirus Derżinskas 40an
+l27	row	Vincentius Szutkus 15an
+l28	row	Barbare? Kusleikicze 30an
+l29	row	18 Herus Josephus Prasczius 35an
+l30	row	soror Elisabeth 24an
+l31	row	filius Casimirus 12an
+l32	row	famulus Adamus Szemiots 23an
+l33	row	Barbara Prasticze 38an
+l34	row	19 Herus Alexander Szvorkus 40an
+l35	row	ux Juliana 40an
+l36	row	filius Alexander 18an
+l37	row	Antonius 12an
+l38	row	famula Barbura? Simonovicz 17an
+l39	row	mater Ursula 80an
+l40	row	20 Herus Casimirus Jasutis 58an
+l41	row	ux Rozalija 50an
+l42	row	filia Zuzanna 22an
+l43	row	famulus Casimirus Sinczas 28an
+l44	row	Josephus Zaloga 18an
+l45	row	Antonius Naudużas 12an
+l46	row	augid Stanislaus Dvokas 7an
+l47	row	Magdalena Gasparajticze 17an
+l48	row	Helena Kudulienie 89an
+l49	row	21 ~~Herus~~ Casimirus Derżinski 40an
+l50	row	ux Elizabeth 43an
+l51	row	filius Josephus 7an
+l52	row	patres Josephus 90an
+l53	row	ux Barbara 60an
+l54	row	22 Herus Casimirus Savickas 38an
+l55	row	ux Josaphata 30an
+l56	row	filius Julianus 9an
+l57	row	Josephus 4an
+l58	row	Alexandrina 3an
+l59	row	Francisca 1an
+l60	row	mater Helena 80an
+l61	row	Josaphata 2 cir

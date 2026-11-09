@@ -1,0 +1,67 @@
+# skenas = 0046
+# busena = ok
+# eScriptorium = dok. 3, 0046 baigta [segGT]
+l1	row	filius - Casimirus - 8an
+l2	row	Antonius - 6an
+l3	row	Joannes - 2an
+l4	row	b.)- Antonius Ivanovski - 40an
+l5	row	ux. Rosalia - 30an
+l6	row	c)- Anna Orlovskicze - 22an
+l7	row	filia Zuzanna - 4an
+l8	row	15.) Georgius Bianski - 30an
+l9	row	ux. Magdalena - 24an
+l10	row	filius Georgius - 1an
+l11	row	Magdalena - 4an
+l12	row	Mater. Anna - 70an
+l13	row	hab.- Helena Baltokicze - 32an
+l14	row	filia Carolina - 10an
+l15	row	16.-) herus- Joannes Sora - 47an
+l16	row	ux. Martha - 40an
+l17	row	filius Vincentius - 18an
+l18	row	Georgius - 12an
+l19	row	Amelia - 23an
+l20	row	Juliana - 17an
+l21	row	17.-) herus Georgius Dżiugis - 63an
+l22	row	ux. Marianna - 70an
+l23	row	famulus - Josephus Navakovski - 23an
+l24	row	Antonius Kacziuszka - 15an
+l25	row	Eleonora Pocicze - 20an
+l26	row	Marianna Orlovskicze - 7an
+l27	row	18.-) Josephus Valiszevski - 38an
+l28	row	ux. Victoria - 30an
+l29	row	filia - Francisca - 4an
+l30	row	famulus Josephus Orlovski - 27an
+l31	row	Zuzanna Mażejkicze - 28an
+l32	row	Antonina Danskicze - 12an
+l33	page-number	44
+l34	row	19.-) Joannes Diokas - 42an
+l35	row	ux. Zuzanna - 46an
+l36	row	hab. Alexander Valinszis - 21an
+l37	row	20.-) herus Alexander Buividis - 50an
+l38	row	ux. Anna - 33an
+l39	row	filius Joannes - 10an
+l40	row	Josephus - 9an
+l41	row	Antonius - 8an
+l42	row	b) Franciscus Bujvidis - 58an
+l43	row	ux. Veronica - 30an
+l44	row	filius Franciscus - 7
+l45	row	Casimirus - 3an
+l46	row	Vincentius - 1an
+l47	row	Anna - 4an
+l48	row	famulus Joannes Virpilas - 18an
+l49	row	Helena Oliszevskicze - 25an
+l50	row	filius Constantinus - 4an
+l51	scribe-mistake	Fraciscus Barovski - 28an
+l52	row	Agnes Baranckicze - 19an
+l53	row	Magdalena Barancicze - 17.
+l54	row	21.-) Herus - Vincentius Rudovski - 35an
+l55	row	ux. Anna - 30an
+l56	row	mater.- Anna - 80an
+l57	row	filia Helena 43an
+l58	row	famulus Josephus Gasparajtis - 30an
+l59	row	Helena Znoticze - 21an
+l60	row	Josephus Orlovski - 8an
+l61	row	22.- Dominicus Gręiczius 29an
+l62	row	ux. Liudvina - 30an
+l63	row	mater Marianna Kigienie - 70an
+l64	row	famulus- Josephus Kriscziunas 14an

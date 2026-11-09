@@ -1,0 +1,77 @@
+# skenas = 0077
+# busena = mach
+# eScriptorium = dok. 3, 0077 atsakyta [segReady auto1]
+l1	row	II Valeria 1
+l2	row	Joseph Norwajsz 50
+l3	row	Eleonora Mickus vgo 19
+l4	row	Anna Ramaszewska 20
+l5	row	Helena Wajtiekajtis 35
+l6	row	18 Herus Joseph Żlobis 61
+l7	row	ux Anna 55
+l8	row	filiae Amelia 18
+l9	row	II Paulus Szymański 19
+l10	row	Catharina Ladżius 21
+l11	row	19 Herus Antonius Skrypkus
+l12	wrapped	33
+l13	row	ux Susanna 22
+l14	row	filia Susanna 1
+l15	row	b Casimirus Skrypkus 61
+l16	row	ux Eleonora 59
+l17	row	filia Eleonora 40
+l18	row	II Cristina 19
+l19	row	Casimirus Skrypkus 19
+l20	row	Vincentius Drygots 14
+l21	row	Martha Szemeklys 19
+l22	row	Anna Notriums vd 78
+l23	row	20 Herus Rafael Skrypkus 50
+l24	row	ux Helena 39
+l25	row	filius Alexander 24
+l26	row	II Joseph 17
+l27	row	III Dominicus 12
+l28	row	IV Casimirus 10
+l29	row	filiae Amelia 19
+l30	row	II Barbara 14
+l31	row	Magdalena Skrypkus 48
+l32	row	21 Herus Joseph Buksza 41
+l33	row	ux Elisabeth 36
+l34	row	filius Joseph 13
+l35	row	II Albinus 11
+l36	row	III Vincentius 5
+l37	row	Stanislaus Pluskis 28
+l38	page-number	75
+l39	row	Juljanna Petecka 21
+l40	row	22 Herus Antonius Żłobis 45
+l41	row	ux Angela 33
+l42	row	filius Bonoventura 3
+l43	row	II Julius 2
+l44	row	filiae Emilia 7
+l45	row	II Angela 1
+l46	row	Anna Żlobis vd
+l47	wrapped	74
+l48	row	Stanislaus Rugienis 27
+l49	row	Franciscus Rymkiewicz 17
+l50	row	Casimirus Stoczkus 34
+l51	row	Amelia Bogdan 19
+l52	row	Marianna Wajczulis 17
+l53	row	Juljanna Łuksza 33
+l54	row	23 Herus Marcianus Żłobis 61
+l55	row	ux Mariana 48
+l56	row	filius Adam 23
+l57	row	II Vladislaus 14
+l58	row	filia Monica 18
+l59	row	II Angela 9
+l60	row	Antonius Butkus 20
+l61	row	pasikawojo
+l62	row	Susanna Jakubajtis 19
+l63	row	24 Semher Joseph Adomajtis 46
+l64	row	ux Mariana 42
+l65	row	filius Casimirus 4
+l66	row	II Joseph 1
+l67	row	filiae Josephata 11
+l68	row	II Stephania 9
+l69	row	III Antonina 7
+l70	row	b Casimirus Adomajtis 54
+l71	row	ux Anna 37
+l72	row	fil Antonius 15
+l73	row	II Joseph 14
+l74	row	III Julianus 3

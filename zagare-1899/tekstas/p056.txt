@@ -1,0 +1,78 @@
+# skenas = 0056
+# busena = ok
+# eScriptorium = dok. 3, 0056 baigta [segGT]
+l1	row	II. Susanna 10.
+l2	row	III. Francisca 7
+l3	row	b) Herus Barbara Drygotas vd 50.
+l4	row	filius Casimirus c 23
+l5	row	II. Antonius 21.
+l6	row	III. Vincentius 16
+l7	row	IV. Joseph 13.
+l8	row	V. Stanislaus 10.
+l9	row	filia Anna 19
+l10	row	6 Herus Kiatuakis 60
+l11	row	ux. Apolonia 50.
+l12	row	filius Joseph 28.
+l13	row	II. Dominicus 7
+l14	row	filia Constantia 21.
+l15	row	II Lucia 14.
+l16	row	III. Antonina 12.
+l17	row	IV. Casimira 9
+l18	row	7 Herus Casimirus Bubelis 34
+l19	row	ux. Anna 36.
+l20	row	filius Ladislaus 10.
+l21	row	II. Joseph 8.
+l22	row	III famulus Alex. Kumpis 19
+l23	row	Casimirus Mickus 33.
+l24	row	Heva Petrovska 20.
+l25	row	Susanna Raudis 12.
+l26	row	8. Herus: Casimirus Drygotas 35.
+l27	row	frater Joseph c. 32.
+l28	row	sor. Juljanna 25.
+l29	row	Marcianus Czerkowski 24.
+l30	row	Casimirus Baltokas 15.
+l31	row	Susanna Jeras 23
+l32	row	Magdalena Jasutis 20.
+l33	row	9. Joannes Kiaturakis 51.
+l34	row	ux. Anna 37
+l35	row	filius C Joannes 4
+l36	row	II. Albinus 1.
+l37	row	filiae Francisca 3
+l38	row	Thaddeus Jankowski 60.
+l39	row	ux. Helena 46.
+l40	page-number	54
+l41	row	filia Helena 14.
+l42	row	Apolonia Mażys 20.
+l43	row	10 Mola: Joannes Żuks c. 20.
+l44	row	11. Joseph Kondratas 46.
+l45	row	ux. Anna 50.
+l46	row	filius Casimirus 9
+l47	row	Marianna Bubelis vgo 60.
+l48	row	12 Herus Rosalia Pejka vd. 30
+l49	row	filius Joannes 10
+l50	row	II Petrus 5.
+l51	row	filia Susanna 7
+l52	row	Ignatius Narkus 21.
+l53	row	Marcianus Czerkowski 61.
+l54	row	ux. Juljanna 60.
+l55	row	filius Vincentius c. 26.
+l56	row	II. Antonius 15.
+l57	row	filia Juljanna 29.
+l58	row	Helena Gasperajtis 21.
+l59	row	Anna Mikłoszius 18.
+l60	row	Monica Adomajtis 14.
+l61	row	Anna Czerkowska 4
+l62	row	13. Herus Benedictus Kiaturakis 43.
+l63	row	ux. Barbara 30
+l64	row	filius Joseph 6
+l65	row	II. Petrus 2.
+l66	row	III. Leo 1.
+l67	row	filia Francisca 4.
+l68	row	Stanislaus Skrypkus 23.
+l69	row	Dominicus Sawicki 16.
+l70	row	Apolonia Sawicka 20.
+l71	row	Apolonia Morkelis 16.
+l72	row	Stanislaus Drygotas 12.
+l73	row	14. Herus Casim. Kiaturakis 90.
+l74	row	ux. Anna 64.
+l75	row	filius Marcianus 37.

@@ -1,0 +1,68 @@
+# skenas = 0047
+# busena = ok
+# eScriptorium = dok. 3, 0047 baigta [segGT]
+l1	row	23.- Herus Vincentius Szolkovski - 51an
+l2	row	28.- Josephus Orlovski - 42an
+l3	page-number	45
+l4	row	ux. Anna - 50an
+l5	row	ux. Anna - 30an
+l6	row	filia - Joanna - 17an
+l7	row	filius Josephus - 15an
+l8	row	Sophia - 12an
+l9	row	Zuzanna - 9an
+l10	row	Helena - 11an
+l11	row	famulus. Josephus Pallunas - 12an
+l12	row	frater.- Antonius - 30an
+l13	row	Theodora Orlauckicze - 28an
+l14	row	24.-) Jonnes Kriscziunas - 72an
+l15	row	vid.
+l16	row	29.- Alexander Orlovski - 38an
+l17	row	filia Marciana - 30an
+l18	row	ux. Juliana - 27an
+l19	row	Anna - 30an
+l20	row	filius Vladislaus - 14an
+l21	row	Antonius - 10an
+l22	row	25.) Andrejus Biczius - 50an
+l23	row	Josephus - 8an
+l24	row	ux. Barbara - 40an
+l25	row	Franciscus - 3an
+l26	row	filius Antonius - 6an
+l27	row	Casimirus - 3an
+l28	row	Zuzanna - 10an
+l29	row	Juliana - 13an
+l30	row	Anna - 6an
+l31	row	Joanna - 5an
+l32	row	Francisca - 1an
+l33	row	26-.) Herus Joannes Dunski - 55an
+l34	row	hab. Josephus Szalkovski 50an
+l35	row	ux. Anna - 50an
+l36	row	ux. Barbara - 40an
+l37	row	filius Josephus - 23an
+l38	row	Joannes - 20an
+l39	row	30.- Franciscus Povilajtis - 60an
+l40	row	Franciscus - 18an
+l41	row	ux. Anna - 40an
+l42	row	Aloisius - 9an
+l43	row	filius Franciscus - 17an
+l44	row	Vincentius - 7an
+l45	row	Anna - 20an
+l46	row	31.- Michael Puterabas - 34an
+l47	row	Monica - 15an
+l48	row	ux. Zuzanna - 31an
+l49	row	Kvarteer. Franciscus Butkus - 28an
+l50	row	filius Dominicus - 2an
+l51	row	27.- Antonius Mituzas - 30an
+l52	row	32.- Josephus Skripko - 33an
+l53	row	ux. Helena - 36an
+l54	row	ux. Helena - 30an
+l55	row	filius Josephus - 21an
+l56	row	Salamonus - 17an
+l57	row	filius - Josephus - 4an
+l58	row	Anna - 18an
+l59	row	Antonius - 1an
+l60	row	Juliana - 14an
+l61	row	Barbara - 17an
+l62	row	Zuzanna - 12.
+l63	row	fam. Julianus Jurgaitis - 28an
+l64	row	Agnes - 12an
+l65	row	Anna - 19.

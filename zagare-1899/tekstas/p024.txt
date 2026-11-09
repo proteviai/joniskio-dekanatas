@@ -1,0 +1,81 @@
+# skenas = 0024
+# busena = ok
+# eScriptorium = dok. 2, 
+l1	row	6. Casimirus Naudużas - 37
+l2	row	Herus ux. Martha - 34.
+l3	row	semi filius Ladislaus - 9.
+l4	row	II. Julianus 7.
+l5	row	filiae Angela - 13.
+l6	row	II. Bronisłava - 10.
+l7	row	III. Ludvina 2.
+l8	row	7. Herus Georgius Jokubajtis 36.
+l9	row	ux. Anna - 30.
+l10	row	filius Alphonsus 5
+l11	row	II filia Adolpha 3.
+l12	row	Ursula Jokubajtis vd 76.
+l13	row	Juljanna Lesutis vgo 28.
+l14	row	Dominicus Lesutis c 33.
+l15	row	Franciscus Norvajsz 9.
+l16	row	8. Franciscus Pukowski 70.
+l17	row	ux. Helena - 37.
+l18	row	filius Casimirus - 3.
+l19	row	filia Monica - 12.
+l20	row	9 Casimirus Nauduzas - 31.
+l21	row	ux. Barbara - 27
+l22	row	Constantia Nauduzas vd.
+l23	row	10. Herus Joannes Nauduzas 45.
+l24	row	80.
+l25	row	ux. Magdalena 39.
+l26	row	filius Casimirus - 21.
+l27	row	II. Eduardus - 13.
+l28	row	III. Joannes - 12.
+l29	row	IV. Alexander 6.
+l30	row	filiae Mariana - 20,
+l31	row	II. Susanna - 14,
+l32	row	11. Herus Thomas Stoczkus 70.
+l33	row	ux. Helena - 60.
+l34	row	filius Joseph c - 30
+l35	row	II. Casimirus c - 28.
+l36	row	filiae Mariana - 21,
+l37	row	II. Monica 17,
+l38	row	Alexander 16,
+l39	page-number	22
+l40	row	12. Herus Ignatius Pranis 55
+l41	row	ux. Mariana 50.
+l42	row	filius Casimirus 23.
+l43	row	II. Joseph 22.
+l44	row	III Franciscus - 17.
+l45	row	IV. Antonius - 14.
+l46	row	V. Paulus 10.
+l47	row	filiae Marianna 16.
+l48	row	II. Helena 14.
+l49	row	III. (Ma) Barbara 7.
+l50	row	b) Joannes Jakimas 60.
+l51	row	ux. Anna 51.
+l52	row	13 Franciscus Naudużas 33.
+l53	row	ux. Barbara 26.
+l54	row	filia Susanna 2.
+l55	row	14. Antonius Jodrys 42
+l56	row	ux. Marianna 32.
+l57	row	filius Benedictus 8
+l58	row	II (M) Juljana 6.
+l59	row	III Susanna 4
+l60	row	15. Marcianus Stoczkus c 70
+l61	row	frater Joseph Stockus 60.
+l62	row	Casimirus Peleckas 64.
+l63	row	ux. Veronica - 57.
+l64	row	16 Dominicus Marcewski 40.
+l65	row	ux. Juljanna - 30.
+l66	row	Semi her.
+l67	row	arend.
+l68	row	filius Juljanus 13.
+l69	row	filia Casimira 9.
+l70	row	Michael Ramonas 11.
+l71	row	17 Herus Dec. Vincentius Szy-
+l72	row	majtis 37.
+l73	row	ux. Rozalia - 33.
+l74	row	filius Joseph 6.
+l75	row	II. Stanislaus 2.
+l76	row	filiae Antonina 12.
+l77	row	II. Amelia 10.
+l78	row	III Eugenia 8

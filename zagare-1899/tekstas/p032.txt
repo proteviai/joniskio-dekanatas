@@ -1,0 +1,77 @@
+# skenas = 0032
+# busena = ok
+# eScriptorium = dok. 3, 0032 baigta [segGT]
+l1	row	d) Joseph Rumbowski 25
+l2	row	ux. Angela 20
+l3	row	Victoria Radkus vgo 71.
+l4	row	e) Antonius Kontovt 63
+l5	row	ux. Victoria 50
+l6	row	filius Antonius c. 20.
+l7	row	II. filia Amelia 9
+l8	row	f) Petrus Masundukas 42
+l9	row	ux Constantia 43.
+l10	row	filius Felix 10.
+l11	row	filia Antonina 7.
+l12	row	II. Marianna 16.
+l13	row	III. Domitilla 12.
+l14	row	g) Antonius Lazutko 34.
+l15	row	ux. Barbara 30.
+l16	row	Marianna Szalkowska vd 84.
+l17	row	4. Herus Dec. Alexander Mituz 43.
+l18	row	ux. Elisabeth 36.
+l19	row	filius Alexander 18.
+l20	row	II. Joseph 13.
+l21	row	III. Joannes 5
+l22	row	IV. Casimirus 1.
+l23	row	filiae Barbara 14
+l24	row	II. Elisabeth 12.
+l25	row	III. Susanna 7.
+l26	row	Helena 4.
+l27	row	Joseph Skopejkó 67.
+l28	row	ux. Ursula 76.
+l29	row	b) Alexander Lokuszunas
+l30	wrapped	70.
+l31	row	ux. Helena 60
+l32	row	5 Kmieci: Joannes Wejkałs 47
+l33	row	ux Marianna 35
+l34	scribe-mistake	filiae Mariana 14
+l35	row	II. Marciana 7
+l36	row	III. Elisabeth 4.
+l37	row	b) Ignatius Czeputis 40
+l38	page-number	30
+l39	row	ux. Marianna 30.
+l40	row	filius Ignatius 4.
+l41	row	II. Thaddeus 10.
+l42	row	filia Marianna 11.
+l43	row	c) Augustinus Filipowicz 43
+l44	row	ux. Martha 35.
+l45	row	filius Ludovicus 1.
+l46	row	filia Casimira 14
+l47	row	II. Carolina 5.
+l48	row	d) Joseph Kozłowski 40.
+l49	row	ux. Anna 32.
+l50	row	e Joannes Kimyński 37.
+l51	row	ux. Carolina 35.
+l52	row	filia Valeria 10.
+l53	row	f.) Georgius Klowo 37
+l54	row	ux Helena 27.
+l55	row	Joseph Povilajtis 80.
+l56	row	ux. (Helena) Anna 67.
+l57	scribe-mistake	Tekla Grigalunas 11.
+l58	row	6 Her. Joannes Bijejkis 43.
+l59	row	ux. Helena 36.
+l60	row	filius Juljanus 9.
+l61	row	filiae Mariana 19
+l62	row	II. Antonina 12.
+l63	row	III. Anna 4
+l64	row	7 Herus Joannes Galkus c. 37.
+l65	row	Pater Carolus Galkus 70.
+l66	row	ux. Helena 60.
+l67	row	filius Casimirus 32.
+l68	row	filia Magdalena Łuko-
+l69	wrapped	szunas 22.
+l70	row	Stephania Kantowska 15.
+l71	scribe-mistake	Domittilla Masandukas 11.
+l72	row	8 Herus Casimirus Krysztopajtis
+l73	wrapped	45
+l74	row	ux. Helena 40

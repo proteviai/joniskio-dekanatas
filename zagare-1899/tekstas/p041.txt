@@ -1,0 +1,66 @@
+# skenas = 0041
+# busena = ok
+# eScriptorium = dok. 3, 0041 baigta [segGT]
+l1	page-number	39
+l2	row	filius Marcianus - 21an
+l3	row	dec.
+l4	row	2.- Josephus Valanczius - 40an
+l5	row	famula Anna Barovska - 19an
+l6	row	ux. Victoria - 30an
+l7	row	Marianna Kanapicze - 16an
+l8	row	Marianna Navicka - 12an
+l9	row	filia Victoria - 2an
+l10	row	patres. - Franciscus - 70an
+l11	row	hab. Casimirus Balakas - 70an
+l12	row	ux.- Helena - 60an
+l13	row	Miknajczej
+l14	row	filius Antonius Żaks - 30an
+l15	row	Antonius Orlovski - 16an
+l16	row	Dek. 1.) Franciscus Dante - 40an
+l17	row	Victoria Vozbuticze - 22an
+l18	row	ux. Ursula - 46an
+l19	row	Helena Adomajticze - 15an
+l20	row	filius Franciscus - 1an
+l21	row	Anna - 8an
+l22	row	3.)- mlynarz Michael Adejkis - 32an
+l23	row	Apalonia - 5an
+l24	row	ux. Juliana - 25an
+l25	row	Zuzanna - 4an
+l26	row	filius Stanislaus - 4an
+l27	row	Elisabeth - 3an
+l28	row	Francisca - 6an
+l29	row	patres Joannes - 70an
+l30	row	Casimira - 2an
+l31	row	ux Anna - 60an
+l32	row	Soror Monica - 20an
+l33	row	famulus Thomas Szidlovski - 21.
+l34	row	4.- pdw Dionisius Gerda - 50an
+l35	row	Josephus Znots - 20an
+l36	row	Barbara Pollunicze 18an
+l37	row	ux. Apolonia - 40an
+l38	row	Juliana Dragunicze 13an
+l39	row	filius Eduardus - 30an
+l40	row	Anna - 20an.
+l41	row	2.- Joannes Jurevicz - 35an
+l42	row	famulus Casimirus Milaszevski- 13an
+l43	row	Soror Helena - 19an
+l44	row	5.- herus Josephus Mituzas - 43an
+l45	row	3.- Josephus Mandejkis - 40an
+l46	row	ux. Agnes - 35an
+l47	row	ux. Anna - 40an
+l48	row	filius Casimirus - 23an
+l49	row	Alexander - 18an
+l50	row	filius - Joannes 11an
+l51	row	Josephus - 12an
+l52	row	4.- herus Joannes Batautis - 60an
+l53	row	Barbara - 19an
+l54	row	ux. Marianna - 50an
+l55	row	Anna - 17an
+l56	row	filius. Clemens - 13an
+l57	row	Marianna - 20an
+l58	row	6.- Bonifacius Jurevicz - 55an
+l59	row	Eleonora - 15an
+l60	row	ux Barbara - 50an
+l61	row	Elisabeth - 10an
+l62	row	filius Josephus - 37an
+l63	row	Monica - 8an

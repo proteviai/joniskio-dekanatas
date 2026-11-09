@@ -1,0 +1,84 @@
+# skenas = 0069
+# busena = ok
+# eScriptorium = dok. 3, 0069 baigta [segGT auto1]
+l1	row	11 Herus Joseph Jasutis 48
+l2	row	ux Barbara 25
+l3	row	filius Stanislaus 1
+l4	row	filiae Susanna 7
+l5	row	II Apolonia 4
+l6	row	Mariana Jasutis vd 80
+l7	row	Barbara Jasiunas vd 54
+l8	row	filia Helena 19
+l9	row	Joannes Szawlis 20
+l10	row	Alexandr Diokas 20
+l11	row	Alexander Szawlis 12
+l12	row	Michael
+l13	row	Helena Dovejko 16
+l14	row	12 Herus Joannes Burba 33
+l15	row	ux Barbara 40
+l16	row	filius Franciscus 3
+l17	row	filia Euphrosina 2
+l18	row	Alexander Wensłowajtis 16
+l19	row	Juljana Wencłowajtis 12
+l20	row	(Do) Lucia Wensłowajtis 7
+l21	row	Joseph Jasutis 20
+l22	row	Alexander Gałkus 18
+l23	row	Magdalena Gustis 20
+l24	row	Joannes Urbonas 25
+l25	row	13 Herus Alexander Naglus 41
+l26	row	filia Francisca 1
+l27	row	ux Anna 30
+l28	row	Alexander Jasutis 7
+l29	row	Frater Joannes 5
+l30	row	II Paulus 3
+l31	row	b) Franciscus Szowlis 67
+l32	row	ux Barbara 30
+l33	row	filius Joseph 8
+l34	row	Rosalia Melinis 20
+l35	row	14 Herus Mariana Jasutis vd 50
+l36	row	filius Joseph 17
+l37	row	II Franciscus 15
+l38	row	III Clemens 10
+l39	row	filia Apolonia 8
+l40	page-number	67
+l41	row	b) Antonius Tomaszewski 61
+l42	row	ux Eleonora 55
+l43	row	filius Clemens 25
+l44	row	II Casimirus 21
+l45	row	filia Anna 25
+l46	row	Constantinus Marcinkus
+l47	wrapped	20
+l48	row	Petrus Kweders c 43
+l49	row	Joseph Kaziulis 10
+l50	row	15 Herus Thaddeus Beniuszys 33
+l51	row	ux Anna 27
+l52	row	filius Dominicus 8
+l53	row	II Joannes 5
+l54	row	III  Casimirus 1
+l55	row	filia Anna 6
+l56	row	II Ursula 4
+l57	row	Casimirus Beniuszys 64
+l58	row	ux Barbara 30
+l59	row	Juliana Nostis 34
+l60	row	filius Stanislaus 4
+l61	row	Helena Piotrowska vgo 35
+l62	row	16 Herus Joseph Waliszewski 40
+l63	row	ux Paulina 25
+l64	row	filia Monica 3
+l65	row	II Susanna 1
+l66	row	Juljana Dowejko 13
+l67	row	Angela Nauduzas 11
+l68	row	Susanna Nauduzas 15
+l69	row	Mariana Nauduzas 12
+l70	row	Barbara Bagdoniene vd
+l71	wrapped	81
+l72	row	17 Franciscus Nauduzas 63
+l73	row	ux Anna 44
+l74	row	filius Franciscus 3
+l75	row	b) Michael Mikłoszius 30
+l76	row	ux Ursula 30
+l77	row	filiae Leokadia 3
+l78	row	II Marianna 2
+l79	row	18 Herus Joseph Dowejko 38
+l80	row	uxor Magdalena 50
+l81	row	filius Constantinus 10

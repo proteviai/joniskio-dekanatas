@@ -1,0 +1,72 @@
+# skenas = 0062
+# busena = ok
+# eScriptorium = dok. 3, 0062 baigta [segReady]
+l1	row	10.- Liudovicus Szerius - 60an
+l2	row	ux. Marianna - 50an
+l3	row	Josephus - 20an
+l4	row	Marianna - 17an
+l5	row	11.- Franciscus Rimejko - 76an
+l6	row	ux. Liudovica - 40an
+l7	row	12.- Silvester Jakovicz - 40an
+l8	row	ux. Magdalena - 50an
+l9	row	filia Francisca - 9an
+l10	row	soror - Ursula Navakautskienie - 56an
+l11	row	13.- Joannes Sztipals - 50an
+l12	row	ux. Petronella - 50an
+l13	row	filia - Marianna - 20an
+l14	row	Agatha - 12an
+l15	row	apud herus a)- Victoria Dvelicze - 50an
+l16	row	filia Casimira - 11an
+l17	row	b) Paulina Bambalicze - 19an
+l18	row	c) Liudovica Giedienie - 70an
+l19	note-above	Jarienie
+l20	row	filia Marianna- 30an
+l21	row	filia Joanna - 5an
+l22	row	1-) Mathias Borgavanskis 60an
+l23	row	ux. Apalonia - 50an
+l24	row	filius Liudovicus - 27an
+l25	row	Josephus - 17an
+l26	note-above	herus
+l27	row	2.- Caesarius Vilkicki - 30an
+l28	row	frater. Vitoldus - 23an
+l29	row	soror Monica - 18an
+l30	row	famulus- Petrus Varonovicz - 24an
+l31	row	Carolina Varonovicz - 20an
+l32	row	Antonina Michkievicz - 23an
+l33	row	Theresa Keturakicze - 60an
+l34	row	filia Anna - 14an
+l35	row	Alexander Żemeckas - 13an
+l36	page-number	60
+l37	row	Żadejkelei
+l38	row	Julianus Jodejko - 35an
+l39	row	Stephanus Romaszevski - 20an
+l40	row	Franciscus Urmons - 12an
+l41	row	Barbara Glosnicze - 19an
+l42	row	Barbara Romaszaucicze - 13an
+l43	row	Marianna Daniskicze - 20an
+l44	row	Grażajczej.-
+l45	row	1) Julianus Milaszevicz - 33an
+l46	row	ux Anna - 30an
+l47	row	filia Amelia - 4an
+l48	row	Francisca - 2an
+l49	row	mater. Anna Gurskienie - 70an
+l50	row	2.) Casimirus Valis - 40an
+l51	row	ux. Barbara - 30an
+l52	row	filius - Casimirus - 13an
+l53	row	Julianus - 12an
+l54	row	Benedictus - 9an
+l55	row	Stanislaus - 3an
+l56	row	Petrus - 2an
+l57	row	Francisca - 6an
+l58	row	3.) Benedictus Valis - 33an
+l59	row	ux. Agnes - 30an
+l60	row	filia Benedictus - 3an
+l61	row	Josephata - 3an
+l62	row	4) Vincentius Szakinszas - 54an
+l63	row	ux. Eleonora - 35an
+l64	row	filius Josephus - 13an
+l65	row	Vladislaus - 10an
+l66	row	Benedictus - 8an
+l67	row	Eleonora - 5an
+l68	row	Agnes - 1an
+l69	row	Anna - 17an

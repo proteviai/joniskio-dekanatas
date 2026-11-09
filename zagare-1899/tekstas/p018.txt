@@ -1,0 +1,75 @@
+# skenas = 0018
+# busena = ok
+# eScriptorium = dok. 2, 
+l1	row	20. Dominicus Stankus - 48an
+l2	row	ux. Barbara - 37an
+l3	row	filius Julianus - 12an
+l4	row	— Barbara - 15an.
+l5	row	— Justina - 11an.
+l6	row	— Anna - 8an
+l7	row	frater Josephus - 50an
+l8	row	21. Dec. Thadeus Kupszas - 40an.
+l9	row	ux. Anna - 35an
+l10	row	filia - Marianna - 13an.
+l11	row	— Anna - 8an
+l12	row	— Zuzanna - 5an
+l13	row	— Barbara - 3an
+l14	row	pater Josephus Drigotas - 70an
+l15	row	fam. Helena Kumpis - 20an
+l16	row	hab. Barbara Nobażinskicze - 70an
+l17	row	Anna Eniszautskienie - 30an
+l18	row	Gimbuczej
+l19	row	1) Antonius Janovicz - 90an
+l20	row	ux. Anna - 60an
+l21	row	2). Joannes Gatulis - 32an
+l22	row	ux. Theodora - 28an
+l23	row	filius Joannes - 4an
+l24	row	— Stephanus - 2an
+l25	row	3.- Casimirus Czepa - 36an
+l26	row	ux. Barbara - 30an
+l27	row	filius - Thadeus - 6an
+l28	row	— Marianna - 8an
+l29	row	4.- Joannes Diokas - 70an
+l30	row	ux. Magdalena - 50an
+l31	row	filia - Barbara - 22an
+l32	row	filia Zuzanna - 1an
+l33	page-number	16
+l34	row	vid.
+l35	row	5.- herus Alexander Valunczius - 89an
+l36	row	filius Alexander - 22an
+l37	row	— Joannes - 17
+l38	row	— Josephus - 18 -
+l39	row	— Marcianus - 12
+l40	row	— Clemens - 6
+l41	row	— Joanna - 8
+l42	row	— Monica - 19
+l43	row	fam. Lucia Junkievicz - 20an
+l44	row	hab. Anna Palecka - 70an
+l45	row	pater Marcianuis Galkus - 70an
+l46	row	— Barbara Pakstienie - 50an
+l47	row	6.- Paulus Matijaitis - 50an
+l48	row	ux. Anna - 32an
+l49	row	filius Vladislaus - 3an
+l50	row	— Joanna - 10an
+l51	row	— Francisca - 8an
+l52	row	fam. Antonius Szkarajtis - 30an
+l53	row	— Alexander Kriscziunas - 24an
+l54	row	— Anna Dargużas - 20an
+l55	row	— Anna Ramunicze - 13an
+l56	row	a)- Rosalia Diokienie - 70an
+l57	row	7.- Casimirus Jankovski - 39an
+l58	row	ux. Monica - 20an
+l59	row	fam. Franciscus Pauga - 22.
+l60	row	— Casimirus Adomajtis - 19an
+l61	row	— Catherina Adomajtis - 20an
+l62	row	8.- vid. Marianna Geistarienie - 40an
+l63	row	filius - Antonina - 6an
+l64	row	9. Vincentius Lukszo - 32an
+l65	row	ux. Barbara - 24an
+l66	row	filia Amelia - 2an
+l67	row	pater. Casimirus Banis - 64an
+l68	row	famulus Marcianus Tovtvoisz - 26an
+l69	row	— Julianus Szliaupas - 9
+l70	row	— Zuzanna Paterabas - 26an
+l71	row	— Ursula Mickisce - 35an
+l72	row	— Alexandrina Matijaiticse - 13an

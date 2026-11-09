@@ -1,0 +1,66 @@
+# skenas = 0105
+# busena = mach
+# eScriptorium = dok. 3, 0105 klausimai [segReady seg8a]
+l1	row	4 Josephus Kurszinskas 40an
+l2	row	ux Helena 35an
+l3	row	filius Casimirus 17an
+l4	row	Leo 13an
+l5	row	Joannes 9an
+l6	row	Zuzanna 14an
+l7	row	Apalonia 2
+l8	row	a Helena Czechanauckienie 50an
+l9	row	filius Josephs? 35an
+l10	row	Apalonia 23an
+l11	row	5 Vincentius Bertelis 35an
+l12	row	ux Helena 35an
+l13	row	filius Vincentius 14an
+l14	row	Joannes 6an
+l15	row	Casimirus 3an
+l16	row	Barbara 18an
+l17	row	Apalonia 1an
+l18	row	Juliana 12an
+l19	row	herendenaj Josephus Ornezius 50an
+l20	row	ux Eleonra? 40an
+l21	row	filius Adamus 14an
+l22	row	Josephus 9an
+l23	row	Franciscus 5an
+l24	row	6 Franciszek? Madestovicz 43an
+l25	row	ux Liudovica 35an
+l26	row	filius Andrejus 7an
+l27	row	Caesarius 3an
+l28	row	Stanislava 6an
+l29	row	7 Josephus Kubinas 37an
+l30	row	ux Helena 40an
+l31	row	filia Paulina 12an
+l32	page-number	103
+l33	row	8 Jespar Virbicki 58an
+l34	row	ux Barbara 50an
+l35	row	filius Apolinarius 22an
+l36	row	Antonius 19an
+l37	row	Juliana 25an
+l38	row	Joanna 15an
+l39	row	mater Barbara Virbicki 80an
+l40	row	9 Casimirus Egirdas 42an
+l41	row	ux Agatha 35an
+l42	row	filia Anna 8an
+l43	row	mater Anna Ulinckienie 80an
+l44	row	a Josephus Jonuszas 30an
+l45	row	ux Barbara 26an
+l46	row	filia Marianna 5an
+l47	row	Amelia 1an
+l48	row	c Stephanus Biczunas 60an
+l49	row	ux Marianna 70an
+l50	row	filia Antonina 24an
+l51	row	a Thomas Gasparajtis 60an
+l52	row	ux Helena 50an
+l53	row	filia Barbara 22an
+l54	row	a Marianna Kacziuszkicze 50an
+l55	row	11 Casimirus Andrykajtis 60an
+l56	row	ux Helena 73an
+l57	row	filia Adamus Tovars 41an
+l58	row	ux Angela 32an
+l59	row	c Casimirus Kardajtis 26an
+l60	row	ux Anna 26an
+l61	row	filius Josephus 3an
+l62	row	Sophia 1an
+l63	row	d Eleonora Ulinckicze 4?

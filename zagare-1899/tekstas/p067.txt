@@ -1,0 +1,92 @@
+# skenas = 0067
+# busena = ok
+# eScriptorium = dok. 3, 0067 baigta [segGT auto1]
+l1	row	b) Casimirus Łabanowski
+l2	wrapped	35
+l3	row	ux Anna 30
+l4	row	filius Casimirus 6
+l5	row	II Antonius 4
+l6	row	III Vincentius 2
+l7	row	Barbara Kupszas vd
+l8	wrapped	71
+l9	row	6 Joannes Kasiulis 48
+l10	row	ux Helena 32
+l11	row	filius Silvester 14
+l12	row	II Casimirus 10
+l13	row	III Bonaventura 7
+l14	row	filiae Antonina 12
+l15	row	II Susanna 3
+l16	row	III Joanna 1
+l17	row	7 Joseph Birutis 60
+l18	row	ux Ursula 50
+l19	row	filius Joseph 14
+l20	row	filia Mariana 15
+l21	row	8 Casimirus Gorski 46
+l22	margin-note	Deca
+l23	margin-note	nus
+l24	row	ux Juljanna 34
+l25	row	2 Barbora Wajtiekuniene 68
+l26	wrapped	vd
+l27	wrapped	uxoris mater
+l28	row	9 Alexandr Luberski 66
+l29	row	ux Helena 60
+l30	row	filius Dominicus 27
+l31	row	ux Anna 25
+l32	row	b Alexander Dejmentas 31
+l33	row	ux Barbara 30
+l34	row	filia Heva 6
+l35	row	II Susanna 5
+l36	row	III Amelia 2
+l37	row	10 Joseph Donielkis 61
+l38	row	ux Elisabeth 50
+l39	row	filius Stanislaus 13
+l40	row	filia Antonina 6
+l41	row	II Joanna 3
+l42	row	11 Augustinus Melis 63
+l43	row	ux Eleonora 60
+l44	row	filius Joannes 30
+l45	page-number	65
+l46	row	II Antonius 27
+l47	row	III Michael 25
+l48	wrapped	apud Kentowie
+l49	row	IV Michael 21
+l50	row	filia Anna 19
+l51	row	12 Joseph Żygulis 70
+l52	row	ux Helena 64
+l53	row	filius Paulus 28
+l54	row	filia Helena 20
+l55	row	13 Joannes Rudovski 60
+l56	row	ux Ursula 50
+l57	row	filius Joannes 20
+l58	row	II Vincentius 11
+l59	row	III Michael 6
+l60	row	filia Anna 2
+l61	row	b Dominicus Luberski 29
+l62	row	ux Anna 25
+l63	row	filia Anna 3
+l64	row	II Susanna 1
+l65	row	14 Joseph Berżynis 51
+l66	row	ux Hera 50
+l67	row	filius Joannes 22
+l68	row	II Casimirus 14
+l69	row	filia Juljanna 9
+l70	row	15 Stephanus Szolkowski 35
+l71	margin-note	accu
+l72	margin-note	sav
+l73	row	Barbora Helena 38
+l74	row	filius Stephanus 12
+l75	row	II Joseph 8
+l76	margin-note	Zachara.
+l77	row	filiae Barbara 16
+l78	row	II Anna 13
+l79	row	III Juljanna 4
+l80	row	16 Joannes Zacharewski 26
+l81	row	ux Helena 25
+l82	row	17 Casimirus Rakicki 40
+l83	row	ux Monica 28
+l84	row	filius Clemens 3
+l85	row	II Apolonia 1
+l86	row	18 Marcianus Pauksztis 70
+l87	row	ux Helena 64
+l88	row	filius Joannes 39
+l89	row	filia Elisabeth 30

@@ -1,0 +1,75 @@
+# skenas = 0074
+# busena = ok
+# eScriptorium = dok. 3, 0074 baigta [segGT auto1]
+l1	row	filia Angela 20
+l2	row	13 Herus Jonnes Żemiepatis
+l3	wrapped	38
+l4	row	ux Agnes 25
+l5	row	filius Joseph 4
+l6	row	II Franciscus 1
+l7	row	Anna Skiparas 23
+l8	row	Simon Dowidajtis 13
+l9	row	Joseph Nagiewicz 14
+l10	row	Stephanus Zemiepatis
+l11	wrapped	vd 63
+l12	row	14 Alexander Kudulis 37
+l13	row	ux Catharina 23
+l14	row	filiae Francisca 4
+l15	row	II Anna 1
+l16	row	b) Joannes Zemiepatis 40
+l17	row	ux Juljana 24
+l18	row	filius Casimirus 1
+l19	row	15 Herus Joseph Sargiuns 45
+l20	row	ux Barbara 46
+l21	row	filius Clemens 19
+l22	row	II Joseph 18
+l23	row	filiae Helena 17
+l24	row	II Apolonia 16
+l25	row	Amelia Kowiera 18
+l26	row	16 Herus Casimirus Wenckus
+l27	wrapped	61
+l28	row	ux. Magdalena 61
+l29	row	filius Casimirus c 30
+l30	row	II Thaddeus ~~c~~ 26
+l31	row	famula Amelia Szutkus 13
+l32	row	17 Isodorus Wilczewski 46
+l33	row	ux Barbara 42
+l34	row	filius Franciscus 8
+l35	row	II Isodorus 3
+l36	row	III Ladislaus 3
+l37	row	filia Anna 6
+l38	page-number	72
+l39	row	18 Casimieras Lukevski
+l40	wrapped	48
+l41	row	ux Juljana 31
+l42	row	filius Juljanus 2
+l43	row	filiae Susanna 8
+l44	row	II Anna 2
+l45	row	b Antonius Luberski 40
+l46	row	ux Ursula 30
+l47	row	filia Juljana 15
+l48	row	c) Barbara Szołkowska vd 40
+l49	row	filia Juljanna 10
+l50	wrapped	nihil scit
+l51	row	Franciscus Rudomius c 40
+l52	row	19 Casimirus Lubevski 40
+l53	row	uxor Anna 25
+l54	row	20 Georgius Andrykajtis 70
+l55	row	ux Eleonora 60
+l56	row	fil Georgius 30
+l57	row	II Vincentius 22
+l58	row	III Clemens 18
+l59	row	21 Casimirus Sargiuns 50
+l60	row	ux Helena 46
+l61	row	filius Joannes 9
+l62	row	22 Joannes Naginis 56
+l63	row	ux Helena 46
+l64	row	filia Susanna 7
+l65	row	Eleonora Nagis vgo 50
+l66	row	23 Herus Joseph Morkelis 44
+l67	row	ux Juljana 24
+l68	row	filiae Joseph 6
+l69	row	II Casimirus 1
+l70	row	Joseph Kulwieris 19
+l71	row	Joannes Kulwieris 13
+l72	row	Helena Gasperajtis 20

@@ -1,0 +1,68 @@
+# skenas = 0017
+# busena = ok
+# eScriptorium = dok. 2, 
+l1	row	mater Anna 75an
+l2	row	famulus Joannes Zadejkis 19an
+l3	row	— Antonius Cziczinskas - 12an
+l4	row	— Marciana Gaudeszajte - 18an
+l5	row	hab. Domicella Baleziunienie - 65an
+l6	row	10.- Josephus Povilaitis - 40an
+l7	row	ux. Anna 35an
+l8	row	filius Joannes 13an
+l9	row	— Julianus 9an
+l10	row	— Josephus 15.
+l11	row	— Casimirus 3an
+l12	row	— Apolonia 10an
+l13	row	famula Helena Niprikiczej - 17an
+l14	row	hab. Marianna Balcziunienie - 70an
+l15	row	11.- Casimirus Jaras - 45an
+l16	row	frater Vincentius - 25an
+l17	row	— Georgius 22an
+l18	row	famula Zuzanna Szymajticze - 20an
+l19	row	— Anna Cziczinskicze - 13an.
+l20	row	12.- Josephus Alsis 27an
+l21	row	mater Barbara 40an
+l22	row	filia Barbara 20an
+l23	row	Vincentius Dirvicki 16an
+l24	row	Helena Dirvicki 15an
+l25	row	Joannes Alsis 21an
+l26	row	13.- Josephus Norvaisz 45an
+l27	row	ux. Eleonora 32an
+l28	row	filius Josephus 1an
+l29	row	— Anna 3an.
+l30	row	14.- Josephus Bujvidas - 35an
+l31	row	ux. Elizabeth - 30an
+l32	row	hab. Catherina Vajtiekunicze - 85an
+l33	row	15
+l34	row	15.- Casimirus Tupicas 40an
+l35	row	ux. Juliana 35an
+l36	row	filius Joannes 14an
+l37	row	— Stanislaus 1an
+l38	row	— Anna 14an
+l39	row	— Helena 12
+l40	row	— Marta 7an
+l41	row	— Lucia 4
+l42	row	— Alexandra - 2
+l43	row	Michael Kuzmicki - 50an
+l44	row	16.- Manop. Domicella 40an
+l45	row	soror Vincentia Gulbin - 70an
+l46	row	17.- Antonius Cziczinskas - 45an
+l47	row	ux. Magdalena 30an
+l48	row	filius Josephus 3an
+l49	row	— Antonius 1an
+l50	row	hab. Helena Orlovska 40an
+l51	row	18.- Franciscus Vaitiekunas 40an
+l52	row	ux. Barbara 23an
+l53	row	filia Marianna 1an
+l54	row	hab. Marianna Vajcziulicze - 40an
+l55	row	filius Casimirus 16an
+l56	row	19. Michael Kavalevski - 45an
+l57	row	ux. Stephania 30an
+l58	row	filius Stanislaus 9an
+l59	row	— Vladislaus 6an
+l60	row	— Josephus 4an
+l61	row	— Constantinus 1an
+l62	row	— Michalina 11an
+l63	row	— Joanna 8an
+l64	row	— Casimira 4an
+l65	row	— Thecla 2an

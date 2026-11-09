@@ -1,0 +1,80 @@
+# skenas = 0055
+# busena = ok
+# eScriptorium = dok. 3, 0055 baigta [segReady auto1]
+l1	row	Pjaune
+l2	row	1 Marcianus Rakutis c 38
+l3	row	Pater Michael Rakutis 76
+l4	row	ux Ursula 74
+l5	row	2 Joseph Klewas vd 86
+l6	row	Christina Stulpinska vgo 50
+l7	row	3 Apolonia Romaszewska vd
+l8	wrapped	34
+l9	row	filius Dominicus 2
+l10	row	Eleonora Romaszewska vd 61
+l11	row	Alexander Szymkajtis 15
+l12	row	4 Adolphus Skrypkus 27
+l13	row	ux Barbara 28
+l14	row	Barbara Skrypkus vd 71
+l15	row	Anna Gierykas vd 45
+l16	row	filius Joseph 12
+l17	row	5 Barbara Szymkajtis vd 46
+l18	row	filius Casimirus 17
+l19	row	filiae Anna 11
+l20	row	II Apolonia 7
+l21	row	Barbara Szymkajtis vd 71
+l22	row	6 Joannes Lekas 38
+l23	row	ux Martha 35
+l24	row	filius Joannes 7
+l25	row	II Joseph 4
+l26	row	filia Anna 2
+l27	row	Joseph Lekas 65
+l28	row	ux Carolina 40
+l29	row	Suzanna Lekas vgo 20
+l30	row	7
+l31	row	Joseph Norwajsz 28
+l32	row	ux Magdalena 19
+l33	row	Casimirus Norwajsz 85
+l34	row	ux Mariana 70
+l35	row	8 Casper Norwajsz 50
+l36	row	ux Helena 37
+l37	row	filius Joannes 6
+l38	row	filiae Juljana 10
+l39	page-number	53
+l40	row	9 Anastazya Norwajsz vd 60
+l41	row	filius Dominicus c 28
+l42	row	10 Elina Frischenbruder 30
+l43	row	Mola
+l44	row	conjacenth
+l45	row	filia Juljanna 4
+l46	row	Susanna Lekas 20
+l47	row	Thaddeus Urbonas 15
+l48	row	Żuczej
+l49	row	1 Barbara Gasperajtis vd 50
+l50	row	filius Casimirus 11
+l51	row	2 Eleonora Adomajtis vd 49
+l52	row	Elisabeth Jurgajtis vd 61
+l53	row	3 Herus Joseph Kajkaris 60
+l54	note-below	vd
+l55	row	filius Joseph c 28
+l56	row	filiae Juljanna 21
+l57	row	II Monica 20
+l58	row	Monica Raudis 11
+l59	row	Thaddeus Vajczulis 20
+l60	row	Amelia Sawicka 13
+l61	row	4 Herus Joseph (M) Jodejkis 70
+l62	note-below	vd
+l63	row	filius Joseph 25
+l64	row	filiae Mariana 26
+l65	row	II Monica 28
+l66	row	Juljanna Barba 7
+l67	row	(Jos) Franciscus Meszka 28
+l68	row	Constantinus Żemiepatis
+l69	wrapped	17
+l70	row	5 Herus ~~L~~ Joannes Użkurajtis 55
+l71	row	ux Mater: Rosalia 45
+l72	row	filius Eduardus 26
+l73	row	II Joannes 23
+l74	row	III Ignatius 21
+l75	row	IV Thadeus 17
+l76	row	V Stanislaus 4
+l77	row	filiae Angela 24

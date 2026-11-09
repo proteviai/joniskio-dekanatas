@@ -1,0 +1,81 @@
+# skenas = 0026
+# busena = ok
+# eScriptorium = dok. 2, 
+l1	row	Elisabeth Kweders vgo 35.
+l2	row	Barbara Kwedas vd 80.
+l3	row	Joseph Wejkałs 49.
+l4	row	Clemens Kwederas c. 22.
+l5	row	12 Herus Joseph Jurgielis 60
+l6	row	ux. Barbara 40.
+l7	row	filius Joseph 21.
+l8	row	II. Casimirus 19.
+l9	row	III. Alexander 14.
+l10	row	IV. Leo 2.
+l11	row	filia Francisca 9.
+l12	row	Anna Jurgiełis vgo 40
+l13	row	13. Herus Ignacius Kipszas 54.
+l14	row	ux. Barbara 40.
+l15	row	filius Ignatius 11.
+l16	row	filiae Juljanna 20.
+l17	row	in Żagari
+l18	row	II. Barbara 17.
+l19	row	III. Susanna 14.
+l20	row	Parentes Matheus Kipszas 85.
+l21	row	ux. Anna 54.
+l22	row	Casimirus Petrutis 30.
+l23	row	ateus
+l24	row	Barbara Kwadericze  12.
+l25	row	Helena Kipszas 40.
+l26	row	14 Thaddeus Wejkałs 30.
+l27	row	ux. (Bo) Anna - 21.
+l28	row	filia Alexandrina - 1.
+l29	row	Juljanna Wejkals vgo 26
+l30	row	Barbara Wajkals 17.
+l31	row	Anna Wejkals 14.
+l32	row	Casimirus Wejkałs c 24.
+l33	row	Anna Wejkałs vd 71.
+l34	row	15. Marcianus Wejkałs 48.
+l35	row	ux. Marianna 45.
+l36	row	filius Joseph 18.
+l37	row	II. Marcianus 6.
+l38	row	filia Helena 17
+l39	row	II. Marianna 8.
+l40	page-number	24
+l41	row	6) Ludovicus Daranka 21.
+l42	row	ux. Monica 20.
+l43	row	Anna Daranka vid. 70.
+l44	row	16. Elisabeth Wejkals 40.
+l45	row	vid.
+l46	row	filius Clemens - 19.
+l47	row	II. Alexander 13.
+l48	row	III filia Eleonora - 16.
+l49	row	17. Herus Franciscus Plikis
+l50	row	c.  36
+l51	row	Mater Magdalena Plikis vd. 61.
+l52	row	filii Alexander c. - 34
+l53	row	18. II. Thaddeus c. 38.
+l54	row	ux. Martha - 31.
+l55	row	filii Tadeus -9.
+l56	row	II. Alexander - 7.
+l57	row	filia Marianna 3.
+l58	row	II. Casimira 1.
+l59	row	Alexander Tomaszevski - 17.
+l60	row	Ludovicus Słaczewski - 14.
+l61	row	Eleonora Kwedericz 23
+l62	row	vgo
+l63	row	Agnes Predajtiene vd. 76.
+l64	row	19 Her Dec. Marcianus Jurewicz
+l65	row	67
+l66	row	ux. Veronica 56
+l67	row	filius Casimirus c. 23.
+l68	row	II. Joseph 21.
+l69	row	III. Joannes 19.
+l70	row	filia Barbara 17.
+l71	row	Teresia Brozylis vgo 19.
+l72	row	Helena Czyżas 14.
+l73	row	Benedictus Janiszkis c. 34.
+l74	row	Dominicus Daunis c. - 22.
+l75	row	20. Herus Dominicus Pawłowski - 45
+l76	row	ux. Helena 40.
+l77	row	filius Dominicus 25.
+l78	row	II. Casimirus 14.
