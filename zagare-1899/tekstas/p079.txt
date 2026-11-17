@@ -1,6 +1,6 @@
 # skenas = 0079
-# busena = mach
-# eScriptorium = dok. 3, 0079 klausimai [segReady auto1]
+# busena = ok
+# eScriptorium = dok. 3, 0079 baigta [segReady auto1]
 l1	row	5 Josephus Mituzas 34an
 l2	row	ux Zuzanna 25an
 l3	row	filius Alexander 1an

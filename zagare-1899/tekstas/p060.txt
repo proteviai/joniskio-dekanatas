@@ -1,6 +1,6 @@
 # skenas = 0060
-# busena = mach
-# eScriptorium = dok. 3, 0060 paruošta [segGT auto1]
+# busena = ok
+# eScriptorium = dok. 3, 0060 baigta [segGT auto1]
 l1	row	28 herus Joannes Szliażas 30an
 l2	row	ux Juliana 30an
 l3	row	filia Apalonia 12an

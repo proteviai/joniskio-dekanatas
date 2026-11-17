@@ -1,6 +1,6 @@
 # skenas = 0073
-# busena = mach
-# eScriptorium = dok. 3, 0073 klausimai [segReady auto1]
+# busena = ok
+# eScriptorium = dok. 3, 0073 baigta
 l1	row	Joseph Wajtiekajtis conj 30
 l2	row	Barbara Burba 18
 l3	row	Juljanna Naudużas 15
@@ -17,7 +17,7 @@ l13	row	filia Susanna 3
 l14	row	II Juljana 1
 l15	row	Matheus Gałkus 57
 l16	row	ux Elisabeth 50
-l17	row	3 Ursula Luberska vd 48
+l17	row	3 Ursula Zuberska vd 48
 l18	row	4 Franciscus Kaczynski 65
 l19	row	ux Magdalena 64
 l20	row	5 Herus Joannes Lubevski 63
@@ -28,7 +28,7 @@ l24	row	filia Ludovica 4
 l25	row	II Helena 19
 l26	row	Ludovica Lubevska 4
 l27	row	Antonius Lubevski 13
-l28	row	6 c Michael Lubeski c 34
+l28	row	6 c Michael Lubezki c 34
 l29	row	mater Elisabeth vd 60
 l30	row	Amelia Adejkis 16
 l31	row	7 Herus Franciscus Lubevski

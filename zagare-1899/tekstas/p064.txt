@@ -1,6 +1,6 @@
 # skenas = 0064
-# busena = mach
-# eScriptorium = dok. 3, 0064 klausimai [segReady auto1]
+# busena = ok
+# eScriptorium = dok. 3, 0064 baigta [segReady auto1]
 l1	row	16 Vincentius Pampars 48an
 l2	row	ux Anna 50an
 l3	row	filius Joannes 13an
@@ -68,5 +68,5 @@ l64	row	ux Marianna 55an
 l65	row	filius Joannes 15an
 l66	row	Michael 8an
 l67	row	Marianna 17an
-l68	row	Barbara 4an
+l68	row	Barbar 11an
 l69	page-number	62

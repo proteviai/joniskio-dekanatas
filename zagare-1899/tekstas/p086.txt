@@ -1,6 +1,6 @@
 # skenas = 0086
-# busena = mach
-# eScriptorium = dok. 3, 0086 klausimai [segReady auto1]
+# busena = ok
+# eScriptorium = dok. 3, 0086 baigta [segReady auto1]
 l1	row	13 Joannes Bertulis 50an
 l2	row	ux Barbara 45an
 l3	row	filius Benedictus 4an
@@ -26,13 +26,13 @@ l22	row	a Eleonora Balcziunienie 40an
 l23	row	filius Antonius 7an
 l24	row	17 herus Vincentius Ogialla 39an
 l25	row	ux Marianna 35an
-l26	row	filius Casimirus Kajkaris 19an
+l26	row	filius Casimirus Cajkaris 19an
 l27	row	Joannes 13an
-l28	row	Benedictus Ogialla 1an
+l28	row	Benedictus Ogiałła 1an
 l29	row	Marianna Kajkaricze 20an
 l30	row	Monica 14an
 l31	row	Agnes 13an
-l32	row	Zuzanna 3an
+l32	row	Zuzanna 9an
 l33	row	filia Anna Ogialicze 20an
 l34	row	18 Rochus Bertulis 85an
 l35	row	ux Marianna 76an
@@ -56,7 +56,7 @@ l52	row	famulus Joannes Parażinski 20an
 l53	row	Benedictus Adomajtis 10an
 l54	row	Juliana Stabrauckicze 10an
 l55	row	Barbara Kriaucziunicze 25an
-l56	note-above	herm
+l56	note-above	herus
 l57	row	22 Alexander Bicziusz 45an
 l58	row	ux Barbara 35an
 l59	row	filius Thadeus 12an

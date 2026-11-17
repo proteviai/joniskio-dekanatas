@@ -1,19 +1,19 @@
 # skenas = 0104
-# busena = mach
-# eScriptorium = dok. 3, 0104 klausimai [segReady seg8a]
+# busena = ok
+# eScriptorium = dok. 3, 0104 baigta
 l1	row	24 Vincentius Tortrojsz 30an
 l2	row	ux Martha 30an
 l3	row	filia Sophia 1an
 l4	row	a Josephus Kudelis 32an
 l5	row	ux Antonina 33an
 l6	row	filius Franciscus 2an
-l7	row	Antmine? 4an
-l8	row	b) Apalonia Torstojnienie 42an
+l7	row	Antonina 4an
+l8	row	b) Apalonia Tovtvojszienie 47an
 l9	row	filius Alexander 8an
 l10	row	Cleophasa 7an
 l11	row	c Stanislaus Tortrojsz 27an
 l12	row	Soror Zuzanna 22an
-l13	row	d) Helena Janinienie 29an
+l13	row	d) Helena Jasiunienie 29an
 l14	row	filius Stanislaus 3an
 l15	row	25 Apolinarius Martiszewski 62an
 l16	row	frater Franciscus 60an
@@ -23,17 +23,17 @@ l19	row	a Antonius Oginskis 39an
 l20	row	ux Anna 28an
 l21	row	filia Helena 1an
 l22	row	c) Anna Szutkicze 50an
-l23	row	d) Barbara ?ienie 50an
-l24	row	27. Joannes Stianski 67an
+l23	row	d) Barbara Matuzienie 50an
+l24	row	27. Joannes Ibianski 67an
 l25	row	ux Anna 45an
 l26	row	filius Boneventura 9an
 l27	page-number	102
 l28	row	a) Joannes Raizgis 33an
 l29	row	ux Anna 21an
-l30	row	b) Constantia Jvonkienie 53an
+l30	row	b) Constantia Ivoszkienie 53an
 l31	row	c) Barbara Petrutienie 70an
-l32	row	Pauksscsiu? ul
-l33	row	b) Joannes Petrilla 43an
+l32	row	Paukszcziu ul.
+l33	row	1) Joannes Petrilla 43an
 l34	row	ux Helena 40an
 l35	row	filius Julianus 14an
 l36	row	Lucia 11an

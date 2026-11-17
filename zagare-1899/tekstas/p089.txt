@@ -1,6 +1,6 @@
 # skenas = 0089
-# busena = mach
-# eScriptorium = dok. 3, 0089 klausimai [segReady auto1]
+# busena = ok
+# eScriptorium = dok. 3, 0089 baigta [segReady auto1]
 l1	row	42 Casimirus Biczius 36an
 l2	row	ux Rozalia 27an
 l3	row	mater Veronica 60an
@@ -9,7 +9,7 @@ l5	row	ux Barbara 42an
 l6	row	filius Dominicus 15an
 l7	row	Josephus 6an
 l8	row	Helena 4an
-l9	row	famulus Alexander Dabriszka 76an
+l9	row	famulus Alexander Dabriszka 70an
 l10	row	Martha Mickicze 22an
 l11	row	44 Herus Benedictus Doczkus 38an
 l12	row	ux Juliana 28an
@@ -42,28 +42,28 @@ l38	row	a Barbara Liebajtienie 80an
 l39	row	Eleonora Biczicze 30an
 l40	row	Ludovicus Villimas 40an
 l41	row	Szwetpol
-l42	row	1 Augzoli? b Aloizius Klaupszas 38an
-l43	note-below	u76an
+l42	row	1. Wagzolik: Aloisius Klaupszas 38
+l43	note-below	arigu
 l44	row	ux Barbara 28
 l45	row	filia Ludovica 6
-l46	row	Martha Bartosius 17
+l46	row	Martha Bartaszius 17
 l47	row	2 Joannes Sora 40
-l48	note-below	Jatja?
+l48	note-below	Jauja
 l49	row	ux Juljana 35
 l50	row	filius Joseph 11
 l51	row	II Joannes 9
 l52	row	3 Ignatius Kipszas 53
 l53	row	ux Juljana 42
-l54	note-below	faeris
+l54	note-below	nakasza
 l55	note-below	in
-l56	row	filius Jenia? Juus 22an
+l56	row	filius Ignatius 22
 l57	row	filia Angela 15
 l58	row	Benedicta Szeperska vd 61
 l59	row	b auriga Franciscus Kalendarz 51an
-l60	note-below	4eds
-l61	note-below	fa hemuso
+l60	note-below	po
+l61	note-below	pa Kosc. 50
 l62	row	ux Anna 28
-l63	row	Heva Bujvidis virgo 19
+l63	row	Heva Bujwidis virgo 19
 l64	row	a mater Helena vid 62
 l65	row	c Joannes Dowejka 39
 l66	row	ux Marianna 36

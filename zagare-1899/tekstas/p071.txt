@@ -48,7 +48,7 @@ l44	row	II Barbara 12
 l45	row	Anna Nowogrodzka 43
 l46	row	Casimirus Melis 56
 l47	row	ux Barbara 54
-l48	row	10 Semher Benedictus Melis 56
+l48	row	10 Semher: Benedictus Melis 56
 l49	row	ux Catharina 52
 l50	row	filius Joannes 29
 l51	row	II Vincentius 27

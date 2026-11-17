@@ -1,6 +1,6 @@
 # skenas = 0063
-# busena = mach
-# eScriptorium = dok. 3, 0063 atsakyta [segReady auto1]
+# busena = ok
+# eScriptorium = dok. 3, 0063 baigta
 l1	row	5 Marcianus Valis 40an
 l2	row	ux Marianna 28an
 l3	row	filia Apalonia 2an
@@ -43,7 +43,7 @@ l39	row	ux Magdalena 50an
 l40	row	filius Joannes 21an
 l41	row	famulus Antonius Jankovsk. 23an
 l42	row	Martha Gumauskajtie 18an
-l43	note-above	vir liguni?s per
+l43	note-above	vir liquit per.
 l44	row	Helena Pilkienie 24an
 l45	row	filius Josephus 7an
 l46	row	Francisca 3an

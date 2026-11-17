@@ -1,6 +1,6 @@
 # skenas = 0121
-# busena = mach
-# eScriptorium = dok. 3, 0121 klausimai [segReady seg8a]
+# busena = ok
+# eScriptorium = dok. 3, 0121 baigta
 l1	row	a) Casimirus Codżius 30an
 l2	row	ux Apalonia 22an
 l3	row	b) Marcianus Tumins 40an

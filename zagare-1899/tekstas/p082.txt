@@ -1,6 +1,6 @@
 # skenas = 0082
-# busena = mach
-# eScriptorium = dok. 3, 0082 klausimai [segReady auto1]
+# busena = ok
+# eScriptorium = dok. 3, 0082 baigta [segReady auto1]
 l1	row	30 Marcianus Mikolajtis 50an
 l2	row	ux Theresa 40an
 l3	row	filius Marcianus 18an
@@ -9,12 +9,12 @@ l5	row	Vincentius 3an
 l6	row	Helena 14an
 l7	row	a) Josephus Malinovski 27an
 l8	row	ux Helena 30an
-l9	row	famulus Casimirus Jankajtis 29an
-l10	row	filius Muppolitus? 3an
+l9	row	famulus Casimirus Jankajtis 19an
+l10	row	filius Hyppolitus 3an
 l11	row	Amelia 6an
 l12	row	Casimira 2
 l13	row	mater Juliana Davoltienie 53an
-l14	row	31 herus Petrus Machovecki 58an
+l14	row	31 herus Petrus Machoveckis 54an
 l15	row	ux Anna 35an
 l16	row	filius Stanislaus 18an
 l17	row	Josephus 16an
@@ -24,16 +24,16 @@ l20	row	Zuzanna 23an
 l21	row	Monica 8an
 l22	row	Juliana 6an
 l23	row	famula Helena Bernoticze 17an
-l24	note-above	hers
-l25	row	32 Matheus Derżinski 40an
-l26	row	pater Josephus 50an
-l27	row	soror Elisabelh? 52an
+l24	note-above	herus
+l25	row	32 Matheus Derżinskis 40an
+l26	row	frater Josephus 50an
+l27	row	soror Elisabeth 52an
 l28	row	Barbara 25an
 l29	row	Eleonora 23an
 l30	row	Anna 21an
 l31	row	famulus Vincentius Butkus 28an
 l32	row	Franciscus Janovicz 13an
-l33	row	her
+l33	row	herus
 l34	row	80
 l35	row	33 Josephus Butautis 52an
 l36	row	ux Helena 60an
@@ -50,17 +50,17 @@ l46	row	Dominicus Krisczunas 11an
 l47	row	Alexandra Adomajticze 21an
 l48	row	Apalonia Żakicze 9an
 l49	struck	8
-l50	row	Pabalej?
+l50	row	Pabalej:
 l51	row	1 Joannes Walis 41
 l52	row	ux Helena 40
 l53	row	filius Stanislaus 10
 l54	row	II Dominicus 9
 l55	row	III Joseph 3
 l56	row	IV Joannes 1
-l57	row	filiae Gephrozina? 7an
+l57	row	filiae Euphrosina 7
 l58	row	II Sophia 5
-l59	row	2 Vincentius Bujszas c 27
-l60	note-below	10
+l59	row	2 Vincentius Bujszas 27
+l60	note-below	c
 l61	row	mater Elisabeth vd 67
 l62	row	ux Maria 30
-l63	row	3 Joseph Stulpinski 44
+l63	row	3 Joseph Stulpinski 47

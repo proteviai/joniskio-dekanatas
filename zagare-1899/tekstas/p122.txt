@@ -1,6 +1,6 @@
 # skenas = 0122
-# busena = mach
-# eScriptorium = dok. 3, 0122 atsakyta [segReady seg8a]
+# busena = ok
+# eScriptorium = dok. 3, 0122 baigta [segReady seg8a]
 l1	row	4 Germanus Rozenbach 53an
 l2	row	ux Angela 45an
 l3	row	a Franciscus Barkovskis 40an
@@ -37,7 +37,7 @@ l33	row	Julianus 6an
 l34	row	Zigmuntus 5an
 l35	row	Josepha 16an
 l36	row	Monica 13an
-l37	row	Susanna Riugszildienie 8an
+l37	row	Susanna Riugszildienie 18an
 l38	row	filius Leo 1an
 l39	row	a Josephus Daugmandis 33an
 l40	row	ux Anna 27an

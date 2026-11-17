@@ -73,7 +73,7 @@ l69	row	filia Juljanna 9
 l70	row	15 Stephanus Szolkowski 35
 l71	margin-note	accu
 l72	margin-note	sav
-l73	row	Barbora Helena 38
+l73	row	(Barbora) Helena 38
 l74	row	filius Stephanus 12
 l75	row	II Joseph 8
 l76	margin-note	Zachara.

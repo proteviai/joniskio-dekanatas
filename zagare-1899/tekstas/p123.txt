@@ -1,11 +1,11 @@
 # skenas = 0123
-# busena = mach
-# eScriptorium = dok. 3, 0123 klausimai [segReady seg8a]
+# busena = ok
+# eScriptorium = dok. 3, 0123 baigta
 l1	row	2 Adamus Rankovski 38an
 l2	row	ux Juliana 21an
 l3	row	a) Joannes Gedartas 60an
 l4	row	ux Anna 70an
-l5	row	3) Vincentius Kacskis 22an
+l5	row	3) Vincentius Kacskis 27an
 l6	row	ux Susanna 25an
 l7	row	a Thadeus Gasparajtis 42an
 l8	row	ux Anna 45an
@@ -18,7 +18,7 @@ l14	row	Zuzanna 3an
 l15	row	4 Davidus Kukulis 60an
 l16	row	ux Juliana 50an
 l17	row	filia Anna 19an
-l18	row	a) Franciscus Czepinskis 22an
+l18	row	a) Franciscus Czepinskis 42an
 l19	row	ux Martha 27an
 l20	row	filius Stanislaus 7an
 l21	row	Alexander 6an
@@ -39,8 +39,8 @@ l35	row	b Marianna Grinicze 40an
 l36	row	c Veronica Juriaviczienie 40an
 l37	row	filius Anna 9an
 l38	row	Boleslaus 5an
-l39	row	d) Ignatius Szlods 80an
-l40	row	a) Marcianus Jezopovicz 50an
+l39	row	d) Ignatius Szlids 80an
+l40	row	e) Marcianus Jezopovicz 50an
 l41	row	7 Antonius Tovstvojsz 45an
 l42	row	ux Anna 40an
 l43	row	filia Malvina 18an
@@ -52,18 +52,18 @@ l48	row	ux Elisabeth 40an
 l49	row	filia Juliana 11an
 l50	row	9 Franciscus Gaubert 30an
 l51	row	ux Helena 26an
-l52	row	filius Albinus 4an
-l53	row	Helena 3an
-l54	row	Victoria 1an
-l55	row	Hedvica? 1an
+l52	row	filius Albinus 3an
+l53	row	Helena 4an
+l54	row	Victoria 3an
+l55	row	Hedviga 1an
 l56	row	10 Vincentius Virbickas 38an
 l57	row	ux Anna 35an
 l58	row	filius Alexander 7an
 l59	row	Zuzanna 1an
-l60	row	Adomus Virbreki 27an
+l60	row	Adomus Virbicki 27an
 l61	row	11 Joannes Gricius 40an
 l62	row	ux Agatha 32an
-l63	row	filius FZrancrsus? 4an
+l63	row	filius Franciscus 9an
 l64	row	Joanna 3an
 l65	row	Anna 1an
 l66	row	soror Dorotha Czechanovska 25an

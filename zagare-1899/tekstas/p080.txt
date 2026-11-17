@@ -1,6 +1,6 @@
 # skenas = 0080
-# busena = mach
-# eScriptorium = dok. 3, 0080 atsakyta [segGT auto1]
+# busena = ok
+# eScriptorium = dok. 3, 0080 baigta [segGT auto1]
 l1	row	filia Elisabeth 8an
 l2	row	15 Herus Vincentius Norvajsz 68an
 l3	row	ux Helena 67an

@@ -10,7 +10,7 @@ l6	row	Mariana Jasutis vd 80
 l7	row	Barbara Jasiunas vd 54
 l8	row	filia Helena 19
 l9	row	Joannes Szawlis 20
-l10	row	Alexandr Diokas 20
+l10	row	Alexander Diokas 20
 l11	row	Alexander Szawlis 12
 l12	row	Michael
 l13	row	Helena Dovejko 16

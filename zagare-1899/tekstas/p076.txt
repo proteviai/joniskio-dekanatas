@@ -29,7 +29,7 @@ l25	row	filia Emilia 1
 l26	row	Heva Lekas 17
 l27	row	Marcianus Lekas vd 65
 l28	row	Helena Żakicze 19
-l29	row	9 Herus Joseph Kajcus 54
+l29	row	9 Herus Joseph Kajens 54
 l30	row	ux Barbara 50
 l31	row	filius Alexandr 20
 l32	row	II Casimirus 17

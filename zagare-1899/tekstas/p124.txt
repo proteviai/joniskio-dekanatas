@@ -1,6 +1,6 @@
 # skenas = 0124
-# busena = mach
-# eScriptorium = dok. 3, 0124 klausimai [segReady seg8a]
+# busena = ok
+# eScriptorium = dok. 3, 0124 baigta
 l1	row	12.) Thadeus Janovicz 35an
 l2	row	ux Marianna 30an
 l3	row	filius Franciscus 13an
@@ -23,7 +23,7 @@ l19	row	pater Anna Kavalienie 60an
 l20	row	b Juliana Gabert 23an
 l21	row	15 Herus Marcianus Kiliszewski 35
 l22	row	ux Anna de Załoga 27
-l23	row	Chcczia miee Bukhalter
-l24	row	przy banku: Stanisław
-l25	row	Korwodowski Peche Kuszava
+l23	row	Chce~~sis~~mice Bushhaltera
+l24	row	przy banku: Stanislaw
+l25	row	Borwodowski. Poeta Kurszavra
 l26	page-number	122

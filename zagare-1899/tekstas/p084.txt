@@ -1,9 +1,9 @@
 # skenas = 0084
-# busena = mach
-# eScriptorium = dok. 3, 0084 klausimai [segReady auto1]
+# busena = ok
+# eScriptorium = dok. 3, 0084 baigta
 l1	row	4 Joseph Tomaszewski 62
 l2	note-below	vd
-l3	note-below	Shob?
+l3	note-below	S.her.
 l4	row	filius Joseph 19
 l5	row	II Joannes 17
 l6	row	III Antonius 21
@@ -17,7 +17,7 @@ l13	row	ux Helena 50
 l14	row	filius Joseph 13
 l15	row	filia Juljana 10
 l16	row	Barbara Szymkus 30
-l17	note-below	47o
+l17	note-below	vgo
 l18	row	6 Herus Vincentius Towtwojsz 56
 l19	row	ux Barbara 50
 l20	row	filiae Elisabeth 30
@@ -29,14 +29,14 @@ l25	row	Antonius Bujszas 23
 l26	row	Clemens Stasiulis 21
 l27	row	Albinus Macis 20
 l28	row	Heva Gedrius 15
-l29	row	f Sehor? Joseph Rauckius 37
+l29	row	7 Seher Joseph Rauckius 31
 l30	row	ux Anna 32
 l31	row	filius Ladislaus 1
 l32	row	b Casimirus Błazas vd 56
 l33	row	Joseph Butkus 21
 l34	row	Mariana Rudis 18
 l35	row	Monica Skrypkus 17
-l36	row	Sophia Cleminkas 11
+l36	row	Sophia Cuszinskas 11
 l37	row	8 Herus Vincentius Kardiuszis
 l38	wrapped	50
 l39	row	ux Helena 40
@@ -48,16 +48,16 @@ l44	row	IV Stephanus 5
 l45	row	V Constantinus 2
 l46	row	filiae Helena 7
 l47	row	Marcianus Adomajtis 20
-l48	row	Monica Szuorko 18
+l48	row	Monica Sziurko 18
 l49	row	Marta Kawalas vd 60
-l50	row	9 Sater? Stanislaus Bajszas
+l50	row	9 Semher Stanislaus Bajszas
 l51	wrapped	41
 l52	row	ux Ludvina 33
 l53	row	filius Joseph 6
 l54	row	II Stephanus 2
 l55	row	filiae Anna
-l56	row	II Ladoina? 5
-l57	row	Thaldoeus? Crkovski a 8
+l56	row	II Ludwina 5
+l57	row	Thaddaeus Czerkowski 28
 l58	row	Martha Skrypkus 19
 l59	row	Mariana Stankus 19
 l60	row	10 Semher Joseph Malis 61
@@ -69,7 +69,7 @@ l65	row	Stanislaus Dowidajtis 12
 l66	row	11 Dominicus Adomajtis 35
 l67	row	ux Monica 26
 l68	row	filius Stanislaus 4
-l69	row	II Leonardus? 2
+l69	row	II Leonardus 2
 l70	row	III Vincentius 1
 l71	row	Helena Adomajtiene 60
 l72	row	filia Monica Adomajticze

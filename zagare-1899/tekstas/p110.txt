@@ -1,34 +1,34 @@
 # skenas = 0110
-# busena = mach
-# eScriptorium = dok. 3, 0110 klausimai [segReady seg8a]
+# busena = ok
+# eScriptorium = dok. 3, 0110 baigta [segReady seg8a]
 l1	row	10 Vincentius Adomajtis 70an
 l2	row	ux Anna 60an
 l3	row	filius Franciscus 17an
 l4	row	Barbara 15an
 l5	row	a Vincentius Doveiko 66an
-l6	row	ux Elilabeth? 50an
+l6	row	ux Elisabeth 50an
 l7	row	filius Thadeus 12an
 l8	row	Paulus 10an
 l9	row	Anna 14an
-l10	row	c Antonius Szimnus 33an
+l10	row	c Antonius Szimkus 33an
 l11	row	ux Marianna 29an
 l12	row	filia Marianna 11an
-l13	row	soror Heva Ziauricze 20an
+l13	row	soror Heva Żiauricze 20an
 l14	row	d Marianna Adomajticze 30an
-l15	row	4 Josephus Sabaczewski 60an
+l15	row	11 Josephus Sabaczewski 60an
 l16	row	ux Agnes 65an
 l17	row	12 Josephus Tovtvojsz 60an
-l18	row	ux Elmira? 56an
+l18	row	ux Elmira 56an
 l19	row	filius Victor 15an
 l20	row	Emilia 28an
 l21	row	a Josephus Savickas 70an
 l22	row	ux Anna 68an
 l23	row	filius Marcianus 50an
 l24	row	filius Felix 24an
-l25	row	13 Joannes Matkajtis 60an
-l26	row	ux Barbara 80an
+l25	row	13 Joannes Matkajtis 50an
+l26	row	ux Barbara 50an
 l27	row	filius Georgius 10an
-l28	row	Antonius 52an
+l28	row	Antonius 5an
 l29	row	a Dominicus Mituzas 60an
 l30	row	ux Eleonora 48an
 l31	row	c Vincentius Dvelis 80an
@@ -49,7 +49,7 @@ l45	row	ux Rosalia 40an
 l46	row	filius Leo 19an
 l47	row	Apalonia 18an
 l48	row	d Monika Jaras 21an
-l49	row	15 Ranzovni? pralerini niałan
+l49	row	15 Rankovski pralerium nalan
 l50	row	16 Antonius Strockis 30an
 l51	row	ux Stanislaa 27an
 l52	row	filia Amelia 3an

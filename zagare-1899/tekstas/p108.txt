@@ -1,17 +1,17 @@
 # skenas = 0108
-# busena = mach
-# eScriptorium = dok. 3, 0108 klausimai [segReady seg8a]
-l1	row	b) Vincentius Sadeckis 24an
+# busena = ok
+# eScriptorium = dok. 3, 0108 baigta
+l1	row	b) Vincentius Gadeckis 24an
 l2	row	ux Catherina 24an
-l3	note-above	at
-l4	row	a) Marcianus Siedzius 58an
-l5	row	ux Lisa? Cuteraika 46an
-l6	note-above	cab
+l3	note-above	cat
+l4	row	c) Marcianus Liedżius 58an
+l5	row	ux Lisa luteranka 46an
+l6	note-above	cat
 l7	row	filius Vincentius 23an
-l8	row	Annacat? 18an
+l8	row	Anna cat 18an
 l9	note-above	cat
-l10	row	privgna Marianna 16an
-l11	row	23) Josephus Ziauris 58an
+l10	row	sp.kirch. Marianna 16an
+l11	row	23) Josephus Żiauris 58an
 l12	row	ux Monica 40an
 l13	row	filius Benedictus 15an
 l14	row	Monica 12an
@@ -23,27 +23,27 @@ l19	row	b Leo Limans 57an
 l20	row	ux Eleonora 47an
 l21	row	filius Vincentius 2an
 l22	row	Joannes Mikalauckas 29an
-l23	row	c) Veronica Lubavicz 20an
+l23	row	c) Veronica Zubavicz 20an
 l24	row	mater Petronella 80an
-l25	row	vir Franciscus 54an
+l25	row	vir. Franciscus 59an
 l26	row	d Thomas Gasparajtis 61an
 l27	row	ux Juliana 40an
 l28	row	filius Casimirus 16an
 l29	row	Josephus 12an
 l30	row	Juliana 18an
-l31	row	c) Josephus Gasparaitis 17an
+l31	row	e) Josephus Gasparaitis 67an
 l32	row	ux Anna 40an
 l33	row	filia Magdalena 18an
 l34	row	Marianna 8an
 l35	row	Barbara 25an
-l36	row	24) Josephus Boginski 68an
+l36	row	24 Josephus Viginski 68an
 l37	row	ux Helena 58an
 l38	row	filius Antonius 26an
 l39	row	a Joannes Bilius 70an
 l40	row	ux Magdalena 70an
 l41	row	b Franciscus Balakas 80an
 l42	row	ux Helena 90an
-l43	row	g) Josephus Birutis 14an
+l43	row	c) Josephus Birutis 14an
 l44	row	25 Josephus Prejkszas 48an
 l45	row	ux Barbara 43an
 l46	row	filius Josephus 20an
@@ -63,4 +63,5 @@ l59	row	a) Justina Tovtvajszicze 17an
 l60	row	Malvina 18an
 l61	row	pater Antonius 45an
 l62	row	ux Anna 36an
-l63	row	a) Josephus Demensto 12an
+l63	row	c) Josephus Demensts 12an
+l63a	page-number	106

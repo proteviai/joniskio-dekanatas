@@ -1,6 +1,6 @@
 # skenas = 0113
-# busena = mach
-# eScriptorium = dok. 3, 0113 klausimai [segReady seg8a]
+# busena = ok
+# eScriptorium = dok. 3, 0113 baigta [segReady seg8a]
 l1	row	30.) Josephus Szidlovski 50an
 l2	row	ux Martha 40an
 l3	row	filius Ignatius 13an
@@ -22,7 +22,7 @@ l18	row	Anna ~~17~~3an
 l19	row	Martha 5an
 l20	row	a Sophia Mickievicz 30an
 l21	row	b) Anna Jasapajticze 30an
-l22	row	filia Apelonia? 13an
+l22	row	filia Apalonia 13an
 l23	row	32.) Dominicus Tovtvojszas 35an
 l24	row	ux Theodora 25an
 l25	row	filius Casimirus 3an
@@ -41,7 +41,7 @@ l37	row	filius Leo 16an
 l38	row	Marianna 19an
 l39	row	34.) Marcianus Ornażis 40an
 l40	row	ux Barbara 39an
-l41	row	nug Vladislaus Niukas 5an
+l41	row	aug. Vladislaus Niukas 5an
 l42	row	a Josephus Pukinski 32an
 l43	row	ux Barbara 34an
 l44	row	filius Joannes 5an
@@ -52,11 +52,11 @@ l48	row	ux Helena 50an
 l49	row	filia Marianna 15an
 l50	row	a Barbara Kibartienie 80an
 l51	row	filia Anna 50an
-l52	row	b Casimirus Gulbons 50an
+l52	row	b Casimirus Gulbins 50an
 l53	row	ux Marianna 40an
 l54	row	filius Clemens 16an
 l55	row	Josephus 14an
-l56	row	Vladislaus 14an
+l56	row	Vladislaus 13an
 l57	row	Zuzanna 15an
 l58	row	36 Anna Szliażevicz 69an
 l59	row	filia Justina Tovtvojszienie 33an

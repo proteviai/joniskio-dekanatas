@@ -1,6 +1,6 @@
 # skenas = 0077
-# busena = mach
-# eScriptorium = dok. 3, 0077 atsakyta [segReady auto1]
+# busena = ok
+# eScriptorium = dok. 3, 0077 baigta [segReady auto1]
 l1	row	II Valeria 1
 l2	row	Joseph Norwajsz 50
 l3	row	Eleonora Mickus vgo 19

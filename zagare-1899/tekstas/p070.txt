@@ -18,7 +18,7 @@ l14	row	21 Herus Georgius Jasutis 47
 l15	note-below	dec.
 l16	row	ux Eleonora 34
 l17	row	filius Joseph 16
-l18	row	II Casimira 12
+l18	row	II Casimirus 12
 l19	row	filiae Helena 21
 l20	row	II Angela 19
 l21	row	III Mariana 17

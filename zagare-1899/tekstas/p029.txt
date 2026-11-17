@@ -1,6 +1,6 @@
 # skenas = 0029
-# busena = mach
-# eScriptorium = dok. 3, 0029 atsakyta [segGT]
+# busena = ok
+# eScriptorium = dok. 3, 0029 baigta [segGT]
 l1	row	Custos Silvae:
 l2	row	Joseph Marcinkiewicz 78
 l3	row	ux. Catharina 64.

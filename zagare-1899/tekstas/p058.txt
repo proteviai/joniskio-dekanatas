@@ -1,11 +1,11 @@
 # skenas = 0058
-# busena = mach
-# eScriptorium = dok. 3, 0058 paruošta [segReady auto1]
+# busena = ok
+# eScriptorium = dok. 3, 0058 baigta [segReady auto1]
 l1	row	9 Herus Josephus Szalkovski 26an
 l2	row	ux Barbara 23an
 l3	row	filia Antonina - 3an
 l4	row	mater Juliana 65an
-l5	row	famulus Stanislaus Micloszius - 15an
+l5	row	famulus Stanislaus Micloszius - 13an
 l6	row	a) Josephata Vajtiekunicze - 80an
 l7	row	10 herus Casimirus Jurgajtis 35an
 l8	row	ux. Anna - 24an
@@ -46,7 +46,7 @@ l42	row	Francisca 2an
 l43	row	mater Helena 80an
 l44	row	famulus Alexander Adomajtis 17an
 l45	row	Apalonia Navogrockicze - 20an
-l46	row	Marianna Kaczkicze - 18an
+l46	row	Marianna Kaczkicze - 15an
 l47	note-above	famulus
 l48	row	15 arend. Antonius Doviltis 30an
 l49	row	herus Ignatius Romaszevski 56an

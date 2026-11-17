@@ -1,11 +1,11 @@
 # skenas = 0114
-# busena = mach
-# eScriptorium = dok. 3, 0114 klausimai [segReady seg8a]
+# busena = ok
+# eScriptorium = dok. 3, 0114 baigta
 l1	row	filius Joannes 12an
 l2	row	b) Joannes Jankievicz 30an
 l3	row	ux Juliana 27an
 l4	row	37 Ursula Nagliovienie 73an
-l5	row	filius Alexander 25an
+l5	row	filius Alexander 45an
 l6	row	38 Joannes Żigulis 58an
 l7	row	ux Veronica 38an
 l8	row	filius Alexander 12an
@@ -14,9 +14,9 @@ l10	row	Petrus 7an
 l11	row	Victoria 16an
 l12	row	Sophia 15an
 l13	row	Josepha 8an
-l14	row	39 Apolinarius Kaczenovski 54an
+l14	row	39 Apolinarius Kuczenovski 59an
 l15	row	filia Sophia 23an
-l16	row	40 Franciscus Pugvillo 45an
+l16	row	40 Franciscus Bugvillo 45an
 l17	row	ux Sophia 30an
 l18	row	filius Julianus 4an
 l19	row	Francisca 1an
@@ -25,8 +25,8 @@ l21	row	Casimirus Romanovski 25an
 l22	row	Heva Czepkasajtie 18an
 l23	row	Angela Lavcievicz 60an
 l24	page-number	112
-l25	row	Kantora?
-l26	row	1. transksluvium: Marcianus Rudis 51
+l25	row	Kantora
+l26	row	1. transfluvium: Marcianus Rudis 51
 l27	row	ux Anna 40
 l28	row	filius Marcianus 17
 l29	row	II Casimirus 6
@@ -57,7 +57,7 @@ l53	row	II Helena 26
 l54	row	b Michael Lubowski 24
 l55	row	ux Susanna 22
 l56	row	filia Susanna 3
-l57	row	c) Marianna Czepa 29
+l57	row	c) Marianna Czepas 29
 l58	row	ux Cristina 26
 l59	row	filia Juljanna 1
 l60	row	Georgius Czepa 67
